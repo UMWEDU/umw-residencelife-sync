@@ -1,0 +1,72 @@
+---
+ID: 95
+post_title: Summer Housing
+author: mesch
+post_date: 2016-01-29 16:34:46
+post_excerpt: ""
+layout: page
+permalink: >
+  http://www.umw.edu/residencelife/on-campus/summer-housing/
+published: true
+---
+Summer Housing 2016 is in Eagle Landing (double rooms) only, conveniently located near many great businesses.
+
+Access the <a href="https://orgsync.com/59554/forms/71368">Summer 2016 Housing and Dining Services Agreement application</a> through MyUMW.  It must be submitted electronically no later than April 3, 2016 to participate in the first-round of approval and housing assignments. Students will be notified by April 13 of their housing assignments. All applications received after April 3 will be approved and assigned on a rolling basis.  Review the terms of the Agreement below.  Should you have any questions about summer housing, please contact Assistant Director of Residence Life Brittany Harper, at <a href="mailto:bharper2@umw.edu">bharper2@umw.edu</a>.
+<h2>Summer Housing Agreement Terms</h2>
+(1)  Submitting an online <a href="http://students.umw.edu/residencelife/summer">application form</a> is essential to notify the Office of Residence Life of your request for housing. The application must be submitted electronically no later than April 3, 2016, to participate in the first round of approval and housing assignments. Students will be notified by April 13 of their housing assignments. All applications received after April 3 will be approved and assigned on a rolling basis.
+
+(2) Summer housing assignments will be in Eagle Landing. These apartments contain bedroom furniture (bed, dresser, desk, desk chair, closet, and floor lamps) and minimal living room furniture. Each apartment has two bedrooms, each with its own bathroom, a full oven/stove, dishwasher, microwave, and large refrigerator. All have central air conditioning. Mini-fridges are not permitted in the apartments.  Each bedroom houses two individuals (four students per apartment).
+
+(3) Furniture should not be removed from the room assignment. If a student owns a limited amount of additional furniture he/she would like to include in the room, it will need to be rearranged  or stored in a place for unwanted furniture within the assignment. Inflatable furniture, bean bag chairs, and exercise (i.e., treadmills) and recreational (i.e., ping pong tables) equipment are not permitted. Upholstered furniture must be fire retardant.  Extension cords except multiple outlet types with  built-in fuse and surge protectors, are prohibited. Other important items prohibited in residences are listed in the Student Handbook.
+
+(4) Occupants are expected to keep their rooms clean and orderly at all times. Trash is to be placed in appropriate receptacles. Residents are responsible for notifying Residence Life staff immediately upon discovering any deteriorated or altered room conditions.
+
+(5) Facility-related work order requests need to be reported immediately to UMW Facilities Services by the resident. Any non-emergency facilities work requests must be made through MyUMW. Any disaster, unusual occurrence, utility malfunction or equipment failure presenting an imminent danger to life, health, or property is an emergency and should be reported immediately to Facilities Services at (540) 654-2078 or via the main number (540) 654-1047. If it is after normal working hours, contact University Police at (540) 654-1025. University Police will have staff available seven days a week/24 hours a day to assist students in campus residences over the summer. To contact UMW Police, call (540) 654-1025.
+
+(6) Summertime is a busy time on campus. Facilities staff personnel use this time to repair and replace, paint, update, and complete various projects. Some of this may cause a temporary disruption of service and inconvenience to students including the possibility of relocation. The University attempts to provide advance notice, but this is not always possible. During the summer, the campus has also been known to experience severe weather, resulting in power outages. At times, furniture is replaced during the summer, and coordinating the removal of the old and installation of the new may result in an inconvenience to students.
+
+(7) Students with a key or lock issue (such as a lost, stolen, or misplaced their key or a lock that is not functioning properly) should go to Brent House immediately to file a Police Report. This will initiate a locksmith work order request. Students should not complete a facilities work order request on their own; it will not be completed without a Police Report number.  The replacement charge for Eagle Landing keys is $125.
+
+(8) Living on campus during any part of the summer is a privilege. Failure to comply with all listed expectations could result in immediate removal from housing. Students agree to live in the location assigned and not participate in unapproved room changes.
+
+(9) The Office of Residence Life will be available during most weekdays from 8 a.m. to 5 p.m. (when the University is open for business) to handle immediate concerns. To contact the Office of Residence Life, students should call (540) 654-1058 or email <a href="mailto:reslife@umw.edu">reslife@umw.edu</a>. Resident Assistants will be available via the RA Eagle Landing duty cell phone at (540) 623-0978 during published duty times.  To contact staff at the Eagle Landing Front Desk, dial (540) 654-2458.
+
+(10) General Provisions and Conditions of Occupancy: Students are responsible for observing all regulations contained in the Academic Catalog,by the University of Mary Washington, in the Student Handbook, and issued through the Office of Residence Life.  Every student should read and adhere to the <a href="http://students.umw.edu/judicialaffairs/the-judicial-system/code-of-conduct">Student Code of Conduct</a> and the <a href="http://publications.umw.edu/student-handbook">Student Handbook</a>.  All housing-related policies are in effect during the summer.
+
+(11) The cost for summer session housing is as follows: a single room for one summer session is $1,193, and a double room for one summer session is $973 . A single room for both summer sessions is $2,386, and a double room for both summer sessions is $1,946.  Because of limited space availability, double rooms will be standard for all residents except in rare cases (such as a medical condition) requested by the student and approved by Residence Life. Students may request consideration by emailing <a href="mailto:reslife@umw.edu">reslife@umw.edu</a> with an explanation of urgent circumstances.
+
+(12)  Some students are being “sponsored” by a UMW department, where the student has been notified that the cost of housing will be covered by that department.  For example, the charge for housing and dining plans for Residence Life’s Resident Assistants and Summer Conference Assistants is covered by the University.  It is vital that students communicate with their sponsor regarding the amount of days covered and not covered (for instance, extended housing before and after the summer sessions).  If a student has on their account the charge of housing and they believe it should be covered by their sponsor, the student should communicate with their sponsor as soon as possible.
+
+(13) Summer session 1 housing is from May 15 until June 19.  Students permitted to stay on campus through May 13 who have summer housing assignments in Eagle Landing will need to move on May 13 to their summer housing assignment.  Students will need to pick up their new key from the Eagle Landing front desk between 8 a.m. and 10 a.m., and move into their new assignment. They must return their old key to the Eagle Landing front desk before 6 p.m. to properly check out. Students who have summer housing assignments in Eagle Landing who are not on campus on May 13 may pick up their new key from the Eagle Landing Front Desk on either Saturday, May 14, or Sunday, May 15, between 8 a.m. and 8 p.m.  Because the USMC Historic Half Marathon is planned for Sunday, May 15, and may impact traffic, we recommend all students move in the Friday before (on May 13).
+
+Move out for those with summer session 1 only housing will be by 10 a.m. on Friday, June 17.
+
+Summer session 2 only housing is from June 19 to July 22.  Move in will begin at 2 p.m. on Sunday, June 19.  Move out will end at 10 a.m. on Friday, July 22.
+
+Students with special circumstances or classes beginning outside these dates who require special consideration will need to email <a href="mailto:reslife@umw.edu">reslife@umw.edu</a> with details.
+
+(14) Extended Stay:  Students have the opportunity on their Summer 2016 Housing and Dining Services Agreement to elect to stay in their Spring 2016 housing assignment until it is time to move into their Summer 1 housing assignment (for an additional charge of $360).  Also available to select on the Agreement is extended housing at the end of summer session 2 housing (after July 22) until fall classes begin (for an additional charge of $780).  Students not selecting and paying for extended housing are required to move all belongings during this period of time.  The per person cost for each individual’s housing assignment during the period of time when summer sessions are not taking place (May 1 through 13, and July 23 through August 19) is $30 per day.  Students are required to follow <a href="http://students.umw.edu/residencelife/closing">proper extended stay procedures</a>.
+
+(15) Students must move in/check in and move out/check out of their housing assignment during the proper date and times (with Resident Assistants or Eagle Landing Desk Attendant staff, as directed). Any student who improperly checks out and/or does not return their key(s) will incur improper check-out and key charges.
+
+(16) When checking out of their housing assignment, students must leave the space in the same condition that they found it in or better. Specifically, rooms should be cleaned, garbage removed, floors vacuumed and swept, and furniture tops dusted.
+
+(17) Students must choose between two summer board dining plans:  a 50-meal block ($365 per summer session) or a 30-meal block ($250 per summer session).  (Some rare exceptions are made, as in the case of the Summer Science Institute.  Some employers, such as Residence Life, include this cost in the employment benefits.)
+
+(18) Desired/requested roommates and apartment-mates must request each other on their applications. Placements are completed according to application preferences during the first round (April 3 due date).
+
+(19) The University reserves the right to reassign, remove, or suspend (pending review) from the residence halls any student whose conduct exhibits disregard for the residential community, who violates the terms and conditions of residence hall occupancy, or who violates other University rules and regulations. The Dean of Student Life and/or designee will make such determinations.
+
+(20)  Room changes are not permitted for summer assignments.  Vacancies will be filled as new requests for housing are submitted.  Students in a double room with a vacancy are expected to keep the space clean and clear, ready to receive a new occupant at any time.  Students must accept a new occupant as assigned by the Office of Residence Life. The Office of Residence Life may not have time to notify students they will be getting a new roommate or suitemate.  Staff will regularly check the vacancy to ensure it is ready to receive a new roommate; if the space is found to be unavailable for a new resident, a $100 fine will be assessed to the student (after a warning of such is first provided).  Behavior which discriminates against or impedes an interested student or assigned occupant will be considered sufficient grounds for disciplinary action, including reassignment or removal from the residence halls, without refund, as determined by the Director of Residence Life or his/her designee.  The University reserves the right to change room assignments at its discretion at any time, including but not limited to consolidation of room assignments.  The Office of Residence Life reserves the right to consolidate space/vacancies in order to accommodate any student.
+
+(21) All spaces during the summertime are subject to fire drills, testing of fire equipment, Room Condition Report inspections, air filter changes, health and safety inspections, and maintenance repairs.
+
+(22) Belongings left in rooms during times not assigned will be considered abandoned and/or discarded, and charges will be assessed to the student’s account. In addition, the student may face judicial action and will be assessed a charge of $100 a day.
+
+(23) Bicycles are typically collected during summer months by University Police. Anyone with a bike on campus should ensure it is registered and be are aware of best practices for keeping it safe.
+
+(24) Students on campus for only part of the summer should communicate with campus mail services regarding having their mail forwarded while not on campus.
+
+(25)  Should a student wish to cancel this Housing Agreement, it must be requested in writing to <a href="mailto:reslife@umw.edu">reslife@umw.edu</a> as soon as possible.  Housing charges would be prorated for the number of days present.
+
+(26)  The University may terminate this Agreement and take possession of the room at any time upon (A) violation of the provisions of this Agreement; (B) the direction of a duly authorized judicial body, dean, or other officer of the University; or (C) suspension or expulsion from the University.
