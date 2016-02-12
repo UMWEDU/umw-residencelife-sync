@@ -21,6 +21,7 @@ If you don’t currently live on campus, but want to know what it’s like to li
 <ul>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/">Housing Procedures</a>
 <ul>
+	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/break-housing/">Break Housing</a></li>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/changes/">Changes to housing assignments</a></li>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/intent-to-vacate/">Intent to Vacate</a></li>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/current-students-termination-of-housing-agreement/">Termination of Housing Agreement</a></li>
@@ -55,7 +56,6 @@ If you don’t currently live on campus, but want to know what it’s like to li
 <ul>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/">Housing Procedures</a>
 <ul>
-	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/break-housing/">Break Housing</a></li>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/extended-stay-housing/">Extended Stay Housing</a></li>
 </ul>
 </li>
