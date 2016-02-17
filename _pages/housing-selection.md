@@ -16,7 +16,7 @@ published: true
 	<li>Mar 7-11: Pre-Process Housing Selection<strong>*</strong></li>
 	<li>Mar 13: Housing and Dining Services Application due for all other students</li>
 	<li>Mar 26 Morning: Eagle Landing Double Occupancy Selection</li>
-	<li>Mar 26 Afternoon: Main Housing Selection Day</li>
+	<li>Mar 26 Afternoon: Room Selection Day.  For detailed information about how to select your room, go to <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/details/">housing selection details</a>.</li>
 	<li>Mar 28: Assign anyone who did not select during housing selection</li>
 </ul>
 <strong>*Pre-process selection is reserved for students in the following categories and their roommate/suite-mates.</strong>  (Medical Accommodations, Theme Housing, AC Accommodations, Resident Assistants, My Room My UMW contest winners, Gender Neutral Housing, Homesteading, Mixed-Sex Suites in Eagle Landing.)  Additional information will be emailed to students regarding the selection process.
