@@ -15,8 +15,7 @@ published: true
 	<li>Feb 26: Housing and Dining Application Priority Deadline for Pre-process participants<strong>*</strong></li>
 	<li>Mar 7-11: Pre-Process Housing Selection<strong>*</strong></li>
 	<li>Mar 13: Housing and Dining Services Application due for all other students</li>
-	<li>Mar 26 Morning: Eagle Landing Double Occupancy Selection</li>
-	<li>Mar 26 Afternoon: Room Selection Day.  For detailed information about how to select your room, go to <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/details/">housing selection details</a>.</li>
+	<li>Mar 26 All Day: Room Selection Day.  For detailed information about how to select your room, go to <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/details/">housing selection details</a>. (Eagle Landing has been condensed into this larger process.)</li>
 	<li>Mar 28: Assign anyone who did not select during housing selection</li>
 </ul>
 <strong>*Pre-process selection is reserved for students in the following categories and their roommate/suite-mates.</strong>  (Medical Accommodations, Theme Housing, AC Accommodations, Resident Assistants, My Room My UMW contest winners, Gender Neutral Housing, Homesteading, Mixed-Sex Suites in Eagle Landing.)  Additional information will be emailed to students regarding the selection process.
@@ -35,7 +34,7 @@ published: true
 </ol>
 Learn how to <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/navigating-symplicity/">Navigate Symplicity Residence</a>.
 <h2>Housing Selection Highlights</h2>
-<strong>Housing Selection will consist of 3 processes:</strong>  Pre-Process selection, Eagle Landing Double Occupancy selection, and Main Housing selection.
+<strong>Housing Selection will consist of 2 processes:</strong>  Pre-Process selection, and Main Housing selection.
 
 <strong>Each student will receive a housing selection appointment time  based on class standing and the date of housing agreement submission.</strong>  Eg.  Students who have more credit hours and submitted their housing agreement earlier will have better times.
 
