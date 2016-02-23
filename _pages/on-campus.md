@@ -11,7 +11,7 @@ published: true
 wpcf-homepage-copy:
   - |
     <a title="Resources for resident students" href="/residencelife/on-campus/">Forms and information</a> for those currently living on campus.
-    <div class="CTAbutton CTAgreen" style="margin-top: 1em;"><a href="/residencelife/on-campus/life/">Life in the Halls</a></div>
+    <div class="CTAbutton CTAgreen" style="margin-top: 1em"><a href="/residencelife/on-campus/life/">Life in the Halls</a></div>
 ---
 Throughout the year, students and families seek information about living in the residence halls. If you currently live on campus, this page will guide you in what forms and information are active and that Residence Life is seeking from you.
 
