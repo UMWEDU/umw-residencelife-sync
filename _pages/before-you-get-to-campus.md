@@ -13,7 +13,7 @@ wpcf-home-page-grid-inclusion:
 wpcf-homepage-copy:
   - |
     <a href="https://www.umw.edu/residencelife/before-you-get-to-campus/">Forms and information</a> about living on campus next year for all students.
-    <div class="CTAbutton CTAblue" style="margin-top: 1em;"><a href="/residencelife/before-you-get-to-campus/housing-selection/">Housing Selection</a></div>
+    <div class="CTAbutton CTAblue" style="margin-top: 1em"><a href="/residencelife/before-you-get-to-campus/housing-selection/">Housing Selection</a></div>
 ---
 Even if you already live on campus, the information about on campus living for 2016-2017 can be found here. From housing selection to bed bunking/lofting, and move in, we have the pages and forms you seek.
 <div class="one-half first">
@@ -56,7 +56,6 @@ Even if you already live on campus, the information about on campus living for 2
 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/spring-2016-housing-information/housing-deposit/">Housing Deposit Information</a></li>
 </ul>
 </li>
-	<li></li>
 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-wait-list/">Housing Wait List</a></li>
 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/">Move In Information - Fall 2016</a>
 <ul>
