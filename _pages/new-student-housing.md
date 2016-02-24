@@ -39,13 +39,17 @@ Note: Transfer students with fewer than 30 credits wishing to participate in the
 <strong>Steps to Secure Housing</strong>
 <ol>
 	<li>Accept your offer of admission by submitting your $500 enrollment deposit.</li>
-	<li>If you will need a housing accommodation, submit your request to the <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations">Office of Disability Resources</a> by March 6, 2015.</li>
-	<li>If you require air conditioning as part of a treatment plan for a serious medical condition, submit the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/ac-housing-accommodations/">Request for Air Conditioned Housing form</a>.</li>
-	<li>Complete the <a href="http://academics.umw.edu/fsem">First Year Student Questionnaire</a>, which includes your five FSEM course preferences.</li>
+	<li>If you will need a housing accommodation, submit your request to the <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations">Office of Disability Resources</a> by April 22, 2016.</li>
+	<li>If you require air conditioning as part of a treatment plan for a serious medical condition, you can learn more about the request process on the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/air-conditioned/">Air-Conditioned Housing Accommodations</a> page.</li>
+	<li>Complete the <a href="http://academics.umw.edu/fsem">First Year Student Questionnaire</a>, which includes your five FSEM course preferences.
+<ol>
+	<li>Review <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/rates/">Room and Board rates</a>.</li>
+</ol>
+</li>
 	<li>Review <a href="http://www.umwdining.com">dining information</a>.</li>
 	<li>Get acquainted with the first year <a href="http://www.umw.edu/residencelife/residence-halls/">residence halls</a>.</li>
-	<li>Review the 2016 <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-and-dining-services-agreement/">Housing and Dining Services Agreement Terms and Conditions</a>.</li>
-	<li>Complete your Housing and Dining Services Agreement application.</li>
+	<li>Review the 2016 <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2016-2017/">Housing and Dining Services Agreement Terms and Conditions</a>.</li>
+	<li>Complete your Housing and Dining Services Agreement application in <a href="https://umw-residence.symplicity.com/index.php/pid780639?">Symplicity Residence</a>.  Instruction on how to submit your housing application can be found at <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/navigating-symplicity/">Navigating Symplicity</a>.</li>
 </ol>
 <h2>Housing Assignment Communication</h2>
 <strong>First year students</strong> will initially know the building, but not the exact room number, to which they are assigned based on the FSEM they select. Students will be emailed their room number, roommate information, etc. at the end of May.  Students submitting housing applications after this date will be assigned housing on a rolling basis.  <em><strong>Note that Residence Life staff will email notices only to UMW accounts.</strong></em>
