@@ -8,10 +8,12 @@ layout: page
 permalink: >
   http://www.umw.edu/residencelife/before-you-get-to-campus/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "1"
 wpcf-homepage-copy:
   - |
     <a href="https://www.umw.edu/residencelife/before-you-get-to-campus/">Forms and information</a> about living on campus next year for all students.
-    <div class="CTAbutton CTAblue" style="margin-top: 1em"><a href="/residencelife/before-you-get-to-campus/housing-selection/">Housing Selection</a></div>
+    <div class="CTAbutton CTAblue" style="margin-top: 1em;"><a href="/residencelife/before-you-get-to-campus/housing-selection/">Housing Selection</a></div>
 ---
 Even if you already live on campus, the information about on campus living for 2016-2017 can be found here. From housing selection to bed bunking/lofting, and move in, we have the pages and forms you seek.
 <div class="one-half first">
@@ -31,6 +33,12 @@ Even if you already live on campus, the information about on campus living for 2
 </li>
 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/air-conditioned/">AC Housing Accommodations</a></li>
 	<li><a href="http://www.umw.edu/residencelife/residence-halls/">Residence Hall Information</a></li>
+	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/">New Student Housing</a>
+<ul>
+	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/on-campus-living-requirement/">On Campus Living Requirement</a></li>
+	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/faqs/">FAQs</a></li>
+</ul>
+</li>
 </ul>
 </div>
 <div class="one-half">
@@ -48,12 +56,7 @@ Even if you already live on campus, the information about on campus living for 2
 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/spring-2016-housing-information/housing-deposit/">Housing Deposit Information</a></li>
 </ul>
 </li>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/">New Student Housing</a>
-<ul>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/on-campus-living-requirement/">On Campus Living Requirement</a></li>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/faqs/">FAQs</a></li>
-</ul>
-</li>
+	<li></li>
 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-wait-list/">Housing Wait List</a></li>
 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/">Move In Information - Fall 2016</a>
 <ul>
