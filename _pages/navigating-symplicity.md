@@ -9,7 +9,7 @@ permalink: >
   http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/navigating-symplicity/
 published: true
 ---
-<h2>How to submit your Housing Agreement:</h2>
+<h2>How to submit your Housing Application:</h2>
 Log in to <a href="https://umw-residence.symplicity.com">Symplicity Residence</a>. Select “Student,” and then enter your UMW NetID and Password.
 <ul>
 	<li>If you need help regarding your username or password, follow the directions listed on the <a href="http://technology.umw.edu/logins">UMW IT website</a>.</li>
@@ -21,7 +21,7 @@ Following your successful log-in, locate the Housing Application and click “Ge
 </ul>
 Complete each prompt and submit your application. If you need to finish it later, click “Save As Draft” and remember to finish before the due date.
 <h2>How to use Symplicity Residence roommate tools:</h2>
-Students should determine with whom they would like to live and form a group.  Each individual will have a specific individual selection time slot.  However, if in a group, the group’s average time slot will be used to select (by the group’s leader). Group leaders select the housing assignments on behalf of all members of the group.
+<strong>NOTE: Incoming first year students and those returning from a leave of absence should not use Symplicity Residence roommate tools.  First year students and those returning from a leave of absence will be paired with a roommate(s) based on the FSEM and answers to the roommate profile portion of the housing application respectively.</strong>  Current students should determine with whom they would like to live and form a group.  Each individual will have a specific individual selection time slot.  However, if in a group, the group’s average time slot will be used to select (by the group’s leader). Group leaders select the housing assignments on behalf of all members of the group.
 <h3>Already have a roommate selected?</h3>
 <ul>
 	<li>Ask them for their roommate code (which can be found on the top right after logging into Symplicity Residence). Students should not give out their private roommate code unless they are sure they want to form a roommate group with the recipient.</li>
