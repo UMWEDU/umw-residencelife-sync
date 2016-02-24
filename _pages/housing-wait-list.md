@@ -16,5 +16,5 @@ Over the summer Residence Life staff members work to reassign students into thei
 Do not submit the Housing Wait List form if:
 <ul>
 	<li>You are experiencing roommate concerns. Instead, follow the <a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/changes/">Changes to Housing Assignments</a> process.</li>
-	<li>You are a Commuter Students who has decided you would like to live on campus in the fall. Instead, contact Brittany Harper at <a href="mailto:bharper2@umw.edu">bharper2@umw.edu</a>.</li>
+	<li>You are a Commuter Student who has decided you would like to live on campus in the fall. Instead, contact Brittany Harper at <a href="mailto:bharper2@umw.edu">bharper2@umw.edu</a>.</li>
 </ul>
