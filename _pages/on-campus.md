@@ -8,10 +8,12 @@ layout: page
 permalink: >
   http://www.umw.edu/residencelife/on-campus/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "1"
 wpcf-homepage-copy:
   - |
     <a title="Resources for resident students" href="/residencelife/on-campus/">Forms and information</a> for those currently living on campus.
-    <div class="CTAbutton CTAgreen" style="margin-top: 1em"><a href="/residencelife/on-campus/life/">Life in the Halls</a></div>
+    <div class="CTAbutton CTAgreen" style="margin-top: 1em;"><a href="/residencelife/on-campus/life/">Life in the Halls</a></div>
 ---
 Throughout the year, students and families seek information about living in the residence halls. If you currently live on campus, this page will guide you in what forms and information are active and that Residence Life is seeking from you.
 
@@ -31,6 +33,7 @@ If you don’t currently live on campus, but want to know what it’s like to li
 	<li><a href="http://www.umw.edu/residencelife/on-campus/work-orders/">Work Order requests</a></li>
 </ul>
 </li>
+	<li><a href="http://www.umw.edu/residencelife/on-campus/summer-housing/">Summer 2016 Housing information</a></li>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/">Life in the Halls</a>
 <ul>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/">Get Involved</a>
@@ -59,7 +62,6 @@ If you don’t currently live on campus, but want to know what it’s like to li
 	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/extended-stay-housing/">Extended Stay Housing</a></li>
 </ul>
 </li>
-	<li><a href="http://www.umw.edu/residencelife/on-campus/summer-housing/">Summer 2015 Housing information</a></li>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/end-of-year-closing/">End of Year Closing information</a></li>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/charges/">Charges</a>
 <ul>
