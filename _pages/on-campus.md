@@ -13,7 +13,9 @@ wpcf-home-page-grid-inclusion:
 wpcf-homepage-copy:
   - |
     <a title="Resources for resident students" href="/residencelife/on-campus/">Forms and information</a> for those currently living on campus.
-    <div class="CTAbutton CTAgreen" style="margin-top: 1em;"><a href="/residencelife/on-campus/life/">Life in the Halls</a></div>
+    <div class="CTAbutton CTAgreen" style="margin-top: 1em"><a href="/residencelife/on-campus/life/">Life in the Halls</a></div>
+wpsi_page_checks:
+  - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15998928812;s:3:"url";s:43:"http://www.umw.edu/residencelife/on-campus/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15998928812";}s:4:"time";i:1457619549;}}'
 ---
 Throughout the year, students and families seek information about living in the residence halls. If you currently live on campus, this page will guide you in what forms and information are active and that Residence Life is seeking from you.
 
@@ -36,6 +38,7 @@ If you don’t currently live on campus, but want to know what it’s like to li
 	<li><a href="http://www.umw.edu/residencelife/on-campus/summer-housing/">Summer 2016 Housing information</a></li>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/">Life in the Halls</a>
 <ul>
+	<li><a href="http://www.umw.edu/residencelife/on-campus/life/first-year-seminar/">FSEMs</a></li>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/">Get Involved</a>
 <ul>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/ra-selection/">Resident Assistant Selection</a>
@@ -66,11 +69,6 @@ If you don’t currently live on campus, but want to know what it’s like to li
 	<li><a href="http://www.umw.edu/residencelife/on-campus/charges/">Charges</a>
 <ul>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/charges/appeal/">Appeal Process for Housing Charges</a></li>
-</ul>
-</li>
-	<li><a href="http://www.umw.edu/residencelife/on-campus/life/">Life in the Halls</a>
-<ul>
-	<li><a href="http://www.umw.edu/residencelife/on-campus/life/first-year-seminar/">FSEMs</a></li>
 </ul>
 </li>
 </ul>
