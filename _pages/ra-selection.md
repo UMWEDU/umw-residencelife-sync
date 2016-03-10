@@ -73,7 +73,7 @@ Three information sessions will be hosted by the RA Selection Committee to help
 </ol>
 <strong>Attending an information sessions is MANDATORY in order to apply for the RA position.</strong>
 <h3>Application</h3>
-The <a href="https://orgsync.com/59554/forms/86978">application for the RA positio</a>n will become active on MyUMW on Thursday, October 1, 2015. Once submitted, all applicants will be screened for GPA and judicial standing at the University of Mary Washington.
+The <a href="https://orgsync.com/59554/forms/86978">application for the RA position</a> will become active on MyUMW on Thursday, October 1, 2015. Once submitted, all applicants will be screened for GPA and judicial standing at the University of Mary Washington.
 <h3>Resume</h3>
 A resume is required to accompany all applications. The RA Selection Committee in cooperation with the Academic and Career Services Office will host a Resume Workshop to assist you with your resume writing techniques.
 <ul>
