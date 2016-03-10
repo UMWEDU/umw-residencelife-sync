@@ -22,7 +22,7 @@ Apply <strong><u>TODAY</u></strong> to secure your space.</h2>
 <h3>Wednesday, November 4</h3>
 Housing and Dining Services Agreement application available (due Dec. 12 for early assignments process, but <em>all</em> received after this date will be guaranteed housing)<strong>.  Note: </strong> If you do not see an application for Spring Housing, contact Brittany Harper, Assistant Director of Housing and Operations, at <a href="mailto:bharper2@umw.edu">bharper2@umw.edu</a><strong>.</strong>
 <h3>Friday, November 20</h3>
-Application for housing accommodation due to the <a href="academics.umw.edu/disability/accommodations/housing-accommodations">Office of Disability Resources</a> for more information.
+Application for housing accommodation due to the <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations/">Office of Disability Resources</a> for more information.
 
 Air Conditioning Accommodations request form due<strong>. </strong> Note: Eagle Landing has central air conditioning, so if you hope to live in Eagle Landing, it is not necessary to submit this form.
 <h3>Monday, December 14</h3>
