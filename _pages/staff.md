@@ -8,9 +8,13 @@ layout: page
 permalink: >
   http://www.umw.edu/residencelife/contact/staff/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
+wpsi_page_checks:
+  - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15999539895;s:3:"url";s:47:"http://www.umw.edu/residencelife/contact/staff/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15999539895";}s:4:"time";i:1457621815;}}'
 ---
 Residence Life and Commuter Student Services is more than just another office on campus. Staff members work as a team to ensure students have the best experiences available. Residence Life staff strive to create strong communities that foster healthy lifestyles and enhance the UMW living and learning environments. The main office for Residence Life staff is located in Marye House. Many staff members are available to help in a variety of ways, and they welcome visitors and guests who stop by to chat and ask questions. Residence Life can also be contacted through our <a href="http://www.umw.edu/residencelife/contact/">contact us form</a>.
 
-Staff consists of the Director of Residence Life and Commuter Student Services, two Associate Directors, three Assistant Directors, four Area Coordinators, a Business and Marketing Manager, a Graduate Assistant, an Administrative Assistant, and 75 Resident Assistants. Visit <a href="///Users/michellebrooks/Downloads/UMW_orgcharts_2015-11-11.pdf">Student Affairs</a> to view the office’s organizational chart.
+Staff consists of the Director of Residence Life and Commuter Student Services, two Associate Directors, three Assistant Directors, four Area Coordinators, a Business and Marketing Manager, a Graduate Assistant, an Administrative Assistant, and 75 Resident Assistants.
 
 [wp_rss_retriever url="http://www.umw.edu/directory/atom-feed/all-departments/?department-ids=487" items="51" excerpt="0" source="false" date="false" read_more="false" new_window="false" title="false" thumbnail="false" cache="7200"]
