@@ -15,7 +15,9 @@ wpcf-homepage-copy:
 ---
 <div class="two-thirds first">
 
-Greetings Residence Life Alumni!No matter how long you were a member of the Residence Life staff team, the experience has been part of the tapestry that was your life at UMW.  And it’s likely continued to be part of your life – we joke that you never really escape Residence Life.  The truth is that you remember things you learned, friendships you made and good times you had as part of this team.
+Greetings Residence Life Alumni!
+
+No matter how long you were a member of the Residence Life staff team, the experience has been part of the tapestry that was your life at UMW.  And it’s likely continued to be part of your life – we joke that you never really escape Residence Life.  The truth is that you remember things you learned, friendships you made and good times you had as part of this team.
 
 Each and every one of you left your mark on the Residence Life program at Mary Washington.  As Residence Life grows and develops, we know that you helped us get to where we are now.  This is why we decided to create the Alumni Circle.  Not only do we want to stay in touch with you and celebrate your successes, we want you to know what is happening with the organization you dedicated your time and energy to while you were a student here.
 
