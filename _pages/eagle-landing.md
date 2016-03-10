@@ -1,6 +1,6 @@
 ---
 ID: 29
-post_title: 'ELEV Rotunda &#038; Conference Room Reservations'
+post_title: 'ELEV Rotunda &amp; Conference Room Reservations'
 author: mesch
 post_date: 2016-01-27 19:09:49
 post_excerpt: ""
@@ -27,8 +27,8 @@ It is the responsibility of the event coordinator to communicate any specific bu
 If the event requires furniture beyond what is provided, it is the responsibility of the event coordinator to submit a work order request through Facilities Services for items to be delivered and set up prior to the event. If the event organizer is not affiliated with UMW, the organizer can coordinate this request by including their needs in the original event request and working with the Eagle Landing desk staff prior to the event. It is recommended that all set-up requests are submitted at least two weeks prior to the event taking place. Due to the limited availability of resources, there are certain times of the year (the second weekend in May due to graduation, Family Weekend in September, Homecoming Weekend in October, etc.) when Facilities Services may be unable to provide tables and chairs.
 <h4>Catering</h4>
 If you anticipate wanting or needing food provided for your event, we encourage you to contact <a href="http://www.umwcatering.com/">UMW Catering</a> at 540-654-1930.
-<h4>AV Coordination</h4>
-Both the Rotunda and Conference Room have large, flatscreen TVs capable of HDMI and VGA.  For any additional A/V needs, please <a href="http://adminfinance.umw.edu/dodd/events-av-office-request-from/">submit a request form to the A/V office</a> at least two weeks in advance of your event.  The A/V office will contact you two days prior to coordinate set-up time.  Be sure to select “other” under location and specify “Eagle Landing Conference Room/Rotunda.”
+<h4>A/V Coordination</h4>
+Both the Rotunda and Conference Room have large, flatscreen TVs capable of HDMI and VGA.  For any additional A/V needs, please <a href="http://adminfinance.umw.edu/events-av/events-av-request-form/">submit a request form to the A/V office</a> at least two weeks in advance of your event.  The A/V office will contact you two days prior to coordinate set-up time.  Be sure to select “other” under location and specify “Eagle Landing Conference Room/Rotunda.”
 
 [caption id="attachment_30" align="alignnone" width="300"]<a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Eagles-Nest-5.jpg" rel="attachment wp-att-30"><img class="size-medium wp-image-30" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Eagles-Nest-5-300x195.jpg" alt="Eagle Landing Con" width="300" height="195" /></a> Eagle Landing Rotunda[/caption]
 <h3><strong>Rotunda</strong></h3>
