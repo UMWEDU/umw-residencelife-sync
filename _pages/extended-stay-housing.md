@@ -8,6 +8,8 @@ layout: page
 permalink: >
   http://www.umw.edu/residencelife/on-campus/housing-procedures/extended-stay-housing/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 The residence halls close for:
 <ul>
@@ -24,7 +26,7 @@ Extended stay is outside of the contracted meal plan period. Campus meal service
 <h2>May Extended Stay Application <em>(for student submission)</em></h2>
 The <a href="https://orgsync.com/59554/forms/102141">May Extended Stay Application</a> must be submitted electronically no later Tuesday, April 26, 2016. There will be a charge of $30 per day assessed to your student account for extended stay housing (for the number of days you request to be present after the residence halls close).  Requests received after April 26 will be assessed a late submission charge of $25, if approved.  <em>Note:  students needing to stay for a few hours past 10am on April 30 need to complete the form but will not be charged the per day fee.</em>
 <h2>Sponsored students <em>(for UMW department sponsorship submission)</em></h2>
-Students needing to stay in on-campus housing after the residence hall closing date for official UMW business may be requested by a UMW department.  Examples of students which may be sponsored by a UMW department with legitimate reasons include the following:
+Students needing to stay in on-campus housing after the residence hall closing date for official UMW business may be requested by a UMW department.  Examples of students who may be sponsored by a UMW department with legitimate reasons include the following:
 <ul>
 	<li>Athletic teams staying to compete</li>
 	<li>Students working Commencement ceremony (graduation usher, etc.)</li>
