@@ -1,6 +1,6 @@
 ---
 ID: 218
-post_title: R.A. Selection Questions
+post_title: RA Selection Questions
 author: mesch
 post_date: 2016-02-07 14:48:08
 post_excerpt: ""
