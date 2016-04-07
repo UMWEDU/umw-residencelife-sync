@@ -25,7 +25,6 @@ If you don’t currently live on campus, but want to know what it’s like to li
 <ul>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/">Housing Procedures</a>
 <ul>
-	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/break-housing/">Break Housing</a></li>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/changes/">Changes to housing assignments</a></li>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/extended-stay-housing/">Extended Stay Housing</a></li>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/intent-to-vacate/">Intent to Vacate</a></li>
@@ -41,7 +40,6 @@ If you don’t currently live on campus, but want to know what it’s like to li
 <ul>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/first-year-seminar/">FSEMs</a></li>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/">Get Involved</a></li>
-	<li></li>
 </ul>
 </li>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/life-in-the-halls/thcs/">Themed Housing Communities</a> (THC)
@@ -54,6 +52,11 @@ If you don’t currently live on campus, but want to know what it’s like to li
 <div class="one-half">
 <h2>Inactive Processes/Information</h2>
 <ul>
+	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/">Housing Procedures</a>
+<ul>
+	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/break-housing/">Break Housing</a></li>
+</ul>
+</li>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/end-of-year-closing/">End of Year Closing information</a></li>
 	<li><a href="http://www.umw.edu/residencelife/on-campus/charges/">Charges</a>
 <ul>
