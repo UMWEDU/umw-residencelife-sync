@@ -13,7 +13,13 @@ wpsi_page_checks:
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-Summer Housing 2016 is in Eagle Landing (double rooms) only, conveniently located near many great businesses.
-
-Access the <a href="https://orgsync.com/59554/forms/185061">Summer 2016 Housing and Dining Services Agreement application</a> through MyUMW.  It must be submitted electronically no later than April 3, 2016 to participate in the first-round of approval and housing assignments. Students will be notified by April 13 of their housing assignments. All applications received after April 3 will be approved and assigned on a rolling basis.  Review the terms of the Agreement below.  Should you have any questions about summer housing, please contact Assistant Director of Residence Life Brittany Harper, at <a href="mailto:bharper2@umw.edu">bharper2@umw.edu</a>.
-<h2></h2>
+<h2>Summer Housing Process:</h2>
+<ul>
+	<li class="p1"><span class="s1">Review the terms of the Agreement via the link below.</span></li>
+	<li class="p1"><span class="s1">Access the <a href="https://orgsync.com/59554/forms/185061"><span class="s3">Summer 2016 Housing and Dining Services Agreement application</span></a> through MyUMW.</span></li>
+	<li class="p1"><span class="s1">The priority deadline for first round assignments is  April 3.  Students will be notified by April 13 of their housing assignments. All applications received after April 3 will be approved and assigned on a rolling basis. </span></li>
+	<li class="p1"><span class="s1">For information regarding extended stay housing either before the beginning of summer session one or after the end of summer session two visit the <a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/extended-stay-housing/"><span class="s3">Extended Stay Housing</span></a> page.</span></li>
+	<li class="p1"><span class="s1">Have questions about summer housing, please contact Assistant Director of Residence Life Brittany Harper, at <a href="mailto:bharper2@umw.edu"><span class="s3">bharper2@umw.edu</span></a>.</span></li>
+</ul>
+<h2>Summer Housing Terms &amp; Conditions</h2>
+<a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/summer-2016-housing-agreement-terms/">Summer 2016</a>
