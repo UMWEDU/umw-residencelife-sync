@@ -9,7 +9,7 @@ permalink: >
   http://www.umw.edu/residencelife/before-you-get-to-campus/air-conditioned/
 published: true
 ---
-Not all UMW residential facilities are air-conditioned. Students requiring air conditioning as part of necessary treatment for a serious medical condition including but not limited to asthma, allergies, allergic rhinitis, and sinusitis should submit the <a href="https://orgsync.com/59554/forms/87507">Air Conditioned Housing Accommodation request form</a> through MyUMW.
+Not all UMW residential facilities are air-conditioned. Students requiring air conditioning as part of necessary treatment for a serious medical condition including but not limited to asthma, allergies, allergic rhinitis, and sinusitis should submit the <a href="https://orgsync.com/59554/forms/87507">Air Conditioned Housing Accommodation request form</a> through myUMW.
 
 For housing accommodation requests in addition to, or other than air-conditioned housing, please refer to the <a href="http://academics.umw.edu/disability/accommodations/">Office of Disability Resources</a>.
 <h2>Deadline for Application</h2>
