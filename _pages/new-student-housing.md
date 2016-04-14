@@ -37,8 +37,7 @@ Some circumstances will necessitate an assignment outside of the Living Learning
 Transfer students may rank their building preferences on their housing applications.  All buildings (first-year communities and upper-class buildings) are included in the preference ranking options.  Assignments will be made based on space availability.
 
 Note: Transfer students with fewer than 30 credits wishing to participate in the First Year Experience, which includes taking an FSEM course and living in a first year community, should speak with a Student Success Coordinator in Academic and Career Services.
-
-<strong>Steps to Secure Housing</strong>
+<h3>Steps to Secure Housing</h3>
 <ol>
 	<li>Accept your offer of admission by submitting your $500 enrollment deposit.</li>
 	<li>If you will need a housing accommodation, submit your request to the <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations">Office of Disability Resources</a> by April 22, 2016.</li>
