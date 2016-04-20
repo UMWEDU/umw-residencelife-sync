@@ -1,6 +1,6 @@
 ---
 ID: 10
-post_title: Partnering with Parents
+post_title: Partnering with Parents and Families
 author: mesch
 post_date: 2015-12-17 22:01:15
 post_excerpt: ""
@@ -28,12 +28,12 @@ If you are working in conjunction with your student to help solve an issue, try 
 
 If your student becomes frustrated, you can help them problem solve.  Teach your student how to problem solve by using the questions below:
 <ul>
-	<li>Ask them if they are just venting or if they are looking for advice/action from you.</li>
-	<li>Ask them to outline the facts.  Facts are concrete and observable, not emotions. Challenge them to look at multiple perspectives surrounding the issue.</li>
-	<li>Who have they spoken with? If they are having difficulty connecting with their RA, have they tried contacting their Area Coordinator or the Residence Life office?</li>
-	<li>What strategies have been discussed?</li>
-	<li>What are the next steps?</li>
-	<li>What is the timeline for follow up?</li>
+ 	<li>Ask them if they are just venting or if they are looking for advice/action from you.</li>
+ 	<li>Ask them to outline the facts.  Facts are concrete and observable, not emotions. Challenge them to look at multiple perspectives surrounding the issue.</li>
+ 	<li>Who have they spoken with? If they are having difficulty connecting with their RA, have they tried contacting their Area Coordinator or the Residence Life office?</li>
+ 	<li>What strategies have been discussed?</li>
+ 	<li>What are the next steps?</li>
+ 	<li>What is the timeline for follow up?</li>
 </ul>
 We want your student and you to be happy with the UMW experience.  The Residence Life staff is committed to partnering with students and their parents to find resolutions that are in the best interest of all parties involved.
 <h2>FAQ’s</h2>
@@ -46,13 +46,13 @@ Parents are often the first ones to hear from their student about an issue with 
 
 We recommend the following “parents as partners” tips to maximize the potential for a successful outcome:
 <ul>
-	<li><strong>Listen to your student and ask questions.</strong> Provide an opportunity for your student to work through the issue with appropriate challenge and support.</li>
-	<li><strong>Remember that there are multiple perspectives in a conflict.</strong> Your student will share their point of view, but it is important to acknowledge that their truth may not be the same as that of the other student.  Do your best to help your student consider the other perspective and work toward a mutual resolution.</li>
-	<li><strong>Encourage your student to take a win-win approach rather than a win-lose approach.</strong> If both students approach the conflict with a goal of winning, both will likely lose.</li>
-	<li><strong>Do not contact the other student in the conflict or their parents.</strong> Whether it is by phone, text, social media, or in person, this method of intervention rarely goes well.  Leave the communication to your student with the assistance of Residence Life staff.</li>
-	<li><strong>Call us if you are unsure of how to help your student. </strong>Our staff will be happy to discuss university and departmental policy, procedures, philosophy, and typical courses of action for similar situations.  You can expect us to ask you to encourage your student to come speak with a Residence Life professional so that we can partner with them to find a resolution to their conflict.</li>
-	<li><strong>Understand that Residence Life doesn’t force residents to move in most instances. </strong>Except in extreme circumstances, a conflict will not result in us moving your student’s roommate out of the room (unless that student requests to move).</li>
-	<li><strong>If something illegal is occurring in your student’s room, report it to UMW Police.</strong> While conflict is normal, it is our expectation that UMW students are obeying the law.  Conflicts that involve illegal behavior can be handled more swiftly and effectively if appropriately reported to law enforcement officials.</li>
+ 	<li><strong>Listen to your student and ask questions.</strong> Provide an opportunity for your student to work through the issue with appropriate challenge and support.</li>
+ 	<li><strong>Remember that there are multiple perspectives in a conflict.</strong> Your student will share their point of view, but it is important to acknowledge that their truth may not be the same as that of the other student.  Do your best to help your student consider the other perspective and work toward a mutual resolution.</li>
+ 	<li><strong>Encourage your student to take a win-win approach rather than a win-lose approach.</strong> If both students approach the conflict with a goal of winning, both will likely lose.</li>
+ 	<li><strong>Do not contact the other student in the conflict or their parents.</strong> Whether it is by phone, text, social media, or in person, this method of intervention rarely goes well.  Leave the communication to your student with the assistance of Residence Life staff.</li>
+ 	<li><strong>Call us if you are unsure of how to help your student. </strong>Our staff will be happy to discuss university and departmental policy, procedures, philosophy, and typical courses of action for similar situations.  You can expect us to ask you to encourage your student to come speak with a Residence Life professional so that we can partner with them to find a resolution to their conflict.</li>
+ 	<li><strong>Understand that Residence Life doesn’t force residents to move in most instances. </strong>Except in extreme circumstances, a conflict will not result in us moving your student’s roommate out of the room (unless that student requests to move).</li>
+ 	<li><strong>If something illegal is occurring in your student’s room, report it to UMW Police.</strong> While conflict is normal, it is our expectation that UMW students are obeying the law.  Conflicts that involve illegal behavior can be handled more swiftly and effectively if appropriately reported to law enforcement officials.</li>
 </ul>
 <h3>I am worried about my student’s well-being.  Who can I contact and what resources are available?</h3>
 The University of Mary Washington prides itself on the level of care and compassion for its students.  While the Residence Life staff often has its finger on the pulse of our students, we also rely on friends and family who know the student best to let us know when they have concerns about physical and emotional well-being.  We partner with family and friends who report a concern to determine the best way to intervene and offer appropriate resources to the student of concern.
@@ -63,10 +63,10 @@ If there is no imminent threat, but you would like to share some observations an
 <h4>Resources Available:</h4>
 Often, concerning behaviors that are presenting in your student are easily resolved with a Residence Life staff member checking in with your student and offering a listening ear.  Our staff does many of these checks a year as well as a number of routine checks as part of the RA job, regardless of whether or not it’s prompted by a concern.  When a concern or issue is beyond the scope of our expertise, students can be referred to any of the following resources:
 <ul>
-	<li>Talley Center for Counseling Services- the UMW counseling center, which provides service at no cost to all undergraduate students</li>
-	<li>Title IX Coordinator and/or Advocates- handles cases of sexual misconduct and sex-based discrimination</li>
-	<li>BIT- which stands for Behavior Intervention Team, usually comprised of three Student Affairs professionals who can better assess the whole student experience and determine intervention strategies for success at UMW</li>
-	<li>Academic Services- available to offer specific advice on major exploration, academic concerns, dropping/adding courses, and withdrawal</li>
+ 	<li>Talley Center for Counseling Services- the UMW counseling center, which provides service at no cost to all undergraduate students</li>
+ 	<li>Title IX Coordinator and/or Advocates- handles cases of sexual misconduct and sex-based discrimination</li>
+ 	<li>BIT- which stands for Behavior Intervention Team, usually comprised of three Student Affairs professionals who can better assess the whole student experience and determine intervention strategies for success at UMW</li>
+ 	<li>Academic Services- available to offer specific advice on major exploration, academic concerns, dropping/adding courses, and withdrawal</li>
 </ul>
 The important takeaway is to communicate with someone if you have concerns about your student.  UMW offices and departments work closely to ensure the student is put into contact with the appropriate resources.
 <h3>I need to share some upsetting/bad news from home.  Is there someone who can support my student while I tell them?</h3>
