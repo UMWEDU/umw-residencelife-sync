@@ -16,14 +16,14 @@ Commuter students may select a meal plan by submitting a Commuter Meal Plan Agre
 <h3>Residential Students</h3>
 All residential students must have a meal plan.  Residential students select their meal plan through the Housing and Dining Services Agreement application process in Symplicity Residence.  Residential students wishing to be exempt from having a meal plan may submit the <a href="https://orgsync.com/59554/forms/82435">Meal Plan Exemption Request Form</a>.
 <h3>Changes to Meal Plans</h3>
-All changes in meal plan levels must be requested within the first two weeks of classes each semester.  Any requests submitted after the second week of classes will be automatically denied unless the student moved from Eagle Landing or the UMW Apartments into a traditional residence hall.  In such cases the student will be assigned the smallest available meal plan unless otherwise indicated.  <strong>Note</strong>:  First time students on the Anytime Dining Meal Plan are not allowed to change their meal plan during the first academic year regardless of where they live.
+All changes in meal plan levels must be requested within the first two weeks of classes each semester.  Any requests submitted after the second week of classes will be automatically denied unless the student moved from Eagle Landing or the UMW Apartments into a traditional residence hall.  In such cases the student will be assigned the smallest available meal plan unless otherwise indicated.  <strong>Note</strong>:  First time students on the Eagle Plan are not allowed to change their meal plan during the first academic year regardless of where they live.
 <h4>Meal Plan Change Instructions:</h4>
 Log in and access the <a href="https://umw-residence.symplicity.com">Meal Plan Change application</a> through Symplicity.
 
 Important Notes
 <ol>
-	<li>If the application is not available after logging in, email reslife@umw.edu to request access.</li>
-	<li>The Meal Plan Change application in Symplicity Residence may only be used once per semester. If you need to make another adjustment email <a href="mailto:reslife@umw.edu">reslife@umw.edu</a> with your request.</li>
+ 	<li>If the application is not available after logging in, email reslife@umw.edu to request access.</li>
+ 	<li>The Meal Plan Change application in Symplicity Residence may only be used once per semester. If you need to make another adjustment email <a href="mailto:reslife@umw.edu">reslife@umw.edu</a> with your request.</li>
 </ol>
 <strong>Commuter Meal Plan Cancellation</strong>
 
