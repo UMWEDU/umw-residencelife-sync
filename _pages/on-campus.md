@@ -58,7 +58,6 @@ If you don’t currently live on campus, but want to know what it’s like to li
  	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/break-housing/">Break Housing</a></li>
 </ul>
 </li>
- 	<li></li>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/charges/">Charges</a>
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/charges/appeal/">Appeal Process for Housing Charges</a></li>
