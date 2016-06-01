@@ -19,52 +19,52 @@ Even if you already live on campus, the information about on campus living for 2
 <div class="one-half first">
 <h2>Active Processes/Information</h2>
 <ul>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/">Housing Selection 2016-2017</a>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/">Housing &amp; Dining Services Agreement</a>
 <ul>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/navigating-symplicity/">Navigating Symplicity</a></li>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/details/">Housing Selection Details</a></li>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/rates/">Room &amp; Board Rates</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2016-2017/">2016-2017</a></li>
 </ul>
 </li>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/">Housing &amp; Dining Services Agreement</a>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/air-conditioned/">AC Housing Accommodations</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/residence-halls/">Residence Hall Information</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/">New Student Housing</a>
 <ul>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2016-2017/">2016-2017</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/on-campus-living-requirement/">On Campus Living Requirement</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/faqs/">FAQs</a></li>
 </ul>
 </li>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/air-conditioned/">AC Housing Accommodations</a></li>
-	<li><a href="http://www.umw.edu/residencelife/residence-halls/">Residence Hall Information</a></li>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/">New Student Housing</a>
-<ul>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/on-campus-living-requirement/">On Campus Living Requirement</a></li>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/faqs/">FAQs</a></li>
-</ul>
-</li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/bed-bunk-or-loft-requests/">Bunk Bed or Loft Requests</a></li>
+ 	<li>Summer Room Change Process</li>
 </ul>
 </div>
 <div class="one-half">
 <h2>Inactive Processes/Information</h2>
 <ul>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/bed-bunk-or-loft-requests/">Bunk Bed or Loft Requests</a></li>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/">Housing &amp; Dining Services Agreement</a>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/">Housing Selection 2016-2017</a>
 <ul>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2015-2016/">2015-2016</a></li>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2014-2015/">2014-2015</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/navigating-symplicity/">Navigating Symplicit</a>y</li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/details/">Housing Selection Details</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/rates/">Room &amp; Board Rates</a></li>
 </ul>
 </li>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/spring-2016-housing-information/">Spring 2016 Housing Information</a>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/">Housing &amp; Dining Services Agreement</a>
 <ul>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/spring-2016-housing-information/housing-deposit/">Housing Deposit Information</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2015-2016/">2015-2016</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2014-2015/">2014-2015</a></li>
 </ul>
 </li>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-wait-list/">Housing Wait List</a></li>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/">Move In Information - Fall 2016</a>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/spring-2016-housing-information/">Spring 2016 Housing Information</a>
 <ul>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/unloading/">Unloading belongings at New Student Move In</a></li>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/early-arrivals/">Early Arrivals</a></li>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/prohibited-in-residence-halls/">Prohibited in Residence Halls</a></li>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/what-to-bring/">What to Bring</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/spring-2016-housing-information/housing-deposit/">Housing Deposit Information</a></li>
 </ul>
 </li>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/my-room-my-umw/">"My Room, My UMW" contest</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/">Move In Information - Fall 2016</a>
+<ul>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/unloading/">Unloading belongings at New Student Move In</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/early-arrivals/">Early Arrivals</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/prohibited-in-residence-halls/">Prohibited in Residence Halls</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/what-to-bring/">What to Bring</a></li>
+</ul>
+</li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/my-room-my-umw/">"My Room, My UMW" contest</a></li>
 </ul>
 </div>
