@@ -35,7 +35,6 @@ If you don’t currently live on campus, but want to know what it’s like to li
  	<li><a href="http://www.umw.edu/residencelife/on-campus/work-orders/">Work Order requests</a></li>
 </ul>
 </li>
- 	<li><a href="http://www.umw.edu/residencelife/on-campus/end-of-year-closing/">End of Year Closing information</a></li>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/summer-housing/">Summer 2016 Housing information</a></li>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/life/">Life in the Halls</a>
 <ul>
@@ -58,6 +57,7 @@ If you don’t currently live on campus, but want to know what it’s like to li
  	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/break-housing/">Break Housing</a></li>
 </ul>
 </li>
+ 	<li><a href="http://www.umw.edu/residencelife/on-campus/end-of-year-closing/">End of Year Closing information</a></li>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/charges/">Charges</a>
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/charges/appeal/">Appeal Process for Housing Charges</a></li>
