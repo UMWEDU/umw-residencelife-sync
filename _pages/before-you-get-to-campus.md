@@ -33,7 +33,7 @@ Even if you already live on campus, the information about on campus living for 2
 </ul>
 </li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/bed-bunk-or-loft-requests/">Bunk Bed or Loft Requests</a></li>
- 	<li>Summer Room Change Process</li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/summer-room-change-process/">Summer Room Change Process</a></li>
 </ul>
 </div>
 <div class="one-half">
