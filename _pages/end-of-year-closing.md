@@ -8,10 +8,10 @@ layout: page
 permalink: >
   http://www.umw.edu/residencelife/on-campus/end-of-year-closing/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
 wpsi_page_checks:
   - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15999676929;s:3:"url";s:63:"http://www.umw.edu/residencelife/on-campus/end-of-year-closing/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15999676929";}s:4:"time";i:1457622402;}}'
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h4>Important Dates</h4>
 <table width="966">
@@ -77,9 +77,9 @@ In preparation for residential student move out, Parking Management would like t
 *Parents or others helping a student to move out with unregistered vehicles needing access to any space other than Visitor need a Temporary Dash Pass for the area needed. This can be obtained from Parking Management in Lee Hall. The student can also obtain one in advance from their RA if the exact time of arrival is known. It will include a time limit for Faculty/Staff lots. The UMW Police Department will handle after hours Temporary Pass requests, if needed.
 
 Vehicles will not be allowed to drive on walkways, park on the grass, in Fire Lanes, Reserved, or Handicap spaces, etc. to load vehicles. However, Parking Management will provide temporary parking passes for lots located nearest the residence hall; cars without appropriate passes, or parked illegally will be ticketed.
-<h3></h3>
+
 <h4>Eagle Landing Parking RFIDs</h4>
 Students living in Eagle Landing with an RFID parking pass, which opens the parking deck gate, must turn in their RFID to the Eagle Landing front desk between the desk hours of 8 a.m. and 10 p.m. and immediately before leaving campus. Students who will returning to Eagle Landing next year must return their RFID; a new RFID will be issued in the Fall. Students not returning RFIDs will be charged $50.
-<h4></h4>
+
 <h4><strong>Security</strong></h4>
 Students should remember to keep their doors locked at all times. When packing and moving out, they should not leave their room or belongings unattended. There will be many people on campus during the last few weeks of the semester. Students’ safety and that of their belongings deserves special attention. Many universities see an increase in theft during this period of transition. Students should remember to not let others into the building without proper access.  Potentially suspicious activity should be reported to University Police by calling 540/654-1025.
