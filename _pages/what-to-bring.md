@@ -11,7 +11,7 @@ published: true
 ---
 With the exceptions of Alvey and Randolph Halls, First-Year housing is not air-conditioned and room air-conditioners are not permitted, unless a request has been submitted to the Office of Residence Life and approved by the Assistant Director of Housing. Most electrical appliances (i.e. televisions, DVDs, stereos, radios, mini-refrigerator/freezers, computers/printers, hair dryers and irons) are permissible in residence halls. However, due to safety considerations, flame or spark-producing items (i.e. candles, halogen lamps, incense burners, oil burning lamps, lanterns and space heaters) are not permitted. Refer to further residential policies as noted in the <a href="http://publications.umw.edu/student-handbook/">Student Handbook</a>, and in the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/">Housing and Dining Services Agreement</a>.
 <ul>
-	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/BringNotBring.pdf">Printable "What to Bring" checklist</a>.</li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/BringNotBring.pdf">Printable "What to Bring" checklist</a>.</li>
 </ul>
 <h2>Desk Items:</h2>
 Desk lamp, pencils, pens, notebook, writing paper, stamps, envelopes, address book, paper clips, rubber bands, stapler and staples, ruler, note cards (various sizes), glue, transparent tape, writing style manual, thumb tacks, calendar, and/or appointment book.
@@ -31,16 +31,16 @@ Bring the things that keep you happy, help you relax, or fill spare moments – 
 No matter how well you prepare, chances are you may forget something. Keep in mind that many of the items you will need are available for sale in the Bookstore. If you cannot locate the items on campus, the stores in downtown Fredericksburg, Central Park, and the other shopping centers nearby are certain to have what you need.
 <h2><strong>For your safety, please do not bring:</strong></h2>
 <ul>
-	<li>Microwave/toaster ovens, any grills</li>
-	<li>Halogen lamps, ceiling fans or track lighting</li>
-	<li>Power tools</li>
-	<li>Gas or charcoal grills</li>
-	<li>Candles or incense</li>
-	<li>Any open-coil heating appliance</li>
-	<li>Hot-pots</li>
-	<li>Street signs of any kind</li>
-	<li>Pets (only fish are allowed, 20-gallon tank limit)</li>
-	<li>Fireworks or weapons</li>
-	<li>Extension cords</li>
-	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/prohibited-in-residence-halls/">Anything else on this list</a></li>
+ 	<li>Microwave/toaster ovens, any grills</li>
+ 	<li>Halogen lamps, ceiling fans or track lighting</li>
+ 	<li>Power tools</li>
+ 	<li>Gas or charcoal grills</li>
+ 	<li>Candles or incense</li>
+ 	<li>Any open-coil heating appliance</li>
+ 	<li>Hot-pots</li>
+ 	<li>Street signs of any kind</li>
+ 	<li>Pets (only fish are allowed, 20-gallon tank limit)</li>
+ 	<li>Fireworks or weapons</li>
+ 	<li>Extension cords</li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/prohibited-in-residence-halls/">Anything else on this list</a></li>
 </ul>
