@@ -37,4 +37,4 @@ UMW Residence Life and Commuter Student Services has done its best to provide yo
  	<li>Lee Hall Information Desk on the 3<sup>rd</sup> Floor (Building 33 on the campus map)</li>
  	<li>Eagle Landing Front Desk (Building 22 on the campus map)</li>
 </ul>
-Or, if you prefer you can use social media including Facebook and twitter between 8am and 5pm to get your questions answered using <strong>#UMWMovein16</strong>
+Or, if you prefer you can use social media including Facebook and Twitter between 8 a.m. and 5 p.m. to get your questions answered using <strong>#UMWMovein16</strong>
