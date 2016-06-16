@@ -8,6 +8,8 @@ layout: page
 permalink: >
   http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/early-arrivals/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2>Fall Semester Early Arrivals</h2>
 Students wishing to come to campus early in August will need to obtain approval through the Early Arrival process.  Early Arrival Options:
@@ -16,7 +18,7 @@ Students wishing to come to campus early in August will need to obtain approval 
  	<li>Individual Request (Upperclassmen only)</li>
 </ul>
 <h3><strong>Sponsored Group</strong></h3>
-Students sponsored by a University department with a legitimate need to arrive early for a University-sponsored program are not charged for housing; sponsors must submit a request via email using the <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/EarlyArrivalSpreadsheet.xlsx">Early Arrival Spreadsheet</a> template to reslife@umw.edu.
+Students sponsored by a University department with a legitimate need to arrive early for a University-sponsored program are not charged for housing; sponsors must submit a request via email using the <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/EarlyArrivalSpreadsheet.xlsx">Early Arrival Spreadsheet</a> template to <a href="mailto:reslife@umw.edu">reslife@umw.edu</a>.
 
 The deadline to sponsor early arrivals is<strong> Friday, July 22, 2016</strong>
 
@@ -28,12 +30,12 @@ To complete the spreadsheet, each sponsor will need to know the information belo
  	<li>Sponsor’s name, e-mail address, office phone number, and emergency contact phone number</li>
 </ul>
 <ul>
- 	<li><strong>Early arrivals will not be permitted on campus before Sunday, August 14.</strong>The date the sponsor should indicate their students should arrive needs to allow for unloading and unpacking of belongings (typically, one day earlier than the start date of the program or activity).</li>
+ 	<li><strong>Early arrivals will not be permitted on campus before Sunday, August 14. </strong>The date the sponsor should indicate their students should arrive needs to allow for unloading and unpacking of belongings (typically, one day earlier than the start date of the program or activity).</li>
 </ul>
 <h3>Individual Requests (Upperclassmen only)</h3>
-Those upper-classmen without a University sponsor may request to arrive early (no earlier than August 25) by submitting an <a href="https://orgsync.com/59554/forms/146282">Individual Early Arrival Request Form</a> no later than Sunday, August 21<sup>st</sup> at 11:50pm; there is a $30 per day fee for those approved, and without the dining plan in effect, any meals must be purchased by the student as needed.
+Those upperclassmen without a University sponsor may request to arrive early (no earlier than August 25) by submitting an <a href="https://orgsync.com/59554/forms/146282">Individual Early Arrival Request Form</a> no later than Sunday, August 21<sup>st</sup> at 11:50 p.m.; there is a $30 per day fee for those approved, and without the dining plan in effect, any meals must be purchased by the student as needed.
 
-Key pick-up location for all upperclassman early arrivals is Eagle Landing Front Desk between the hours of 8am and 10pm.
+Key pick-up location for all upperclassman early arrivals is Eagle Landing Front Desk between the hours of 8 a.m. and 10 p.m.
 
 <strong>For more information, contact Residence Life at </strong><a href="mailto:reslife@umw.edu"><strong>reslife@umw.edu</strong></a><strong>.</strong>
 
