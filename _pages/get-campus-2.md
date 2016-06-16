@@ -6,8 +6,10 @@ post_date: 2016-06-16 11:25:33
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/residencelife/get-campus-2/
+  http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/get-campus-2/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2><strong>Before you arrive:</strong></h2>
 <ul>
