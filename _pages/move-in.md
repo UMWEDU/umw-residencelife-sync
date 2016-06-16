@@ -11,7 +11,7 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h2>Welcome</h2>
+<h2><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Logo_Movein_lk_FINAL_1215.jpg"><img class="alignnone size-large wp-image-281" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Logo_Movein_lk_FINAL_1215-1024x483.jpg" alt="Logo_Movein_lk_FINAL_1215" width="1024" height="483" /></a>Welcome</h2>
 Congratulations on selecting the UMW residential experience.  In order to make your transition to campus living as smooth as possible, we have gathered some basic information for move-in here.  Additional information will be sent to your UMW email account, as we get closer to move-in.
 <h2>Move-in Dates &amp; Times:<strong>
 </strong></h2>
