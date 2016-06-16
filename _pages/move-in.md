@@ -8,6 +8,8 @@ layout: page
 permalink: >
   http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2>Welcome</h2>
 Congratulations on selecting the UMW residential experience.  In order to make your transition to campus living as smooth as possible, we have gathered some basic information for move-in here.  Additional information will be sent to your UMW email account, as we get closer to move-in.
@@ -22,9 +24,7 @@ Orientation Leaders
 Move-in Crew
 Soccer
 Resident Assistants
-New Experiences for Students Transitioning (<a href="http://students.umw.edu/chls/n-e-s-t/">NEST</a>)
+New Experiences for Students Transitioning (<a href="http://students.umw.edu/chls/n-e-s-t/" target="_blank">NEST</a>)
 Disability Resources Orientation
-
-&nbsp;
 <h2 style="text-align: center">Before You Arrive</h2>
 <h2 style="text-align: center">Move-In Day</h2>
