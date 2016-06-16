@@ -29,9 +29,7 @@ To complete the spreadsheet, each sponsor will need to know the information belo
  	<li>Student’s arrival date (the date getting key and settling-in)</li>
  	<li>Sponsor’s name, e-mail address, office phone number, and emergency contact phone number</li>
 </ul>
-<ul>
- 	<li><strong>Early arrivals will not be permitted on campus before Sunday, August 14. </strong>The date the sponsor should indicate their students should arrive needs to allow for unloading and unpacking of belongings (typically, one day earlier than the start date of the program or activity).</li>
-</ul>
+<em><strong>Early</strong> <strong>arrivals will not be permitted on campus before Sunday, August 14.  </strong></em>The date the sponsor should indicate their students should arrive needs to allow for unloading and unpacking of belongings (typically, one day earlier than the start date of the program or activity).
 <h3>Individual Requests (Upperclassmen only)</h3>
 Those upperclassmen without a University sponsor may request to arrive early (no earlier than August 25) by submitting an <a href="https://orgsync.com/59554/forms/146282">Individual Early Arrival Request Form</a> no later than Sunday, August 21<sup>st</sup> at 11:50 p.m.; there is a $30 per day fee for those approved, and without the dining plan in effect, any meals must be purchased by the student as needed.
 
