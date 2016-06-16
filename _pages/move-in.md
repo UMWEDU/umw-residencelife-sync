@@ -26,5 +26,5 @@ Soccer
 Resident Assistants
 New Experiences for Students Transitioning (<a href="http://students.umw.edu/chls/n-e-s-t/" target="_blank">NEST</a>)
 Disability Resources Orientation
-<h2 style="text-align: center">Before You Arrive</h2>
+<h2 style="text-align: center"><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/before-you-arrive/">Before You Arrive</a></h2>
 <h2 style="text-align: center">Move-In Day</h2>
