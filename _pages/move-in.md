@@ -1,6 +1,6 @@
 ---
 ID: 70
-post_title: Move In Fall 2015
+post_title: Move In Fall 2016
 author: mesch
 post_date: 2016-01-29 19:37:29
 post_excerpt: ""
