@@ -1,6 +1,6 @@
 ---
 ID: 278
-post_title: Before You Get to Campus
+post_title: 'Move-In: Before you Arrive'
 author: mesch
 post_date: 2016-06-16 11:25:33
 post_excerpt: ""
