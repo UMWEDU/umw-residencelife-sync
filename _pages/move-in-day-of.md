@@ -8,6 +8,8 @@ layout: page
 permalink: >
   http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/move-in-day-of/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2>Move-in Day:</h2>
 In order to ease traffic and demand for stairwells and elevators during move in we have created the plan below.  Please click on the link for your assigned building for a detailed instruction sheet to assist you with your move-in experience.  We ask that you do your best to adhere to your assigned move-in time.  This will assist UMW staff in insuring you have a relaxed and hassle-free move-in experience.
@@ -20,13 +22,13 @@ Please be mindful that August in Virginia can be hot and humid and sometimes a b
 </ul>
 <h2>Residence Hall Move-in Instructions</h2>
 <ul>
- 	<li><em>Alvey/Arrington Printer Friendly Version</em></li>
- 	<li><em>Ball/Custis/Madison/Virginia/Willard Printer Friendly Version</em></li>
- 	<li><em>Bushnell/Jefferson/Randolph/Mason/Westmoreland Printer Friendly Version</em></li>
- 	<li><em>Eagle Landing Printer Friendly Version</em></li>
- 	<li><em>Framar Printer Friendly Version</em></li>
- 	<li><em>Marshall/Russell Printer Friendly Version</em></li>
- 	<li><em>UMW Apartments Printer Friendly Version</em></li>
+ 	<li><em>Alvey/Arrington</em></li>
+ 	<li><em>Ball/Custis/Madison/Virginia/Willard</em></li>
+ 	<li><em>Bushnell/Jefferson/Randolph/Mason/Westmoreland</em></li>
+ 	<li><em>Eagle Landing</em></li>
+ 	<li><em>Framar House</em></li>
+ 	<li><em>Marshall/Russell</em></li>
+ 	<li><em>UMW Apartments</em></li>
 </ul>
 <h3>Move-in Day Questions</h3>
 UMW Residence Life and Commuter Student Services has done its best to provide you with all of the information that you will need to make your move-in experience as smooth and effortless as possible.  However, in the event you have question <strong><u>on Move-in Day</u></strong> you can get your questions answered in person at the following location on Campus:
@@ -35,6 +37,4 @@ UMW Residence Life and Commuter Student Services has done its best to provide yo
  	<li>Lee Hall Information Desk on the 3<sup>rd</sup> Floor (Building 33 on the campus map)</li>
  	<li>Eagle Landing Front Desk (Building 22 on the campus map)</li>
 </ul>
-&nbsp;
-
 Or, if you prefer you can use social media including Facebook and twitter between 8am and 5pm to get your questions answered using <strong>#UMWMovein16</strong>
