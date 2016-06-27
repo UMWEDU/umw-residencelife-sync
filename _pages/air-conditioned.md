@@ -23,7 +23,7 @@ For housing accommodation requests in addition to, or other than air-conditioned
 <h2>Application Requirements</h2>
 <a href="https://orgsync.com/59554/forms/87507">Air Conditioned Housing Accommodation Request Form</a>
 
-Supporting Medical Documentation - Information provided by a medical professional (doctor or nurse practitioner) on either a prescription notepad or letterhead containing the student’s name, birth date, and diagnosis, and indicating air-conditioned housing as a requirement for treatment. The supporting documentation may be electronically attached to the request, faxed to (540) 654-1527, or mailed to:
+Supporting Medical Documentation - Information provided by a medical professional (doctor or nurse practitioner) on either a prescription notepad or letterhead containing the student’s name, birth date, and diagnosis, and indicating air-conditioned housing as a requirement for treatment. The supporting documentation may be electronically attached to the request, faxed to 540-654-1527, or mailed to:
 
 UMW Office of Residence Life
 1301 College Avenue
