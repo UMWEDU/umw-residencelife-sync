@@ -51,4 +51,4 @@ The University of Mary Washington is committed to creating a sustainable future.
 
 UMW also offers Green Room Certification.  To learn more about this certification <a href="http://sustainability.umw.edu/green-room-certification-checklist/" target="_blank">visit the Office of Sustainability</a>.<strong> </strong>
 
-<strong>NOTE</strong>:  Label all boxes with last name, first initial, building, room number.  Forgot your building and room? Check your account online with  <a href="https://umw-residence.symplicity.com/index.php/pid789120?">Symplicity Residence</a>
+<strong>NOTE</strong>:  Label all boxes with last name, first initial, building, room number.  Forgot your building and room? Check your account online with <a href="https://umw-residence.symplicity.com/index.php/pid789120?">Symplicity Residence</a>
