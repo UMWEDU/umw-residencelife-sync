@@ -30,15 +30,15 @@ Each individual will have a specific individual time slot.  However, if in a gr
 
 Approved students will be notified during Spring Break, and given a link to sign up for a time slot to select their housing assignment during the week of March 7-11<sup>th</sup>.
 
-<strong>Themed Housing</strong>: In order to participate in Theme Housing you must complete the <a href="https://orgsync.com/59554/forms/166472">Themed Housing application in MyUMW</a> by February 5, 2016.
+<strong>Themed Housing</strong>: In order to participate in Theme Housing you must complete the <a href="https://orgsync.com/59554/forms/166472">Themed Housing application in myUMW</a> by February 5, 2016.
 
 Students will automatically be assigned to housing based on the community roster due February 22<sup>nd</sup> during Spring Break.
 
-<strong>AC Accommodations</strong>: In order to participate in this pre-process students should read the information available on <a href="http://students.umw.edu/residencelife/airconditionedhousing/">AC accommodations</a>, and must submit their housing application and a <a href="https://orgsync.com/59554/forms/87507">request form in MyUMW</a> by February 26<sup>th</sup>.
+<strong>AC Accommodations</strong>: In order to participate in this pre-process students should read the information available on <a href="http://students.umw.edu/residencelife/airconditionedhousing/">AC accommodations</a>, and must submit their housing application and a <a href="https://orgsync.com/59554/forms/87507">request form in myUMW</a> by February 26<sup>th</sup>.
 
 Approved students will be notified during Spring Break, and given a link to sign up for a time slot to select their housing assignment during the week of March 7-11<sup>th</sup>.
 
-<strong>Resident Assistants</strong>: Resident Assistants must submit their Housing Application by February 26<sup>th</sup>. Resident Assistants assigned to Eagle Landing and the UMW Apartments must also submit the <a href="https://orgsync.com/59554/files/726047/show">RA Roommate Agreement and Housing Form in MyUMW</a> by February 26th.
+<strong>Resident Assistants</strong>: Resident Assistants must submit their Housing Application by February 26<sup>th</sup>. Resident Assistants assigned to Eagle Landing and the UMW Apartments must also submit the <a href="https://orgsync.com/59554/files/726047/show">RA Roommate Agreement and Housing Form in myUMW</a> by February 26th.
 
 RAs will be assigned along with any designated apartment-mates during Spring Break.
 
@@ -46,11 +46,11 @@ RAs will be assigned along with any designated apartment-mates during Spring Bre
 
 <strong>Homesteading</strong>: Homesteading allows current undergraduate residential students living in certain designated spaces within upperclass buildings (except UMW Apartments and any first-year residence hall where upperclassmen live, such as Custis) the option to keep their current room assignment for the 2016-2017 Academic Year.
 
-In order to participate in this pre-process you must submit the housing application <a href="https://orgsync.com/59554/forms/66700">homesteading form in MyUMW</a> by February 26<sup>th</sup>. Approved students will be assigned during Spring Break.
+In order to participate in this pre-process you must submit the housing application <a href="https://orgsync.com/59554/forms/66700">homesteading form in myUMW</a> by February 26<sup>th</sup>. Approved students will be assigned during Spring Break.
 
 <strong>Eagle Landing Mixed Sex</strong>: A group of four current students consisting of two females and two males may choose to live together in one apartment (the females in one double room, and the males in the other double room) in Eagle Landing.
 
-In order to participate in this pre-process you must submit the housing application as well as the <a href="https://orgsync.com/59554/forms/131495">Eagle Landing Mixed Sex Suite Form</a> in MyUMW by February 26<sup>th</sup>.  Approved students will be assigned during Spring Break.
+In order to participate in this pre-process you must submit the housing application as well as the <a href="https://orgsync.com/59554/forms/131495">Eagle Landing Mixed Sex Suite Form</a> in myUMW by February 26<sup>th</sup>.  Approved students will be assigned during Spring Break.
 
 <strong>Gender Neutral Housing</strong>:  In order to participate in Gender Neutral Housing students must indicate their desire to live in Gender Neutral Housing on their Housing application.
 
