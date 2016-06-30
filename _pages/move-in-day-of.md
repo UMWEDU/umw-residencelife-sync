@@ -12,14 +12,14 @@ wpcf-home-page-grid-inclusion:
   - "0"
 ---
 <h2><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Logo_Movein_lk_FINAL_1215.jpg"><img class="alignnone size-large wp-image-281" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Logo_Movein_lk_FINAL_1215-1024x483.jpg" alt="Logo_Movein_lk_FINAL_1215" width="1024" height="483" /></a></h2>
-<h2>Move-in Day:</h2>
+<h2>Move-in Day</h2>
 In order to ease traffic and demand for stairwells and elevators during move in we have created the plan below.  Please click on the link for your assigned building for a detailed instruction sheet to assist you with your move-in experience.  We ask that you do your best to adhere to your assigned move-in time.  This will assist UMW staff in insuring you have a relaxed and hassle-free move-in experience.
 <h3>Important Announcement Regarding move-in:</h3>
 Please be mindful that August in Virginia can be hot and humid and sometimes a bit rainy.  Please pack and dress accordingly and bring a little extra…
 <ul>
  	<li>Patience,</li>
- 	<li>Water</li>
- 	<li>Don’t forget to label all boxes with last name, first initial, building, and room number</li>
+ 	<li>Water,</li>
+ 	<li>And, don’t forget to label all boxes with last name, first initial, building, and room number</li>
 </ul>
 <h2>Residence Hall Move-in Instructions</h2>
 <ul>
@@ -31,6 +31,7 @@ Please be mindful that August in Virginia can be hot and humid and sometimes a b
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/MarsRuss-webpage.pdf"><em>Marshall/Russell</em></a></li>
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/UMAPT-webpage.pdf"><em>UMW Apartments</em></a></li>
 </ul>
+Please also download the <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/new-map.jpg">Move-in Day map</a>, paying special attention to the map keys in the bottom left half of the map.
 <h3>Move-in Day Questions</h3>
 UMW Residence Life and Commuter Student Services has done its best to provide you with all of the information that you will need to make your move-in experience as smooth and effortless as possible.  However, in the event you have question <strong><u>on Move-in Day</u></strong> you can get your questions answered in person at the following location on Campus:
 <ul>
