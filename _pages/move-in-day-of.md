@@ -28,7 +28,7 @@ Please be mindful that August in Virginia can be hot and humid and sometimes a b
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/BushJeffLinkMasoRandWest-webpage.pdf"><em>Bushnell/Jefferson/Link/Randolph/Mason/Westmoreland</em></a></li>
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/ELEV-webpage.pdf"><em>Eagle Landing</em></a></li>
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/Framar-webpage.pdf"><em>Framar House</em></a></li>
- 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/MarsRuss-webpage.pdf"><em>Marshall/Russell</em></a></li>
+ 	<li><a href="https://www.umw.edu/residencelife/before-you-get-to-campus/move-in/move-in-day-of/marsruss-webpage/"><em>Marshall/Russell</em></a></li>
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/UMAPT-webpage.pdf"><em>UMW Apartments</em></a></li>
 </ul>
 Please also download the <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/new-map.jpg">Move-in Day map</a>, paying special attention to the map keys in the bottom left half of the map.
