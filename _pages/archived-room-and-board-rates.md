@@ -9,6 +9,154 @@ permalink: >
   http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/archived-room-and-board-rates/
 published: true
 ---
+<h2>2015-2016</h2>
+All rates are Per Semester
+<table width="100%">
+<tbody>
+<tr>
+<td width="341">
+<h4> Randolph and Mason Halls</h4>
+</td>
+<td width="80"></td>
+</tr>
+<tr>
+<td> Single Room Rate</td>
+<td>$4,102</td>
+</tr>
+<tr>
+<td> Double Room Rate</td>
+<td>$3,433</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+<h4> Alvey and Arrington Halls</h4>
+</td>
+<td></td>
+</tr>
+<tr>
+<td> Single Room Rate</td>
+<td>$3,709</td>
+</tr>
+<tr>
+<td> Double Room Rate</td>
+<td>$3,040</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+<h4> Willard Hall</h4>
+</td>
+<td></td>
+</tr>
+<tr>
+<td> Single Room Rate</td>
+<td>$4,102</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+<h4> All Other University Housing</h4>
+</td>
+<td></td>
+</tr>
+<tr>
+<td> Single Room Rate</td>
+<td>$3,610</td>
+</tr>
+<tr>
+<td> Double Room Rate</td>
+<td>$2,941</td>
+</tr>
+<tr>
+<td> Triple Room Rate</td>
+<td>$2,800</td>
+</tr>
+<tr>
+<td> Quad Room Rate</td>
+<td>$2,657</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+<h4> University Apartments</h4>
+</td>
+<td></td>
+</tr>
+<tr>
+<td> Single Room Apartment Rate</td>
+<td>$4,626</td>
+</tr>
+<tr>
+<td> Double Room Apartment Rate</td>
+<td>$3,807</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+<h4> Eagle Landing</h4>
+</td>
+<td></td>
+</tr>
+<tr>
+<td> Double Room Rate</td>
+<td>$4,117</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+<h4> University Meal Plans</h4>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>  Super Meal Plan ($100 flex/semester)</td>
+<td>  $2,495</td>
+</tr>
+<tr>
+<td>  225 Meal Block Plan ($200 flex/semester)</td>
+<td> $1,987</td>
+</tr>
+<tr>
+<td> 150 Meal Block Plan ($300 flex/semester)</td>
+<td>$1,906</td>
+</tr>
+<tr>
+<td> 90 Meal Block Plan ($175 flex/semester)</td>
+<td>$1,071</td>
+</tr>
+<tr>
+<td> 75 Meal Block Plan ($250 flex/semester)</td>
+<td>$1,071</td>
+</tr>
+<tr>
+<td>30 Meal Block Plan ($500 flex/semester) *only available to commuters</td>
+<td>$750</td>
+</tr>
+<tr>
+<td>8 Meal Block Plan ($750 flex/semester) *only available to commuters</td>
+<td>$800</td>
+</tr>
+</tbody>
+</table>
 <h2>2014-2015</h2>
 All rates are Per Semester
 <table width="100%">
