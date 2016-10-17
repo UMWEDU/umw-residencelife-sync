@@ -28,8 +28,6 @@ The RA Selection process continues through the Spring semester. If you attend on
 <h2>References</h2>
 <h3>How do references work? Who should I get references from?</h3>
 Applicants must have two references.  One of those references must be a current UMW staff member (professor, advisor, supervisor, etc.).  The second reference can be from a non-UMW or UMW professional.  You will need your reference’s e-mail addresses while filling out your application.  All references must be of a professional nature (not a family member or friend).
-
-&nbsp;
 <h2>Info Sessions &amp; Resume Workshop</h2>
 <h3>What if I can’t attend any of the RA information sessions?</h3>
 You will not be able to proceed with the process unless you can provide appropriate documentation for missing all RA information sessions, which will be reviewed on a case-by-case basis. This documentation should be sent to Colin Coleman, Assistant Director of Residence Life at ccolema4@umw.edu. If you are studying abroad during the Fall 2015 semester, see the question above.
