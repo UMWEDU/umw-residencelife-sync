@@ -21,8 +21,6 @@ RAs play an integral part in the overall operation of the residence halls. Prima
 
 The responsibilities below outline the general expectations of the Resident Assistant. Due to the nature of this position, which can be unpredictable and evolves as the needs of the campus change, there may be variations or additions to this list. RAs may also be asked to help with other duties as assigned by a professional staff member.
 <h2>Resident Assistant Job Description 2017-2018</h2>
-&nbsp;
-
 The <a href="https://orgsync.com/59554/files/1101015/show">2017-2018 RA job description</a> can be found on MyUMW in the Office of Residence Life &amp; Commuter Student Services portal.
 <h2>How to Apply</h2>
 <h3>Information Sessions</h3>
