@@ -8,10 +8,10 @@ layout: page
 permalink: >
   http://www.umw.edu/residencelife/on-campus/life/get-involved/ra-selection/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
 wpsi_page_checks:
   - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15999633860;s:3:"url";s:74:"http://www.umw.edu/residencelife/on-campus/life/get-involved/ra-selection/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15999633860";}s:4:"time";i:1457622235;}}'
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 If you love the University of Mary Washington as much as you say you do, the Office of Residence Life invites you to apply to become a Resident Assistant!
 
@@ -21,52 +21,9 @@ RAs play an integral part in the overall operation of the residence halls. Prima
 
 The responsibilities below outline the general expectations of the Resident Assistant. Due to the nature of this position, which can be unpredictable and evolves as the needs of the campus change, there may be variations or additions to this list. RAs may also be asked to help with other duties as assigned by a professional staff member.
 <h2>Resident Assistant Job Description 2017-2018</h2>
-The Resident Assistant (RA) is an experienced UMW student who serves as a member of the Office of Residence Life and Commuter Student Services staff, caring for and supporting UMW’s residential population. Through their presence and outreach, RAs positively shape the on-campus living experience, while enhancing their own leadership skills (time management, interpersonal communication, budgeting, public speaking, and conflict resolution). Few campus employment opportunities provide students with the scope and depth of this position. Though the RA position requires a significant time commitment, RAs should be prepared for an incredibly rewarding and challenging experience where they can impact the lives of many students.
-<h3>Key Position Highlights</h3>
-Resident Assistants serve many roles including: educator, community builder, role model, resource and administrator. They are responsible for fostering student learning and growth, building an inclusive community, forming personal relationships and encouraging residents and staff members to be accountable for their choices and actions. RAs utilize a variety of methods to focus and align their efforts to the over-arching educational priority that students will use critical thinking to make sound decisions. The RA position is a paraprofessional position within the Office of Residence Life and Commuter Student Services. The RA will have a direct supervisor and will receive indirect supervision from other professional staff within the department. The RA’s main purpose is to develop and maintain an engaging, supportive environment which encourages the pursuit of excellence in support of the mission and vision of the University.
+&nbsp;
 
-The responsibilities below outline the general expectations of the Resident Assistant. Due to the nature of this position, which can be unpredictable and evolves as the needs of the campus change, there may be variations or additions to this list. RAs may also be asked to help with other duties as assigned by a professional staff member.
-<h4>Community Building and Residential Education</h4>
-<ol>
- 	<li>Maintain a high level of contact and visibility with residents on their floor.</li>
- 	<li>Support students and referring them to appropriate staff/faculty or campus resources when needed.</li>
- 	<li>Encourage personal responsibility and support residents in personal, social, and academic areas.</li>
- 	<li>Know all residents by name.</li>
- 	<li>Be an active participant and leader in implementation of a <a href="http://students.umw.edu/residencelife/learning/">residential curriculum model</a> including, but not limited to, conducting one-on-one conversations with residents, creating bulletin boards and implementing community events</li>
- 	<li>Maintain the residence hall as a primary residence to ensure the RA is accessible and approachable to residents. This includes spending a majority of nights in the residence, studying within one’s own residence, and using study spaces on the floor</li>
- 	<li>Make contact with residents (at minimum) on a weekly basis.</li>
- 	<li>Schedule and conduct hall meetings as necessary.</li>
- 	<li>Model a positive image of the Office of Residence Life and Commuter Student Services on and off campus. This is accomplished by upholding all University and residence hall policies, Common-wealth and Federal law.</li>
- 	<li>Project a caring, concerned, approachable demeanor in order to facilitate communication and establish meaningful personal relationships with residents.</li>
- 	<li>Explain intent and reasons for University and residence hall policies to residents.</li>
- 	<li>Recognize the demands of academic, personal life, and position responsibilities in an attempt to budget time in a balanced manner.</li>
-</ol>
-<h4>Administration</h4>
-<ol>
- 	<li>Assist with administrative processes including but not limited to room changes, health and safety inspections, room inspections</li>
- 	<li>Respect and maintain appropriate staff and student relationships and confidentiality.</li>
- 	<li>Keep master keys secure and understand their appropriate use.</li>
- 	<li>Promptly document incidents involving violations of university, residence life, and community policy.</li>
- 	<li>Meet one-on-one on a regular basis with direct supervisor</li>
- 	<li>Attend weekly staff meetings.</li>
- 	<li>Attend fall and winter staff training and in-service training throughout the semester.</li>
- 	<li>Participate in the staff selection and housing selection processes.</li>
- 	<li>Maintain communication with direct supervisor via email, phone, and campus mail.</li>
- 	<li>Complete work order requests online</li>
-</ol>
-<h4>Crisis Management</h4>
-<ol>
- 	<li>Address roommate and hall-mate conflicts.</li>
- 	<li>Enforce all policies as stated in the UMW Student Handbook.</li>
- 	<li>Participate in duty rotation within area every week of the academic year, including during breaks.</li>
- 	<li>Maintain consistent visibility in the residence hall.</li>
- 	<li>Assist with fire drills and evacuations.</li>
- 	<li>Respond to emergencies. Report all emergencies</li>
-</ol>
-<h2>Remuneration</h2>
-Remuneration will consist of an academic year stipend equivalent to $4,100. RAs will also receive a room credit of $475 per semester ($950 for Eagle Landing RAs).
-
-Note:  If selected as a Resident Assistant for the UMW Apartments or Eagle Landing, you will be responsible for selecting all of your roommates/apartment-mates.
+The <a href="https://orgsync.com/59554/files/1101015/show">2017-2018 RA job description</a> can be found on MyUMW in the Office of Residence Life &amp; Commuter Student Services portal.
 <h2>How to Apply</h2>
 <h3>Information Sessions</h3>
 Three information sessions will be hosted by the Office of Residence Life to help provide detailed information to students interested in applying for the RA position.
