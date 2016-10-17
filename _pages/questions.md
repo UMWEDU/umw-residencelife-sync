@@ -8,30 +8,28 @@ layout: page
 permalink: >
   http://www.umw.edu/residencelife/on-campus/life/get-involved/ra-selection/questions/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2>The Basics</h2>
 <h3>Where do I go to get the most useful and up-to-date information regarding the Resident Assistant Selection Process?</h3>
-You are already there…..on the website! The RA Selection website has the most up-to-date information regarding the RA Selection Process. You can find everything from important dates, necessary forms and answers to the most frequently asked questions.
+You are already there…..on the website! The RA Selection website has the most up-to-date information regarding the RA Selection Process. You can find everything from important dates, necessary forms and answers, to the most frequently asked questions.
 <h3>I want to become a Resident Assistant. What do I do, and when?</h3>
 You are taking that first step now by visiting this website. Read through the entire site. If you still have questions, contact a Resident Assistant or the Office of Residence Life.
 <h3>What do I get for being an RA?</h3>
 Remuneration will consist of an academic year stipend equivalent to $4,100. RAs will also receive a room credit of $475 per semester ($950 for Eagle Landing RAs).
 <h2>Application</h2>
-<h3>What if I want to apply to be an RA in Spring 2016 semester?</h3>
-Applications to be an RA for the Spring 2016 academic semester are available through <a href="https://orgsync.com/59554/forms/157993">MyUMW</a> and are due by <strong>5pm on Friday, October 30</strong>. Individual interviews will be conducted between <strong>Monday, November 2 and Friday, November 6</strong>.
 <h3>When can I turn in my application and reference forms?</h3>
-For the Fall 2016-Spring 2017 process, completed applications and reference forms must be submitted by 5pm on Friday, December 11, 2015 via MyUMW. Applications will not be collected after this date and time.
-<h3>How do I apply if I am studying abroad during the Fall 2015 semester, and will miss the RA information sessions in November?</h3>
-In this case, you can attend a special information session on Wednesday, January 13, 2016. This information session is only for new transfer students and those students who were abroad during the fall 2015 semester.
-<h3>How do I apply if I want to study abroad in the Spring 2016 semester?</h3>
-The RA Selection process continues through the spring semester. If you attend one of the information sessions during the fall, which means that you will be missing the interviews and group process in the spring, you will be required to complete a 2- to 3-page paper answering specific questions and turning it in to the RA Selection chair for review. Due date for this paper will be announced at each of the information sessions.
+For the Fall 2017-Spring 2018 process, completed applications and reference forms must be submitted by 5pm on Friday, December 9, 2016 via MyUMW. Applications will not be collected after this date and time.
+<h3>How do I apply if I am studying abroad during the Fall 2016 semester, and will miss the RA information sessions in November?</h3>
+In this case, you can attend a special information session on Wednesday, January 25, 2017. This information session is only for new transfer students and those students who were abroad during the Fall 2016 semester.
+<h3>How do I apply if I want to study abroad in the Spring 2017 semester?</h3>
+The RA Selection process continues through the Spring semester. If you attend one of the information sessions during the Fall, which means that you will be missing the interviews and group process in the Spring, you will be required to complete a 2- to 3-page paper answering specific questions and turning it in to the RA Selection chair for review. Details will be provided upon request.
 <h2>References</h2>
 <h3>How do references work? Who should I get references from?</h3>
-Residents who currently reside on-campus must have two references.  One of those references will need to be from a current Resident Assistant.  A second reference can be from a non-UMW or UMW professional.  You will need your reference’s e-mail addresses while filling out your application.  The second reference must be of a professional nature (not a family member or friend).
+Applicants must have two references.  One of those references must be a current UMW staff member (professor, advisor, supervisor, etc.).  The second reference can be from a non-UMW or UMW professional.  You will need your reference’s e-mail addresses while filling out your application.  All references must be of a professional nature (not a family member or friend).
 
-Applicants who currently reside off-campus must have two references.  One must be from a current University of Mary Washington professional.  The second reference can be from any professional.  All references must be of a professional nature (not a family member or friend).
-<h3>Can I submit additional references?</h3>
-No, ONLY two references are to be submitted.
+&nbsp;
 <h2>Info Sessions &amp; Resume Workshop</h2>
 <h3>What if I can’t attend any of the RA information sessions?</h3>
 You will not be able to proceed with the process unless you can provide appropriate documentation for missing all RA information sessions, which will be reviewed on a case-by-case basis. This documentation should be sent to Colin Coleman, Assistant Director of Residence Life at ccolema4@umw.edu. If you are studying abroad during the Fall 2015 semester, see the question above.
