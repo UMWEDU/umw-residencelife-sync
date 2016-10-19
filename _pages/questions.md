@@ -17,7 +17,7 @@ You are already there…..on the website! The RA Selection website has the most 
 <h3>I want to become a Resident Assistant. What do I do, and when?</h3>
 You are taking that first step now by visiting this website. Read through the entire site. If you still have questions, contact a Resident Assistant or the Office of Residence Life.
 <h3>What do I get for being an RA?</h3>
-Remuneration will consist of an academic year stipend equivalent to $4,100. RAs will also receive a room credit of $475 per semester ($950 for Eagle Landing RAs).
+Remuneration will consist of an academic year stipend equivalent to $4,100. RAs will also receive a room credit of $475 per semester.
 <h2>Application</h2>
 <h3>When can I turn in my application and reference forms?</h3>
 For the Fall 2017-Spring 2018 process, completed applications and reference forms must be submitted by 5pm on Friday, December 9, 2016 via MyUMW. Applications will not be collected after this date and time.
