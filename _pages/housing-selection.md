@@ -8,6 +8,8 @@ layout: page
 permalink: >
   http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2>Important Dates</h2>
 <ul>
@@ -18,7 +20,7 @@ published: true
  	<li>Mar 25 All Day: Room Selection Day.  For detailed information about how to select your room, go to <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/details/">housing selection details</a>. (Eagle Landing has been condensed into this larger process.)</li>
  	<li>Mar 27: Assign anyone who did not select during housing selection</li>
 </ul>
-<strong>*Pre-process selection is reserved for students in the following categories and their roommate/suite-mates.</strong>  (Medical Accommodations, Theme Housing, AC Accommodations, Resident Assistants, My Room My UMW contest winners, Gender Neutral Housing, Homesteading, Mixed-Sex Suites in Eagle Landing.)  Additional information will be emailed to students regarding the selection process.
+<strong>*Pre-process selection is reserved for students in the following categories and their roommate/suite-mates.</strong>  (Medical Accommodations, Theme Housing, AC Accommodations, Resident Assistants, My Room My UMW contest winners, Gender Neutral Housing, Homesteading, and Mixed Sex Suites.)  Additional information will be emailed to students regarding the selection process.
 <h2>Housing Selection Process Step by Step</h2>
 <ol>
  	<li><strong>Decide if you will live on campus or off next year.</strong>  <strong>NOTE:</strong><strong> </strong> First year students are required to live on campus for their second year.  Students who fail to complete the 2nd Year Fulfillment application will be manually assigned.</li>
