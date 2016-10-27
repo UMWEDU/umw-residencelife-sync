@@ -50,9 +50,9 @@ RAs will be assigned along with any designated apartment-mates during Spring Bre
 
 In order to participate in this pre-process you must submit the housing application and <a href="https://orgsync.com/59554/forms/66700">homesteading form in myUMW</a> by February 24<sup>th</sup>. Approved students will be assigned during Spring Break.
 
-<strong>Eagle Landing Mixed Sex</strong>: A group of four current students consisting of two females and two males may choose to live together in one apartment (the females in one double room, and the males in the other double room) in Eagle Landing.
+<strong>Mixed Sex Suite</strong>: A group of four current students consisting of two females and two males may choose to live together in one apartment (the females in one double room, and the males in the other double room) in Eagle Landing.
 
-In order to participate in this pre-process you must submit the housing application as well as the <a href="https://orgsync.com/59554/forms/131495">Eagle Landing Mixed Sex Suite form</a> in myUMW by February 24<sup>th</sup>.  Approved students will be assigned during Spring Break.
+In order to participate in this pre-process you must submit the housing application as well as the <a href="https://orgsync.com/59554/forms/131495">Mixed Sex Suite form</a> in myUMW by February 24<sup>th</sup>.  Approved students will be assigned during Spring Break.
 
 <strong>Gender Neutral Housing</strong>:  In order to participate in Gender Neutral Housing students must submit the housing application and the <a href="https://orgsync.com/59554/forms/128691">Gender Neutral Housing form</a> on MyUMW.
 <h2></h2>
@@ -61,15 +61,15 @@ In order to participate in this pre-process you must submit the housing applicat
 
 On March 28<sup>th</sup>, all students who have not previously selected housing will select at or after the assigned appointment time of their individual or roommate group.
 
-During the room selection process, all beds must be filled to 100% capacity (only exception: see “Option Rooms”). For example, a group of three students must select a three-person apartment.
+During the room selection process, all beds must be filled to 100% capacity (only exception: see “Open Rooms”). For example, a group of three students must select a three-person apartment.
 
 Prior to the process taking place, detailed information will be communicated with housing selection participants on the specific “how-to” instructions to follow in order to electronically select the housing assignment.
-<h2><strong>Option Rooms:</strong></h2>
-Students are strongly urged to find a roommate for the Housing Selection process.  However, there will be a limited number of Option Rooms available to those students who do not have a group formed [roommate(s)] to fill an entire room or suite.  These students will only have the choice of choosing a space in one of these Option Rooms if a space is available.
+<h2><strong>Open Rooms:</strong></h2>
+Students are strongly urged to find a roommate for the Housing Selection process.  However, there will be a limited number of Open Rooms available to those students who do not have a group formed [roommate(s)] to fill an entire room or suite.  These students will only have the choice of choosing a space in one of these Open Rooms.
 
-The list of designated Option Rooms will be listed in Symplicity Residence after you log in.  This list will be updated throughout the selection process on Saturday.  As it will change, be sure to review it again prior to selecting if you want to know what spaces are Option Rooms.
+The list of designated Open Rooms will be listed in Symplicity Residence after you log in.  This list will be updated throughout the selection process on Saturday.  As it will change, be sure to review it again prior to selecting if you want to know what spaces are Open Rooms.
 
-&nbsp;
+*NOTE: these rooms are not "single" rooms; students who choose to select these spaces without a designated roommate, will have another person assigned to the other open space.
 
-<u>Resident Assistant Option Room spaces</u>
-There are some Option Rooms available in Resident Assistant apartments.  Students selecting these spaces will need to agree to the terms of living with an RA and sign the RA Roommate Agreement form after selecting (Residence Life staff will later contact you about signing it).
+<u>Resident Assistant Open Room spaces</u>
+There are some Open Rooms available in Resident Assistant apartments.  Students selecting these spaces will need to agree to the terms of living with an RA and sign the RA Roommate Agreement form after selecting (Residence Life staff will later contact you about signing it).
