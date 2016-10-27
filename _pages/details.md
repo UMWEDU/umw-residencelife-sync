@@ -14,11 +14,11 @@ wpcf-home-page-grid-inclusion:
 <h2><strong>Housing Selection Glossary of Terms</strong></h2>
 <em>Group Leader</em>-One member of each roommate group.  The group leader selects the housing assignment at the designated appointment time for all members of the group.
 
-<em>Housing Assignment</em>-the building and room where a student will live for the 2016-2017 year.  The assignment is selected by the individual or the group leader (for roommate groups) in Symplicity Residence during their housing selection appointment.
+<em>Housing Assignment</em>-the building and room where a student will live for the 2017-2018 year.  The assignment is selected by the individual or the group leader (for roommate groups) in Symplicity Residence during their housing selection appointment.
 
-<em>Housing Selection Appointment</em>-The time at or after which a student can log into Symplicity Residence to select their housing assignment for the 2016-2017 year.
+<em>Housing Selection Appointment</em>-The time at or after which a student can log into Symplicity Residence to select their housing assignment for the 2017-2018 year.
 
-<em>Housing Selection Process</em>-The time frame during which students may select a housing assignment for the 2016-2017 year.  Pre-Process (March 7-11), and Main Selection Process (March 26).
+<em>Housing Selection Process</em>-The time frame during which students may select a housing assignment for the 2017-2018 year.  Pre-Process (March 6-10<sup>th</sup>), and Main Selection Process (March 25<sup>th</sup>).
 
 <em>Roommate Group</em>-The group of students that wish to share a room.  These groups are set up in Symplicity Residence by sharing your roommate code.
 <h2><strong>Housing Selection Appointment Times</strong></h2>
