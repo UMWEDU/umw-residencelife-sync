@@ -35,11 +35,18 @@ If you don’t currently live on campus, but want to know what it’s like to li
  	<li><a href="http://www.umw.edu/residencelife/on-campus/work-orders/">Work Order requests</a></li>
 </ul>
 </li>
- 	<li><a href="http://www.umw.edu/residencelife/on-campus/summer-housing/">Summer 2016 Housing information</a></li>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/life/">Life in the Halls</a>
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/life/first-year-seminar/">FSEMs</a></li>
- 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/">Get Involved</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/">Get Involved</a>
+<ul>
+ 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/ra-selection/">Resident Assistant Selection</a>
+<ul>
+ 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/ra-selection/questions/">RA Selection FAQs</a></li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 </li>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/life-in-the-halls/thcs/">Themed Housing Communities</a> (THC)
@@ -65,16 +72,9 @@ If you don’t currently live on campus, but want to know what it’s like to li
 </li>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/life/">Life in the Halls</a>
 <ul>
- 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/">Get Involved</a>
-<ul>
- 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/ra-selection/">Resident Assistant Selection</a>
-<ul>
- 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/ra-selection/questions/">RA Selection FAQs</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/">Get Involved</a></li>
 </ul>
 </li>
-</ul>
-</li>
-</ul>
-</li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/summer-2016-housing-agreement-terms/">Summer 2016 Housing information</a></li>
 </ul>
 </div>
