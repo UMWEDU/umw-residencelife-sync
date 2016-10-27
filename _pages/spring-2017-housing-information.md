@@ -26,7 +26,7 @@ Housing and Dining Services Agreement application available (due Dec. 2 for prio
 <h3>Friday, November 18</h3>
 <ul>
  	<li>Application for housing accommodation due to the <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations/">Office of Disability Resources</a> for more information.</li>
- 	<li>Air Conditioning Accommodations request form due<strong>. </strong> Note: Eagle Landing has central air conditioning, so if you hope to live in Eagle Landing, it is not necessary to submit this form.</li>
+ 	<li><a href="https://orgsync.com/59554/forms/87507">Air Conditioning Accommodations request form</a> due through myUMW<strong>. </strong> See the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/air-conditioned/">Air Conditioned Housing Accommodations site</a> for more information. Note: Eagle Landing has central air conditioning, so if you hope to live in Eagle Landing, it is not necessary to submit this form.</li>
 </ul>
 <h3>Monday, December 12</h3>
 Housing assignments will be made for anyone submitting their application by the priority deadline.  Assignments received later will be made on a rolling basis.
