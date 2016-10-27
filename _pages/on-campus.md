@@ -26,7 +26,7 @@ If you don’t currently live on campus, but want to know what it’s like to li
  	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/">Housing Procedures</a>
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/changes/">Changes to housing assignments</a></li>
- 	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/extended-stay-housing/">Extended Stay Housing</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/break-housing/">Break Housing</a></li>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/intent-to-vacate/">Intent to Vacate</a></li>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/current-students-termination-of-housing-agreement/">Termination of Housing Agreement</a></li>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/key/">Residential students key or lock issues</a></li>
@@ -61,7 +61,7 @@ If you don’t currently live on campus, but want to know what it’s like to li
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/">Housing Procedures</a>
 <ul>
- 	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/break-housing/">Break Housing</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/extended-stay-housing/">Extended Stay Housing</a></li>
 </ul>
 </li>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/end-of-year-closing/">End of Year Closing information</a></li>
