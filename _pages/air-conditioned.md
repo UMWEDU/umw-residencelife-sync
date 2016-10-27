@@ -1,6 +1,6 @@
 ---
 ID: 33
-post_title: Air-Conditioned Housing Accommodations
+post_title: Air Conditioned Housing Accommodations
 author: mesch
 post_date: 2016-01-27 19:33:01
 post_excerpt: ""
