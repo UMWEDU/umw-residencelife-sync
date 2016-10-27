@@ -15,7 +15,7 @@ wpcf-homepage-copy:
     <a href="https://www.umw.edu/residencelife/before-you-get-to-campus/">Forms and information</a> about living on campus next year for all students.
     <div class="CTAbutton CTAblue" style="margin-top: 1em"><a href="https://www.umw.edu/residencelife/before-you-get-to-campus/move-in/">Fall Move-In</a></div>
 ---
-Even if you already live on campus, the information about on campus living for 2016-2017 can be found here. From housing selection to bed bunking/lofting, and move in, we have the pages and forms you seek.
+Even if you already live on campus, the information about on campus living can be found here. From housing selection to bed bunking/lofting, and move in, we have the pages and forms you seek.
 <div class="one-half first">
 <h2>Active Processes/Information</h2>
 <ul>
