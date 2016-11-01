@@ -33,7 +33,7 @@ Please be mindful that August in Virginia can be hot and humid and sometimes a b
 </ul>
 Please also download the <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/new-map.jpg">Move-in Day map</a>, paying special attention to the map keys in the bottom left half of the map.
 <h3>Move-in Day Questions</h3>
-UMW Residence Life and Commuter Student Services has done its best to provide you with all of the information that you will need to make your move-in experience as smooth and effortless as possible.  However, in the event you have question <strong><u>on Move-in Day</u></strong> you can get your questions answered in person at the following location on Campus:
+UMW Residence Life and Commuter Student Services has done its best to provide you with all of the information that you will need to make your move-in experience as smooth and effortless as possible.  However, in the event you have question on Move-in Day you can get your questions answered in person at the following location on Campus:
 <ul>
  	<li>Marye House (Building 38 on the campus map)</li>
  	<li>Lee Hall Information Desk on the 3<sup>rd</sup> Floor (Building 33 on the campus map)</li>
