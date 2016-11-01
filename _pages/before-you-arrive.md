@@ -11,7 +11,7 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h2><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Logo_Movein_lk_FINAL_1215.jpg"><img class="alignnone size-large wp-image-281" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Logo_Movein_lk_FINAL_1215-1024x483.jpg" alt="Logo_Movein_lk_FINAL_1215" width="1024" height="483" /></a></h2>
+<a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Logo_Movein_lk_FINAL_1215.jpg"><img class="alignnone size-large wp-image-281" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Logo_Movein_lk_FINAL_1215-1024x483.jpg" alt="Logo_Movein_lk_FINAL_1215" width="1024" height="483" /></a>
 <h2><strong>Before you arrive:</strong></h2>
 <ul>
  	<li>Pick up your EagleOne Card during Orientation. This is your student ID card and you will need it to check into your Residence Hall.</li>
