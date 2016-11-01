@@ -55,7 +55,6 @@ In order to participate in this pre-process you must submit the housing applicat
 In order to participate in this pre-process you must submit the housing application as well as the <a href="https://orgsync.com/59554/forms/131495">Mixed Sex Suite form</a> in myUMW by February 24<sup>th</sup>.  Approved students will be assigned during Spring Break.
 
 <strong>Gender Neutral Housing</strong>:  In order to participate in Gender Neutral Housing students must submit the housing application and the <a href="https://orgsync.com/59554/forms/128691">Gender Neutral Housing form</a> on MyUMW.
-<h2></h2>
 <h2><strong>Main Housing Selection:</strong></h2>
 <strong>Note</strong>:  The housing application is due March 10<sup>th</sup> for individuals wanting to participate in the Main Housing Selection process.
 
