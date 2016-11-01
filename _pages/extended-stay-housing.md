@@ -13,8 +13,8 @@ wpcf-home-page-grid-inclusion:
 ---
 The residence halls close for:
 <ul>
-	<li>everyone except graduates on Saturday, April 30 at 10am</li>
-	<li>graduating students on Sunday, May 8 at 10am.</li>
+ 	<li>everyone except graduates on Saturday, April 30 at 10am</li>
+ 	<li>graduating students on Sunday, May 8 at 10am.</li>
 </ul>
 Students wishing to remain on campus after the residence halls close <em>must obtain approval</em> by planning their extended stay and officially requesting it (or having their sponsor request it).
 
@@ -28,11 +28,10 @@ The <a href="https://orgsync.com/59554/forms/102141">May Extended Stay Applicati
 <h2>Sponsored students <em>(for UMW department sponsorship submission)</em></h2>
 Students needing to stay in on-campus housing after the residence hall closing date for official UMW business may be requested by a UMW department.  Examples of students who may be sponsored by a UMW department with legitimate reasons include the following:
 <ul>
-	<li>Athletic teams staying to compete</li>
-	<li>Students working Commencement ceremony (graduation usher, etc.)</li>
-	<li>Students attending a scheduled Honor Council / Judicial Review Board hearing</li>
+ 	<li>Athletic teams staying to compete</li>
+ 	<li>Students working Commencement ceremony (graduation usher, etc.)</li>
+ 	<li>Students attending a scheduled Honor Council / Judicial Review Board hearing</li>
 </ul>
 Previously identified sponsors will be contacted with specific instructions for submission via email.  If you have not previously sponsored a group for extended stay, contact <a href="mailto:bharper@umw.edu">Brittany Harper</a> no later than Tuesday, April 26, 2016.
 
 There is no housing charge for those sponsored students which are approved for extended stay.
-<h2></h2>
