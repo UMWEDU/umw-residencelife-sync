@@ -49,12 +49,12 @@ There are no on-campus storage options.  All residences are used over the summe
  	<li>Clean off writing on doors, walls, desks, dressers, or chairs. Wash all furniture surfaces – chairs, desks, dressers, window sills etc. There should be no stains, black smudges, tape, or sticky spots left.</li>
  	<li>Place all furniture in the room, in its original place and condition. Bunked or lofted beds may remain (Facilities staff will later attend to them).</li>
  	<li>Bring all of your trash and recycling to the appropriate containers outside the building.  Do not sweep garbage into the hallway. Each resident will be billed for garbage/recycling or items left in the hallway, bathroom, or other common spaces.</li>
- 	<li>Remove <strong><u>all</u></strong> personal belongings.</li>
+ 	<li>Remove ALL personal belongings.</li>
  	<li>Sweep and mop entire room floor, if not carpeted. No dust bunnies or dirt should be left behind or under furniture.</li>
  	<li>Empty all drawers and wipe out all dust.</li>
 </ul>
 <h4>Donate Items to Goodwill at the <em>Drop ‘N Go</em></h4>
-<span style="line-height: 1.5;">UMW has partnered with Goodwill Industries International, Inc., and donation drop-off locations will be available on campus.  Students are encouraged to donate gently used unwanted items.  It is sustainable for the environment by avoiding landfills, and it helps those looking for that special item.</span>
+<span style="line-height: 1.5">UMW has partnered with Goodwill Industries International, Inc., and donation drop-off locations will be available on campus.  Students are encouraged to donate gently used unwanted items.  It is sustainable for the environment by avoiding landfills, and it helps those looking for that special item.</span>
 <h4>Handling Trash</h4>
 There will be additional thirty yard waste containers (dumpsters) spread throughout campus for move-out use by April 25. Students should place large bulky items such as furniture and carpets in these containers.  Household type trash should be placed in the regular eight yard front-end containers located near every campus building. Students should recycle as much as possible.
 <h4>Eagle Landing Trash</h4>
