@@ -69,6 +69,5 @@ Students are strongly urged to find a roommate for the Housing Selection process
 The list of designated Open Rooms will be listed in Symplicity Residence after you log in.  This list will be updated throughout the selection process on Saturday.  As it will change, be sure to review it again prior to selecting if you want to know what spaces are Open Rooms.
 
 *NOTE: these rooms are not "single" rooms; students who choose to select these spaces without a designated roommate, will have another person assigned to the other open space.
-
-<u>Resident Assistant Open Room spaces</u>
+<h4>Resident Assistant Open Room spaces</h4>
 There are some Open Rooms available in Resident Assistant apartments.  Students selecting these spaces will need to agree to the terms of living with an RA and sign the RA Roommate Agreement form after selecting (Residence Life staff will later contact you about signing it).
