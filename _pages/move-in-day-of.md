@@ -11,7 +11,7 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h2><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Logo_Movein_lk_FINAL_1215.jpg"><img class="alignnone size-large wp-image-281" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Logo_Movein_lk_FINAL_1215-1024x483.jpg" alt="Logo_Movein_lk_FINAL_1215" width="1024" height="483" /></a></h2>
+<a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Logo_Movein_lk_FINAL_1215.jpg"><img class="alignnone size-large wp-image-281" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Logo_Movein_lk_FINAL_1215-1024x483.jpg" alt="Logo_Movein_lk_FINAL_1215" width="1024" height="483" /></a>
 <h2>Move-in Day</h2>
 In order to ease traffic and demand for stairwells and elevators during move in we have created the plan below.  Please click on the link for your assigned building for a detailed instruction sheet to assist you with your move-in experience.  We ask that you do your best to adhere to your assigned move-in time.  This will assist UMW staff in ensuring you have a relaxed and hassle-free move-in experience.
 <h3>Important Announcement Regarding move-in:</h3>
