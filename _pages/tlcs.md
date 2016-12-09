@@ -8,8 +8,12 @@ layout: page
 permalink: >
   http://www.umw.edu/residencelife/on-campus/life/tlcs/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
-<img class="alignnone wp-image-145 size-large" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/frisbee-e1454679398850-1024x484.jpg" alt="The Randolph-Mason Hall complex at UMW, photographed Thursday August 23 2012. (Photo by Norm Shafer)." width="1024" height="484" />
+&nbsp;
+
+[caption id="attachment_329" align="alignnone" width="1024"]<img class="size-large wp-image-329" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/ILC-1024x768.jpg" alt="TLC" width="1024" height="768" /> Residents of the International Living Community[/caption]
 <h2>Themed Living Communities for Upper-Class Students</h2>
 <h3>It's time to add some TLC to your home at UMW!</h3>
 UMW’s Themed Living Communities (T.L.C.) provide upper-class students with the opportunity to live together and further engage in learning outside of the classroom.  Themed Living Communities offer students the chance to bond with their peers through opportunities for small group discussion and reflection on topics of common interest while providing unique experiences to connect with faculty, staff, and community leaders!
