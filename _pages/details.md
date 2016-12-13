@@ -32,7 +32,7 @@ Each individual will have a specific individual time slot.  However, if in a gr
 
 Approved students will be notified during Spring Break, and given a link to sign up for a time slot to select their housing assignment during the week of March 6-10<sup>th</sup>.
 
-<strong>Themed Housing</strong>: In order to participate in Theme Housing you must complete the <a href="https://orgsync.com/59554/forms/166472">Themed Housing application in myUMW</a> by February 3, 2017.
+<strong>Themed Housing</strong>: In order to participate in Theme Housing you must complete the <a href="https://orgsync.com/59554/forms/166472">Themed Housing application in myUMW</a> by February 10, 2017.
 
 Students will automatically be assigned to housing based on the community roster due February 22<sup>nd</sup> during Spring Break.
 
