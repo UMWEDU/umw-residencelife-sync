@@ -6,8 +6,10 @@ post_date: 2016-01-27 19:20:44
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/residencelife/before-you-get-to-campus/bed-bunk-or-loft-requests/
+  https://www.umw.edu/residencelife/before-you-get-to-campus/bed-bunk-or-loft-requests/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 Only lofting and bunking done by University of Mary Washington staff with University-issued materials is permitted.  A student wishing to either bunk or loft their residence hall room bed must submit a <a href="https://orgsync.com/59554/forms/106959">bed bunk or loft request</a> through MyUMW <strong>(not through the regular Facilities Services request process). </strong>
 
