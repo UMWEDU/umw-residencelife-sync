@@ -46,15 +46,11 @@ In order to participate in this pre-process you must submit the housing applicat
 
 Approved students will be notified during Spring Break, and given a link to sign up for a time slot to select their housing assignment during the week of March 13-17<sup>th</sup>.
 
-&nbsp;
-
 <strong>Flexible Housing</strong>: An opt in program in which two or more students mutually agree to share a room/suite/apartment without regard to sex or gender of the students involved. Students wishing to participate in this process must submit their housing application and the request form in myUMW by February 24<sup>th</sup>.
 
 <strong>My Room My UMW contest winners</strong>: The winners of this contest will be contacted during Spring Break, and given a link to sign up for a time slot to select their housing assignment during the week of March 13-17<sup>th</sup>.  Those graduating will be able to gift their slot to a non-graduating student.
 
-<strong>Resident Assistants</strong>: Resident Assistants must submit their Housing Application by February 24<sup>th</sup>. Resident Assistants assigned to Eagle Landing and the UMW Apartments must also submit the <a href="https://orgsync.com/59554/files/726047/show">RA Roommate Agreement and Housing Form in myUMW</a> by February 24th.
-
-RAs will be assigned along with any designated apartment-mates during Spring Break.
+&nbsp;
 
 <strong>Main Housing Selection:</strong>
 
