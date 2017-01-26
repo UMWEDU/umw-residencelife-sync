@@ -28,14 +28,22 @@ Each individual will have a specific individual time slot.  However, if in a gr
 <h2><strong>Pre-Process Selection:</strong></h2>
 <strong>NOTE</strong>: The Housing Application deadline for all Pre-Process Selection participants is February 24<sup>th</sup>. Pre-process participants will not receive a Housing Selection appointment time but rather will be automatically assigned or provided a link to sign up for a time to select during the week of March 13-17<sup>th</sup> depending on the specific Pre-Process.
 
+<strong>Homesteading</strong>: Homesteading allows current undergraduate residential students living in certain designated spaces within upperclass buildings (except any first-year residence hall where upperclassmen live, such as Custis) the option to keep their current room assignment for the 2017-2018 Academic Year.
+<ul>
+ 	<li>Please note: Bushnell Hall is closed for 2017-2018 academic year. Jefferson Hall, 3rd and 4th floors, will revert to double occupancy to compensate for Bushnell closing for 2017-2018.</li>
+ 	<li>If you wish to homestead in Jefferson Hall on the 3rd and 4th floors, we will be in contact with you about your options.</li>
+ 	<li>If you wish to homestead in Bushnell, please contact Brittany Harper for options.</li>
+</ul>
+In order to participate in this pre-process you must submit the housing application and <a href="https://orgsync.com/59554/forms/66700">homesteading form in myUMW</a> by February 24<sup>th</sup>. Approved students will be assigned during Spring Break.
+
 <strong>Medical Accommodations</strong>: In order to participate in this pre-process students should read the information available for the <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations/">medical accommodation process</a>, and must submit the request documentation by January 27<sup>th</sup> and their housing agreement by February 24<sup>th.</sup>
 
 Approved students will be notified during Spring Break, and given a link to sign up for a time slot to select their housing assignment during the week of March 13-17<sup>th</sup>.
 
-<strong>Themed Living Community</strong>: In order to participate in a Themed Living Community, you must complete the <a href="https://orgsync.com/59554/forms/166472">TLC application in myUMW</a> by February 10, 2017.
-
-Students will automatically be assigned to housing based on the community roster due February 22<sup>nd</sup> during Spring Break.
-
+<strong>Special Interest Housing</strong>: Communities based around a specific interest for residents.
+<p style="padding-left: 30px"><em>Themed Living Community</em>: In order to participate in a Themed Living Community, you must complete the <a href="https://orgsync.com/59554/forms/166472">TLC application in myUMW</a> by February 10, 2017.  Students will automatically be assigned to housing based on the community roster due February 22<sup>nd</sup> during Spring Break.</p>
+<p style="padding-left: 30px"><em>Language Community</em>: Information coming soon!</p>
+<p style="padding-left: 30px"><em>Gender Neutral Housing:</em>  In order to participate in Gender Neutral Housing students must submit the housing application and the <a href="https://orgsync.com/59554/forms/128691">Gender Neutral Housing form</a> on MyUMW by February 24<sup>th</sup>.</p>
 <strong>AC Accommodations</strong>: In order to participate in this pre-process students should read the information available for the <a href="http://students.umw.edu/residencelife/airconditionedhousing/">AC accommodations</a>, and must submit their housing application and a <a href="https://orgsync.com/59554/forms/87507">request form in myUMW</a> by February 24<sup>th</sup>.
 
 Approved students will be notified during Spring Break, and given a link to sign up for a time slot to select their housing assignment during the week of March 13-17<sup>th</sup>.
@@ -46,20 +54,12 @@ RAs will be assigned along with any designated apartment-mates during Spring Bre
 
 <strong>My Room My UMW contest winners</strong>: The winners of this contest will be contacted during Spring Break, and given a link to sign up for a time slot to select their housing assignment during the week of March 13-17<sup>th</sup>.  Those graduating will be able to gift their slot to a non-graduating student.
 
-<strong>Homesteading</strong>: Homesteading allows current undergraduate residential students living in certain designated spaces within upperclass buildings (except any first-year residence hall where upperclassmen live, such as Custis) the option to keep their current room assignment for the 2017-2018 Academic Year.
-<ul>
- 	<li>Please note: Bushnell Hall is closed for 2017-2018 academic year. Jefferson Hall, 3rd and 4th floors, will revert to double occupancy to compensate for Bushnell closing for 2017-2018.</li>
- 	<li>If you wish to homestead in Jefferson Hall on the 3rd and 4th floors, we will be in contact with you about your options.</li>
- 	<li>If you wish to homestead in Bushnell, please contact Brittany Harper for options.</li>
-</ul>
-In order to participate in this pre-process you must submit the housing application and <a href="https://orgsync.com/59554/forms/66700">homesteading form in myUMW</a> by February 24<sup>th</sup>. Approved students will be assigned during Spring Break.
+&nbsp;
 
-<strong>Mixed Sex Suite</strong>: A group of four current students consisting of two females and two males may choose to live together in one apartment (the females in one double room, and the males in the other double room) in Eagle Landing.
+&nbsp;
 
-In order to participate in this pre-process you must submit the housing application as well as the <a href="https://orgsync.com/59554/forms/131495">Mixed Sex Suite form</a> in myUMW by February 24<sup>th</sup>.  Approved students will be assigned during Spring Break.
+<strong>Main Housing Selection:</strong>
 
-<strong>Gender Neutral Housing</strong>:  In order to participate in Gender Neutral Housing students must submit the housing application and the <a href="https://orgsync.com/59554/forms/128691">Gender Neutral Housing form</a> on MyUMW.
-<h2><strong>Main Housing Selection:</strong></h2>
 <strong>Note</strong>:  The housing application is due March 10<sup>th</sup> for individuals wanting to participate in the Main Housing Selection process.
 
 On March 25<sup>th</sup>, all students who have not previously selected housing will select at or after the assigned appointment time of their individual or roommate group.
