@@ -36,9 +36,7 @@ Each individual will have a specific individual time slot.  However, if in a gr
 </ul>
 In order to participate in this pre-process you must submit the housing application and <a href="https://orgsync.com/59554/forms/66700">homesteading form in myUMW</a> by February 24<sup>th</sup>. Approved students will be assigned during Spring Break.
 
-<strong>Medical Accommodations</strong>: In order to participate in this pre-process students should read the information available for the <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations/">medical accommodation process</a>, and must submit the request documentation by January 27<sup>th</sup> and their housing agreement by February 24<sup>th.</sup>
-
-Approved students will be notified during Spring Break, and given a link to sign up for a time slot to select their housing assignment during the week of March 13-17<sup>th</sup>.
+<strong>Medical Accommodations</strong>: In order to participate in this pre-process students should read the information available for the <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations/">medical accommodation process</a>, and must submit the request documentation by January 27<sup>th</sup> and their housing agreement by February 24<sup>th</sup>.  Approved students will be notified during Spring Break, and given a link to sign up for a time slot to select their housing assignment during the week of March 13-17<sup>th</sup>.
 
 <strong>Special Interest Housing</strong>: Communities based around a specific interest for residents.
 <p style="padding-left: 30px"><em>Themed Living Community</em>: In order to participate in a Themed Living Community, you must complete the <a href="https://orgsync.com/59554/forms/166472">TLC application in myUMW</a> by February 10, 2017.  Students will automatically be assigned to housing based on the community roster due February 22<sup>nd</sup> during Spring Break.</p>
@@ -48,15 +46,15 @@ Approved students will be notified during Spring Break, and given a link to sign
 
 Approved students will be notified during Spring Break, and given a link to sign up for a time slot to select their housing assignment during the week of March 13-17<sup>th</sup>.
 
-<strong>Resident Assistants</strong>: Resident Assistants must submit their Housing Application by February 24<sup>th</sup>. Resident Assistants assigned to Eagle Landing and the UMW Apartments must also submit the <a href="https://orgsync.com/59554/files/726047/show">RA Roommate Agreement and Housing Form in myUMW</a> by February 24th.
+&nbsp;
 
-RAs will be assigned along with any designated apartment-mates during Spring Break.
+<strong>Flexible Housing</strong>: An opt in program in which two or more students mutually agree to share a room/suite/apartment without regard to sex or gender of the students involved. Students wishing to participate in this process must submit their housing application and the request form in myUMW by February 24<sup>th</sup>.
 
 <strong>My Room My UMW contest winners</strong>: The winners of this contest will be contacted during Spring Break, and given a link to sign up for a time slot to select their housing assignment during the week of March 13-17<sup>th</sup>.  Those graduating will be able to gift their slot to a non-graduating student.
 
-&nbsp;
+<strong>Resident Assistants</strong>: Resident Assistants must submit their Housing Application by February 24<sup>th</sup>. Resident Assistants assigned to Eagle Landing and the UMW Apartments must also submit the <a href="https://orgsync.com/59554/files/726047/show">RA Roommate Agreement and Housing Form in myUMW</a> by February 24th.
 
-&nbsp;
+RAs will be assigned along with any designated apartment-mates during Spring Break.
 
 <strong>Main Housing Selection:</strong>
 
