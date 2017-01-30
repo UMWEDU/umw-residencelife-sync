@@ -16,8 +16,8 @@ The Housing and Dining Services Agreement is a legally binding lease between the
 For instructions for submitting your housing application in Symplicity Residence, please refer to <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/navigating-symplicity/">Navigating Symplicity</a>.
 <h3>Terms and Conditions</h3>
 <ul>
- 	<li><a href="https://www.umw.edu/residencelife/before-you-get-to-campus/housing-and-dining-services-agreement/2014-2015/">Housing and Dining Services Agreement entered into during the 2014-2015 academic year</a></li>
  	<li><a href="https://www.umw.edu/residencelife/before-you-get-to-campus/housing-and-dining-services-agreement/2015-2016/">Housing and Dining Services Agreement entered into during the 2015-2016 academic year</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2016-2017/">Housing and Dining Services Agreement entered into during the 2016-2017 academic year</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/summer-2016-housing-agreement-terms/">Housing Agreement Terms for Summer 2016</a></li>
+ 	<li>Housing and Dining Services Agreement entered into during the 2017-2018 academic year</li>
 </ul>
