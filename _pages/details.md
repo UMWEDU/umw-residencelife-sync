@@ -28,7 +28,7 @@ Each individual will have a specific individual time slot.  However, if in a gr
 <h2><strong>Pre-Process Selection:</strong></h2>
 <strong>NOTE</strong>: The Housing Application deadline for all Pre-Process Selection participants is February 24<sup>th</sup>. Pre-process participants will not receive a Housing Selection appointment time but rather will be automatically assigned or provided a link to sign up for a time to select during the week of March 13-17<sup>th</sup> depending on the specific Pre-Process.
 
-<strong>Homesteading</strong>: Homesteading allows current undergraduate residential students living in certain designated spaces within upperclass buildings (except any first-year residence hall where upperclassmen live, such as Custis) the option to keep their current room assignment for the 2017-2018 Academic Year.
+<strong>Homesteading</strong>: Homesteading allows current undergraduate residential students living in certain designated spaces within upperclass buildings the option to keep their current room assignment for the 2017-2018 Academic Year.
 <ul>
  	<li>Please note: Bushnell Hall is closed for 2017-2018 academic year. Jefferson Hall, 3rd and 4th floors, will revert to double occupancy to compensate for Bushnell closing for 2017-2018.</li>
  	<li>If you wish to homestead in Jefferson Hall on the 3rd and 4th floors, we will be in contact with you about your options.</li>
@@ -49,11 +49,7 @@ Approved students will be notified during Spring Break, and given a link to sign
 <strong>Flexible Housing</strong>: An opt in program in which two or more students mutually agree to share a room/suite/apartment without regard to sex or gender of the students involved. Students wishing to participate in this process must submit their housing application and the request form in myUMW by February 24<sup>th</sup>.
 
 <strong>My Room My UMW contest winners</strong>: The winners of this contest will be contacted during Spring Break, and given a link to sign up for a time slot to select their housing assignment during the week of March 13-17<sup>th</sup>.  Those graduating will be able to gift their slot to a non-graduating student.
-
-&nbsp;
-
-<strong>Main Housing Selection:</strong>
-
+<h2><strong>Main Housing Selection:</strong></h2>
 <strong>Note</strong>:  The housing application is due March 10<sup>th</sup> for individuals wanting to participate in the Main Housing Selection process.
 
 On March 25<sup>th</sup>, all students who have not previously selected housing will select at or after the assigned appointment time of their individual or roommate group.
