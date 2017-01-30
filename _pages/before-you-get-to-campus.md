@@ -19,7 +19,7 @@ Even if you already live on campus, the information about on campus living can b
 <div class="one-half first">
 <h2>Active Processes/Information</h2>
 <ul>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/">Housing Selection 2016-2017</a>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/">Housing Selection 2017-2018</a>
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/navigating-symplicity/">Navigating Symplicit</a>y</li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/details/">Housing Selection Details</a></li>
