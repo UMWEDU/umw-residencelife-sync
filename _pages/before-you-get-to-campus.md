@@ -13,7 +13,7 @@ wpcf-home-page-grid-inclusion:
 wpcf-homepage-copy:
   - |
     <a href="https://www.umw.edu/residencelife/before-you-get-to-campus/">Forms and information</a> about living on campus next year for all students.
-    <div class="CTAbutton CTAblue" style="margin-top: 1em"><a href="https://www.umw.edu/residencelife/before-you-get-to-campus/move-in/">Fall Move-In</a></div>
+    <div class="CTAbutton CTAblue" style="margin-top: 1em"><a href="https://www.umw.edu/residencelife/before-you-get-to-campus/spring-2017-housing-information/">Spring 2017 Housing</a></div>
 ---
 Even if you already live on campus, the information about on campus living can be found here. From housing selection to bed bunking/lofting, and move in, we have the pages and forms you seek.
 <div class="one-half first">
@@ -22,6 +22,7 @@ Even if you already live on campus, the information about on campus living can b
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/">Housing &amp; Dining Services Agreement</a>
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2016-2017/">2016-2017</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2017-2018/">2017-2018</a></li>
 </ul>
 </li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/spring-2017-housing-information/">Spring 2017 Housing Information</a>
