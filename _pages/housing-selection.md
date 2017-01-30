@@ -24,7 +24,7 @@ wpcf-home-page-grid-inclusion:
 <h2>Housing Selection Process Step by Step</h2>
 <ol>
  	<li><strong>Decide if you will live on campus.</strong>  <strong>NOTE:</strong><strong> </strong> First year students are required to live on campus for their second year.  Students who fail to complete the 2nd Year Fulfillment application will be manually assigned.</li>
- 	<li><strong>Review <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/rates/">room and board rates</a></strong> with the person/people paying the bill.</li>
+ 	<li><strong>Review <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/rates/">room and board rates</a></strong> with the person/people paying the bill. <strong>NOTE:</strong> The housing rates listed reflect the 2016 – 2017 rates and do not reflect the housing rates for 2017 – 2018 which will not be approved and posted until the end of February.  The new 2017 – 2018 rates may reflect an increase not shown.</li>
  	<li><strong>Review and understand the terms and conditions of the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/">Housing and Dining Agreement</a> </strong>as it is a legally binding agreement between the student and the University.</li>
  	<li><strong>Review <a href="https://umw.sodexomyway.com/dining-plans/index.html">meal plan options.</a></strong>
 <ul>
