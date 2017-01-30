@@ -29,7 +29,7 @@ wpcf-home-page-grid-inclusion:
  	<li><strong>Review <a href="https://umw.sodexomyway.com/dining-plans/index.html">meal plan options.</a></strong>
 <ul>
  	<li>Please note for Eagle Landing, UMW Apartments or Senior Meal Plan (90 credits or more) participants: A meal plan change request will need to be completed via Symplicity Residence after assignments are emailed out in late March, if a meal plan lower than the 150 block is desired.</li>
-
+<ul>
 </li>
  	<li><strong>Not sure you want to live on campus next year?  DO NOT PROCEED.</strong><strong>  </strong>This does not apply to first year students who must complete their 2 year residency requirement.
 <ul>
