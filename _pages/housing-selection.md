@@ -23,7 +23,7 @@ wpcf-home-page-grid-inclusion:
 <strong>*Pre-process selection is reserved for students in the following categories and their roommate/suite-mates.</strong>  (Medical Accommodations, Themed Living Community Housing, AC Accommodations, Resident Assistants, My Room My UMW contest winners, Gender Neutral Housing, Homesteading, and Flexible Housing.)  Additional information will be emailed to students regarding the selection process.
 <h2>Housing Selection Process Step by Step</h2>
 <ol>
- 	<li><strong>Decide if you will live on campus or off next year.</strong>  <strong>NOTE:</strong><strong> </strong> First year students are required to live on campus for their second year.  Students who fail to complete the 2nd Year Fulfillment application will be manually assigned.</li>
+ 	<li><strong>Decide if you will live on campus.</strong>  <strong>NOTE:</strong><strong> </strong> First year students are required to live on campus for their second year.  Students who fail to complete the 2nd Year Fulfillment application will be manually assigned.</li>
  	<li><strong>Review <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/rates/">room and board rates</a></strong> with the person/people paying the bill.</li>
  	<li><strong>Review and understand the terms and conditions of the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/">Housing and Dining Agreement</a> </strong>as it is a legally binding agreement between the student and the University.</li>
  	<li><strong>Review <a href="https://umw.sodexomyway.com/dining-plans/index.html">meal plan options.</a></strong>
