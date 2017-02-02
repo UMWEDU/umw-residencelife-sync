@@ -11,7 +11,7 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h2><img class="alignright wp-image-347" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Flow-chart-for-web.jpg" width="289" height="578" />Important Dates</h2>
+<h2><img class="alignright size-large wp-image-348" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Flow-chart-for-web-1-512x1024.jpg" alt="" width="512" height="1024" /></h2>
 <ul>
  	<li>Jan 30: Housing and Dining Application available in <a href="https://umw-residence.symplicity.com/">Symplicity Residence</a></li>
  	<li>Feb 24: Housing and Dining Application Priority Deadline for Pre-process participants<strong>*</strong></li>
