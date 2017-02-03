@@ -6,12 +6,12 @@ post_date: 2016-01-29 15:54:49
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/
+  http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h2><img class="alignright  wp-image-348" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Flow-chart-for-web-1-512x1024.jpg" alt="" width="350" height="630" /></h2>
+<h2><img class="alignright wp-image-348" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Flow-chart-for-web-1-512x1024.jpg" alt="" width="350" height="630" /></h2>
 <ul>
  	<li>Jan 30: Housing and Dining Application available in <a href="https://umw-residence.symplicity.com/">Symplicity Residence</a></li>
  	<li>Feb 24: Housing and Dining Application Priority Deadline for Pre-process participants<strong>*</strong></li>
@@ -26,7 +26,7 @@ wpcf-home-page-grid-inclusion:
  	<li><strong>Decide if you will live on campus.</strong>  <strong>NOTE:</strong><strong> </strong> First year students are required to live on campus for their second year.  Students who fail to complete the 2nd Year Fulfillment application will be manually assigned.</li>
  	<li><strong>Review <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/rates/">room and board rates</a></strong> with the person/people paying the bill. <strong>NOTE:</strong> The housing rates listed reflect the 2016 – 2017 rates and do not reflect the housing rates for 2017 – 2018 which will not be approved and posted until the end of February.  The new 2017 – 2018 rates may reflect an increase not shown.</li>
  	<li><strong>Review and understand the terms and conditions of the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/">Housing and Dining Agreement</a> </strong>as it is a legally binding agreement between the student and the University.</li>
- 	<li><strong>Review <a href="https://umw.sodexomyway.com/dining-plans/index.html">meal plan options.</a></strong></li>
+ 	<li><strong>Review <a href="https://umw.sodexomyway.com/dining-plans/index.html">meal plan options.</a> NOTE: </strong>F<span class="s2">or Eagle Landing, UMW Apartments or Senior Meal Plan (90 credits or more) participants: A meal plan change request will need to be completed via Symplicity Residence after assignments are emailed out in late March, if a meal plan lower than the 150 block is desired.</span></li>
  	<li><strong>Not sure you want to live on campus next year?  DO NOT PROCEED.</strong><strong>  </strong>This does not apply to first year students who must complete their 2 year residency requirement.
 <ul>
  	<li>Part Time Status: Students with 9 credits or more are automatically able to live on campus.</li>
