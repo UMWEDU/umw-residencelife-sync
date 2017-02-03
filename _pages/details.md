@@ -6,11 +6,12 @@ post_date: 2016-01-29 19:22:02
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/details/
+  http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/details/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
+[caption id="attachment_348" align="alignright" width="313"]<img class="wp-image-348" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Flow-chart-for-web-1-512x1024.jpg" width="313" height="626" /> <em>Flowchart showing step by step Housing Selection process</em>[/caption]
 <h2><strong>Housing Selection Glossary of Terms</strong></h2>
 <em>Group Leader</em>-One member of each roommate group.  The group leader selects the housing assignment at the designated appointment time for all members of the group.
 
