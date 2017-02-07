@@ -6,7 +6,7 @@ post_date: 2016-01-29 16:01:45
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/residencelife/on-campus/housing-procedures/break-housing/
+  https://www.umw.edu/residencelife/on-campus/housing-procedures/break-housing/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
