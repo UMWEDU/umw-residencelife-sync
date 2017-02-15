@@ -14,7 +14,6 @@ wpcf-home-page-grid-inclusion:
 [gallery type="slideshow" size="large" ids="358,356,357,350"]
 <ul>
  	<li>Jan 30: Housing and Dining Application available in <a href="https://umw-residence.symplicity.com/">Symplicity Residence</a></li>
- 	<li>Jan 30: Housing and Dining Application available in <a href="https://umw-residence.symplicity.com/">Symplicity Residence</a></li>
  	<li>Feb 24: Housing and Dining Application Priority Deadline for Pre-process participants<strong>*</strong></li>
  	<li>Mar 10: Housing and Dining Services Application due for all other students</li>
  	<li>Mar 13-17: Pre-Process Housing Selection<strong>*</strong></li>
