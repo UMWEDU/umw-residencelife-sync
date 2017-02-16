@@ -6,7 +6,7 @@ post_date: 2016-01-28 16:58:21
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/
+  https://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
