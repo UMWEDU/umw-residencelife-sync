@@ -6,7 +6,7 @@ post_date: 2016-01-28 16:58:21
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/
+  http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -49,7 +49,7 @@ Note: Transfer students with fewer than 30 credits wishing to participate in the
 </li>
  	<li>Review <a href="http://www.umwdining.com">dining information</a>.</li>
  	<li>Get acquainted with the first year <a href="http://www.umw.edu/residencelife/residence-halls/">residence halls</a>.</li>
- 	<li>Review the 2016 <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2016-2017/">Housing and Dining Services Agreement Terms and Conditions</a>.</li>
+ 	<li>Review the 2017-2018 <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2017-2018/">Housing and Dining Services Agreement Terms and Conditions</a>.</li>
  	<li>Complete your Housing and Dining Services Agreement application in <a href="https://umw-residence.symplicity.com/index.php/pid780639?">Symplicity Residence</a>.  Instruction on how to submit your housing application can be found at <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/navigating-symplicity/">Navigating Symplicity</a>.</li>
 </ol>
 <h2>Housing Assignment Communication</h2>
