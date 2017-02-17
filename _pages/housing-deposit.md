@@ -6,7 +6,7 @@ post_date: 2016-01-28 16:53:42
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/residencelife/before-you-get-to-campus/spring-2016-housing-information/housing-deposit/
+  https://www.umw.edu/residencelife/before-you-get-to-campus/spring-2017-housing-information/housing-deposit/
 published: true
 ---
 Every residential student must pay a housing deposit in the amount of $250 either at the time of admission or upon returning to university housing. <strong>Students may not complete a housing application until a housing deposit is paid and processed.</strong>
