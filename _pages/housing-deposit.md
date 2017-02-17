@@ -6,10 +6,12 @@ post_date: 2016-01-28 16:53:42
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/residencelife/before-you-get-to-campus/spring-2017-housing-information/housing-deposit/
+  http://www.umw.edu/residencelife/before-you-get-to-campus/spring-2017-housing-information/housing-deposit/
 published: true
+yst_prominent_words_version:
+  - "1"
 ---
-Every residential student must pay a housing deposit in the amount of $250 either at the time of admission or upon returning to university housing. <strong>Students may not complete a housing application until a housing deposit is paid and processed.</strong>
+Every residential student must pay a housing deposit in the amount of $250 either at the time of admission or upon returning to university housing. <strong>Students may not complete a housing application until a housing deposit is paid and processed, which takes roughly 48 hours from receipt of deposit.</strong>
 
 The deposit is held until the student departs campus housing. If there are no damages or other charges assessed on the student’s account at that time, the Office of Student Accounts will later process a refund. Students who are approved to be released from their housing and dining services agreement forfeit their housing deposit.
 
