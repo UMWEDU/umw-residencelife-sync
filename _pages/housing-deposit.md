@@ -10,6 +10,8 @@ permalink: >
 published: true
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 Every residential student must pay a housing deposit in the amount of $250 either at the time of admission or upon returning to university housing. <strong>Students may not complete a housing application until a housing deposit is paid and processed, which takes roughly 48 hours from receipt of deposit.</strong>
 
@@ -24,4 +26,4 @@ Attn: Michelle Brooks
 1301 College Avenue
 Fredericksburg, VA 22401
 
-To pay a housing deposit in cash,email <a href="mailto:mesch@umw.edu">mesch@umw.edu</a> to make arrangements to bring exact change to Marye House.
+To pay a housing deposit in cash, email <a href="mailto:mesch@umw.edu">mesch@umw.edu</a> to make arrangements to bring exact change to Marye House.
