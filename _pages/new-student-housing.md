@@ -6,10 +6,12 @@ post_date: 2016-01-28 16:58:21
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/
+  http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 The University of Mary Washington believes that living on campus is an integral part of a student’s complete educational experience; therefore, all full-time students who are admitted as residential students in their first year are <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/on-campus-living-requirement/">required to live on campus</a> for two full academic years. Transfer students admitted in the fall as residential students are required to live on campus for two semesters, and transfer students admitted in the spring as residential students are required to live on campus for one semester.
 
@@ -40,7 +42,7 @@ Note: Transfer students with fewer than 30 credits wishing to participate in the
 <h3>Steps to Secure Housing</h3>
 <ol>
  	<li>Accept your offer of admission by submitting your $500 enrollment deposit.</li>
- 	<li>If you will need a housing accommodation, submit your request to the <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations">Office of Disability Resources</a> by April 22, 2016.</li>
+ 	<li>If you will need a housing accommodation, submit your request to the <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations">Office of Disability Resources</a> by April 28, 2017.</li>
  	<li>If you require air conditioning as part of a treatment plan for a serious medical condition, you can learn more about the request process on the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/air-conditioned/">Air-Conditioned Housing Accommodations</a> page.</li>
  	<li>Complete the <a href="http://academics.umw.edu/fsem">First Year Student Questionnaire</a>, which includes your five FSEM course preferences.
 <ol>
