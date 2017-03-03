@@ -6,16 +6,17 @@ post_date: 2016-01-29 15:54:49
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/
+  http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/
 published: true
 yst_prominent_words_version:
   - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-[gallery type="slideshow" size="large" ids="358,356,357,350"]
 <ul>
- 	<li>Jan 30: Housing and Dining Application available in <a href="https://umw-residence.symplicity.com/">Symplicity Residence</a></li>
+ 	<li>[gallery type="slideshow" link="none" size="large" ids="367,358,357,356,350"]
+
+Jan 30: Housing and Dining Application available in <a href="https://umw-residence.symplicity.com/">Symplicity Residence</a></li>
  	<li>Feb 24: Housing and Dining Application Priority Deadline for Pre-process participants<strong>*</strong></li>
  	<li>Mar 10: Housing and Dining Services Application due for all other students</li>
  	<li>Mar 13-17: Pre-Process Housing Selection<strong>*</strong></li>
