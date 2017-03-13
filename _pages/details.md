@@ -10,6 +10,8 @@ permalink: >
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 [caption id="attachment_348" align="alignright" width="313"]<img class="wp-image-348" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Flow-chart-for-web-1-512x1024.jpg" width="313" height="626" /> <em>Flowchart showing step by step Housing Selection process</em>[/caption]
 <h2><strong>Housing Selection Glossary of Terms</strong></h2>
