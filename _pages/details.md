@@ -6,7 +6,7 @@ post_date: 2016-01-29 19:22:02
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/details/
+  https://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/details/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
