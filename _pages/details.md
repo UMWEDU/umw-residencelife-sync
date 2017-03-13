@@ -6,14 +6,16 @@ post_date: 2016-01-29 19:22:02
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/details/
+  http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/details/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 yst_prominent_words_version:
   - "1"
 ---
-[caption id="attachment_348" align="alignright" width="313"]<img class="wp-image-348" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Flow-chart-for-web-1-512x1024.jpg" width="313" height="626" /> <em>Flowchart showing step by step Housing Selection process</em>[/caption]
+<div class="mceTemp"></div>
+
+[caption id="attachment_369" align="alignright" width="243"]<img class="wp-image-369 " src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Flow-chart-for-web2.jpg" alt="" width="243" height="486" /> Flowchart showing step by step Housing Selection process[/caption]
 <h2><strong>Housing Selection Glossary of Terms</strong></h2>
 <em>Group Leader</em>-One member of each roommate group.  The group leader selects the housing assignment at the designated appointment time for all members of the group.
 
@@ -21,7 +23,7 @@ yst_prominent_words_version:
 
 <em>Housing Selection Appointment</em>-The time at or after which a student can log into Symplicity Residence to select their housing assignment for the 2017-2018 year.
 
-<em>Housing Selection Process</em>-The time frame during which students may select a housing assignment for the 2017-2018 year.  Pre-Process (March 13-17<sup>th</sup>), and Main Selection Process (March 25<sup>th</sup>).
+<em>Housing Selection Process</em>-The time frame during which students may select a housing assignment for the 2017-2018 year.  Pre-Process (March 13-17<sup>th</sup>), and Main Selection Process (March 27<sup>th</sup>).
 
 <em>Roommate Group</em>-The group of students that wish to share a room.  These groups are set up in Symplicity Residence by sharing your roommate code.
 <h2><strong>Housing Selection Appointment Times</strong></h2>
@@ -55,7 +57,7 @@ Approved students will be notified during Spring Break, and given a link to sign
 <h2><strong>Main Housing Selection:</strong></h2>
 <strong>Note</strong>:  The housing application is due March 10<sup>th</sup> for individuals wanting to participate in the Main Housing Selection process.
 
-On March 25<sup>th</sup>, all students who have not previously selected housing will select at or after the assigned appointment time of their individual or roommate group.
+On March 27<sup>th</sup>, all students who have not previously selected housing will select at or after the assigned appointment time of their individual or roommate group.
 
 During the room selection process, all beds must be filled to 100% capacity (only exception: see “Open Rooms”). For example, a group of three students must select a three-person apartment.
 
@@ -63,7 +65,7 @@ Prior to the process taking place, detailed information will be communicated wit
 
 Learn how to <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/navigating-symplicity/">Navigate Symplicity Residence</a>.
 <h2><strong>Open Rooms:</strong></h2>
-Students are strongly urged to find a roommate for the Housing Selection process.  However, there will be a limited number of Open Rooms available to those students who do not have a group formed [roommate(s)] to fill an entire room or suite.  These students will only have the choice of choosing a space in one of these Open Rooms.
+Students are strongly urged to find a roommate for the Housing Selection process.  However, there will be a limited number of Open Rooms available to those students who do not have a group formed to fill an entire room or suite.  These students will only have the choice of choosing a space in one of these Open Rooms.
 
 The list of designated Open Rooms will be listed in Symplicity Residence after you log in.  This list will be updated throughout the selection process on Saturday.  As it will change, be sure to review it again prior to selecting if you want to know what spaces are Open Rooms.
 
