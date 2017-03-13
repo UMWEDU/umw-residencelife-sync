@@ -6,7 +6,7 @@ post_date: 2016-01-29 15:54:49
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/
+  http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -20,8 +20,8 @@ Jan 30: Housing and Dining Application available in <a href="https://umw-residen
  	<li>Feb 24: Housing and Dining Application Priority Deadline for Pre-process participants<strong>*</strong></li>
  	<li>Mar 10: Housing and Dining Services Application due for all other students</li>
  	<li>Mar 13-17: Pre-Process Housing Selection<strong>*</strong></li>
- 	<li>Mar 25 All Day: Room Selection Day.  For detailed information about how to select your room, go to <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/details/">housing selection details</a>. (Eagle Landing has been condensed into this larger process.)</li>
- 	<li>Mar 27: Assign anyone who did not select during housing selection</li>
+ 	<li>Mar 27 All Day: Room Selection Day.  For detailed information about how to select your room, go to <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/details/">housing selection details</a>. (Eagle Landing has been condensed into this larger process.)</li>
+ 	<li>Mar 28: Assign anyone who did not select during housing selection</li>
 </ul>
 <strong>*Pre-process selection is reserved for students in the following categories and their roommate/suite-mates.</strong>  (Medical Accommodations, Themed Living Community Housing, AC Accommodations, Resident Assistants, My Room My UMW contest winners, Gender Neutral Housing, Homesteading, and Flexible Housing.)  Additional information will be emailed to students regarding the selection process.
 <h2>Housing Selection Process Step by Step</h2>
