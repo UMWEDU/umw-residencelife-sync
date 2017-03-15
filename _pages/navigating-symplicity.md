@@ -10,6 +10,8 @@ permalink: >
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 <h2>How to submit your Housing Application:</h2>
 Log in to <a href="https://umw-residence.symplicity.com">Symplicity Residence</a>. Select “Student,” and then enter your UMW NetID and Password.
