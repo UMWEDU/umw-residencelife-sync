@@ -6,13 +6,14 @@ post_date: 2016-01-29 18:54:09
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/navigating-symplicity/
+  http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/navigating-symplicity/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 yst_prominent_words_version:
   - "1"
 ---
+<h2>[youtube]https://youtu.be/5nGya8yRydY[/youtube]</h2>
 <h2>How to submit your Housing Application:</h2>
 Log in to <a href="https://umw-residence.symplicity.com">Symplicity Residence</a>. Select “Student,” and then enter your UMW NetID and Password.
 <ul>
