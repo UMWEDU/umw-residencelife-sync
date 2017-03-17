@@ -6,7 +6,7 @@ post_date: 2016-01-29 16:34:46
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/residencelife/on-campus/summer-housing/
+  https://www.umw.edu/residencelife/on-campus/summer-housing/
 published: true
 wpsi_page_checks:
   - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15998956779;s:3:"url";s:58:"http://www.umw.edu/residencelife/on-campus/summer-housing/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15998956779";}s:4:"time";i:1458052864;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:15998956779;s:3:"url";s:58:"http://www.umw.edu/residencelife/on-campus/summer-housing/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15998956779";}s:4:"time";i:1457619664;}}'
