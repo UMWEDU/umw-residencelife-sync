@@ -6,12 +6,12 @@ post_date: 2016-01-29 16:08:24
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/residencelife/on-campus/housing-procedures/extended-stay-housing/
+  https://www.umw.edu/residencelife/on-campus/housing-procedures/extended-stay-housing/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 The residence halls close for:
 <ul>
