@@ -12,37 +12,39 @@ wpsi_page_checks:
   - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15999676929;s:3:"url";s:63:"http://www.umw.edu/residencelife/on-campus/end-of-year-closing/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15999676929";}s:4:"time";i:1457622402;}}'
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 <h4><span style="color: #ff0000">This page has not been updated for Spring 2017 closing.</span></h4>
 <h4>Important Dates</h4>
 <table width="966">
 <tbody>
 <tr>
-<td>Saturday, April 23 – Saturday, May 1</td>
+<td>Saturday, April 29 – Saturday, May 6</td>
 <td>24-hour quiet hours in all residential areas</td>
 </tr>
 <tr>
-<td>Saturday, April 30 at 10 a.m.</td>
+<td>Saturday, May 6 at 10 a.m.</td>
 <td>Residence halls close for students (except graduating seniors) *</td>
 </tr>
 <tr>
-<td>Friday, May 6</td>
-<td>Graduate student Commencement</td>
+<td>Friday, May 12</td>
+<td>Graduate Student Commencement</td>
 </tr>
 <tr>
-<td>Saturday, May 7</td>
+<td>Saturday, May 13</td>
 <td>Undergraduate Commencement</td>
 </tr>
 <tr>
-<td>Sunday, May 8 at 10 a.m.</td>
-<td>Residence halls close for graduating students</td>
+<td>Sunday, May 14 at 10 a.m.</td>
+<td>Residence halls close for graduating seniors</td>
 </tr>
 </tbody>
 </table>
-* Only graduating students and those students with approval are permitted to be in on-campus (extended stay) housing after this date.
+* Only graduating seniors and those students with approval are permitted to be in on campus (extended stay) housing after this date.
 <h4><a href="http://students.umw.edu/residencelife/extendedhousing">May Extended Stay Housing</a></h4>
 <h4>24-Hour Quiet Hours</h4>
-As the Spring semester winds down, there is one final push to complete final exams, projects, and papers.  All residential buildings follow 24-hour quiet hours from 12:01 a.m. Saturday, April 23 until Saturday, May 1.  Quiet hours are meant to provide a noise-free atmosphere so all spaces on campus can be academically-focused.  Students are asked to be considerate of their neighbors during this time by not being heard outside their rooms.  As students finish final exams and papers and prepare to move-out, they are asked to be aware that others are still in the process. Students who are disruptive to the community may be asked to leave and/or fined.
+As the Spring semester winds down, there is one final push to complete final exams, projects, and papers.  All residential buildings follow 24-hour quiet hours from 12:01 a.m. Saturday, April 29 until Saturday, May 6.  Quiet hours are meant to provide a noise-free atmosphere so all spaces on campus can be academically-focused.  Students are asked to be considerate of their neighbors during this time by not being heard outside their rooms.  As students finish final exams and papers and prepare to move-out, they are asked to be aware that others are still in the process. Students who are disruptive to the community may be asked to leave and/or fined.
 <h4>How to Clean Your Living Space</h4>
 There are no on-campus storage options.  All residences are used over the summer by summer conference groups or for summer students.  <strong>Items may not be left in residences.</strong>  Students should not place belongings or trash in the hallway.  Items left in the hallway will be charged to the community if responsibility cannot be determined.  Recycling should be secured in bags and placed in the recycling Toters adjacent to the building.  Trash should be placed in <strong><em>outside dumpsters</em></strong>.  When moving out, students should not leave anything in the hallway unattended as it may be considered abandoned and be taken. Students must clean their living space as follows:
 <ul>
@@ -57,7 +59,7 @@ There are no on-campus storage options.  All residences are used over the summe
 <h4>Donate Items to Goodwill at the <em>Drop ‘N Go</em></h4>
 <span style="line-height: 1.5">UMW has partnered with Goodwill Industries International, Inc., and donation drop-off locations will be available on campus.  Students are encouraged to donate gently used unwanted items.  It is sustainable for the environment by avoiding landfills, and it helps those looking for that special item.</span>
 <h4>Handling Trash</h4>
-There will be additional thirty yard waste containers (dumpsters) spread throughout campus for move-out use by April 25. Students should place large bulky items such as furniture and carpets in these containers.  Household type trash should be placed in the regular eight yard front-end containers located near every campus building. Students should recycle as much as possible.
+There will be additional thirty yard waste containers (dumpsters) spread throughout campus for move-out use by April 24. Students should place large bulky items such as furniture and carpets in these containers.  Household type trash should be placed in the regular eight yard front-end containers located near every campus building. Students should recycle as much as possible.
 <h4>Eagle Landing Trash</h4>
 There will be two regular dumpsters at the rear of Eagle Landing for overflow trash and recycling.  Any bulky items or carpets at Eagle Landing should be placed next to the dumpsters.  <span class="s1">Trash chutes will be closed for the duration of move out. Students will need to take their trash to one of the dumpsters in back of the building.</span>
 <h4>Mailbox Information</h4>
