@@ -10,12 +10,13 @@ permalink: >
 published: true
 wpsi_page_checks:
   - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15999676929;s:3:"url";s:63:"http://www.umw.edu/residencelife/on-campus/end-of-year-closing/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15999676929";}s:4:"time";i:1457622402;}}'
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+yst_is_cornerstone:
+  - ""
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
-<h4><span style="color: #ff0000">This page has not been updated for Spring 2017 closing.</span></h4>
 <h4>Important Dates</h4>
 <table width="966">
 <tbody>
