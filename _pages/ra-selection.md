@@ -12,6 +12,8 @@ wpsi_page_checks:
   - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15999633860;s:3:"url";s:74:"http://www.umw.edu/residencelife/on-campus/life/get-involved/ra-selection/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15999633860";}s:4:"time";i:1457622235;}}'
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 If you love the University of Mary Washington as much as you say you do, the Office of Residence Life invites you to apply to become a Resident Assistant!
 
@@ -22,50 +24,10 @@ RAs play an integral part in the overall operation of the residence halls. Prima
 The responsibilities below outline the general expectations of the Resident Assistant. Due to the nature of this position, which can be unpredictable and evolves as the needs of the campus change, there may be variations or additions to this list. RAs may also be asked to help with other duties as assigned by a professional staff member.
 <h2>Resident Assistant Job Description 2017-2018</h2>
 The <a href="https://orgsync.com/59554/files/1101015/show">2017-2018 RA job description</a> can be found on MyUMW in the Office of Residence Life &amp; Commuter Student Services portal.
-<h2>How to Apply</h2>
-<h3>Information Sessions</h3>
-Three information sessions will be hosted by the Office of Residence Life to help provide detailed information to students interested in applying for the RA position.
-<ol>
- 	<li>Sunday, November 6, 2016 @ 7pm – Monroe Hall 116</li>
- 	<li>Thursday, November 10, 2016 @ 7pm – Virginia Hall parlor</li>
- 	<li>Wednesday, November 16, 2016 @ 7pm – Monroe Hall 116</li>
-</ol>
-<strong>Attending an information session is MANDATORY in order to be considered for the RA position.</strong>
-<h3>Application</h3>
-The <a href="https://orgsync.com/59554/forms/86978">application for the RA position</a> will become active on MyUMW on Monday, October 31, 2016. Once submitted, all applicants will be screened for GPA and judicial standing at the University of Mary Washington.
-<h3>Resume</h3>
-A resume is required to accompany all applications. The Office of Residence Life, in cooperation with the Academic and Career Services Office, will host Resume Workshops to assist you with your resume writing techniques.
-<ul>
- 	<li>Please check back for updated dates, times, and locations</li>
-</ul>
-<h2>POST APPLICATION PROCESS</h2>
-<h3>Interview/Group Process</h3>
-Each RA applicant will need to interview with at least one member of the Office of Residence Life and participate in a group process interview. Applicants will be notified via e-mail regarding the date and time of individual interviews and group process.
-<h4>Interviews will be conducted on:</h4>
-<ul>
- 	<li>Monday, February 13 thru Wednesday, February 22</li>
-</ul>
-<h4>Group process will be conducted on:</h4>
-<ul>
- 	<li>Saturday, February 18 OR Sunday, February 19</li>
-</ul>
-For tips on how to prepare and thrive during the job interview and group process, consider going to the Academic and Career Services Office located in the University Center.
-
-You should review the RA job description to see if there are any questions you would like answered by staff during your interview.
-<h2>Important Dates</h2>
-<h3>FALL SEMESTER</h3>
-<ul>
- 	<li>October 31 – RA Applications available on MyUMW</li>
- 	<li>November 6 – RA Selection Information Session 7pm – Monroe Hall room 116</li>
- 	<li>November 10 – RA Selection Information Session 7pm – Virginia Hall Parlor</li>
- 	<li>November 16 – RA Selection Information Session 7pm – Monroe Hall room 116</li>
- 	<li>December 9 @ 5pm – All applications and application materials due via MyUMW</li>
-</ul>
-<h3>SPRING SEMESTER</h3>
-<ul>
- 	<li>January 25 – RA Information Session for Study Abroad students 7pm - The Link room 301</li>
- 	<li>February 13-22 – Candidate Interviews</li>
- 	<li>February 18-19 – Group process Interviews</li>
- 	<li>February 24 – Notification of position offers</li>
- 	<li>March 3 – RA offer acceptance due</li>
-</ul>
+<h2><strong>Residence Life is Currently Accepting Applications for the Resident Assistant Alternate Pool for 2017-2018</strong></h2>
+The Alternate Pool is for those candidates for the Resident Assistant position who are qualified and have the skills to be a Resident Assistant but we do not have a position available at the time.  If there should be a Resident Assistant position vacancy between May 2017 and December 2017, professional staff from the Office of Residence Life will review and select candidates from the alternate pool.  Candidates in the alternate pool will be notified via phone and e-mail if they are offered a position.
+<h3>How to Apply</h3>
+<h5>Application</h5>
+You can find the <a href="https://orgsync.com/59554/forms/86978">application for the RA position</a> on MyUMW. Once submitted, applicants will be contacted by a professional staff member to participate in a Skype or phone interview and then screened for GPA and judicial standing at UMW.
+<h5>Resume</h5>
+A resume is required to accompany all applications. The Office of Residence Life encourages all applicants to set up a meeting with the Academic and Career Services Office for assistance with your resume writing techniques.
