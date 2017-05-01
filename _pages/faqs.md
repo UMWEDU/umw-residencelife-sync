@@ -8,6 +8,10 @@ layout: page
 permalink: >
   http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/faqs/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 All residential students have questions about living on campus; you are not alone! Check out the answers below - and find the best way to ask your question if it's not included here.
 <h2>Housing</h2>
@@ -15,7 +19,7 @@ All residential students have questions about living on campus; you are not alon
 </strong>Residence Life has put together a <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/what-to-bring/">list to assist you with packing decisions</a>.
 
 <strong>I’m looking to change rooms.  I don’t like the building assignment I received, and I don’t think I will get along with my assigned roommate.  What can I do?
-</strong>Keep an open mind.  More times than not, students have a completely different experience than their worst fear and end up being very satisfied with their living arrangements.  Give it a shot upon moving in.  Once you have given it your all, if you continue to have reservations, talk with your Resident Assistant.  Read the Changes to Housing Assignments information.  Note that with very little space available for room changes, you are unlikely to be reassigned until you have followed through with the process.
+</strong>Keep an open mind.  More times than not, students have a completely different experience than their worst fear and end up being very satisfied with their living arrangements.  Give it a shot upon moving in.  Once you have given it your all, if you continue to have reservations, talk with your Resident Assistant.  Read the Changes to Housing Assignments information.  Note: with very little space available for room changes, you are unlikely to be reassigned until you have followed through with the process.
 
 <strong>What are the bathroom facilities like?
 </strong>Some residence halls have communal floor bathrooms where each floor shares a common area bathroom containing individual toilets and shower stalls cleaned by the housekeeping staff. Other residence halls have suite-style bathrooms with two rooms connected by a shared bathroom cleaned by the residents of the adjoining rooms. Both styles have their own unique advantages.  All upperclass buildings have suite-style bathrooms.
@@ -69,7 +73,7 @@ All residential students have questions about living on campus; you are not alon
 </strong>All residence halls are non-smoking. Additionally, while smoking is allowed outside of the residence halls, students are required to be <strong>50 feet</strong> from the building.
 
 <strong>Can I have a lofted or bunked bed?
-</strong>You may not bring in outside lofts.  Get more <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/bed-bunk-or-loft-requests/">information regarding bed modifications</a>.
+</strong>You may not bring in outside lofts.  The University beds are able to be bunked or lofted for your convenience.
 
 <strong>What if I still have questions?
 </strong><a href="http://www.umw.edu/residencelife/contact/">Ask away</a>! We're here to help.
