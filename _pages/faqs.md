@@ -6,12 +6,10 @@ post_date: 2016-01-28 17:19:15
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/faqs/
+  http://www.umw.edu/residencelife/on-campus/life/get-involved/faqs/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
-yst_prominent_words_version:
-  - "1"
 ---
 All residential students have questions about living on campus; you are not alone! Check out the answers below - and find the best way to ask your question if it's not included here.
 <h2>Housing</h2>
