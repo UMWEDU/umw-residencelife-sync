@@ -12,8 +12,6 @@ wpsi_page_checks:
   - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15999633860;s:3:"url";s:74:"http://www.umw.edu/residencelife/on-campus/life/get-involved/ra-selection/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15999633860";}s:4:"time";i:1457622235;}}'
 wpcf-home-page-grid-inclusion:
   - "0"
-yst_prominent_words_version:
-  - "1"
 ---
 If you love the University of Mary Washington as much as you say you do, the Office of Residence Life invites you to apply to become a Resident Assistant!
 
