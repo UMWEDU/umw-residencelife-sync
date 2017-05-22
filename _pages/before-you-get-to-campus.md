@@ -29,7 +29,6 @@ Even if you already live on campus, the information about on campus living can b
 </li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/">Housing &amp; Dining Services Agreement</a>
 <ul>
- 	<li><a href="https://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2015-2016/">2015-2016</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2016-2017/">2016-2017</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2017-2018/">2017-2018</a></li>
 </ul>
