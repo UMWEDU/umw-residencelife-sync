@@ -10,8 +10,6 @@ permalink: >
 published: true
 wpsi_page_checks:
   - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15998956779;s:3:"url";s:58:"http://www.umw.edu/residencelife/on-campus/summer-housing/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15998956779";}s:4:"time";i:1458052864;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:15998956779;s:3:"url";s:58:"http://www.umw.edu/residencelife/on-campus/summer-housing/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15998956779";}s:4:"time";i:1457619664;}}'
-yst_prominent_words_version:
-  - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
@@ -22,4 +20,4 @@ wpcf-home-page-grid-inclusion:
  	<li class="p1">Students wishing to remain on campus after the residence halls close and before summer housing begins, should visit the <a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/extended-stay-housing/">May Extended Stay Housing</a> page.</li>
  	<li class="p1">Have questions about summer housing, please contact Assistant Director of Residence Life Brittany Harper, at <a href="mailto:bharper2@umw.edu"><span class="s3">bharper2@umw.edu</span></a>.</li>
 </ul>
-<h2></h2>
+[table id=22 /]
