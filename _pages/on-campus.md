@@ -75,6 +75,5 @@ If you don’t currently live on campus, but want to know what it’s like to li
  	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/">Get Involved</a></li>
 </ul>
 </li>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/summer-2016-housing-agreement-terms/">Summer 2016 Housing information</a></li>
 </ul>
 </div>
