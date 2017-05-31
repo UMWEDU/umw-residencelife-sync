@@ -26,6 +26,6 @@ The <a href="https://orgsync.com/59554/files/1101015/show">2017-2018 RA job desc
 The Alternate Pool is for those candidates for the Resident Assistant position who are qualified and have the skills to be a Resident Assistant but we do not have a position available at the time.  If there should be a Resident Assistant position vacancy between May 2017 and December 2017, professional staff from the Office of Residence Life will review and select candidates from the alternate pool.  Candidates in the alternate pool will be notified via phone and e-mail if they are offered a position.
 <h3>How to Apply</h3>
 <h5>Application</h5>
-You can find the <a href="https://orgsync.com/59554/forms/86978">application for the RA position</a> on MyUMW. Once submitted, applicants will be contacted by a professional staff member to participate in a Skype or phone interview and then screened for GPA and judicial standing at UMW.
+You can find the <a href="https://orgsync.com/59554/forms/86978">application for the RA position</a> on MyUMW. Once submitted, applicants will be contacted by a professional staff member to participate in a Skype or phone interview and then screened for GPA and student conduct issues at UMW.
 <h5>Resume</h5>
 A resume is required to accompany all applications. The Office of Residence Life encourages all applicants to set up a meeting with the Academic and Career Services Office for assistance with your resume writing techniques.
