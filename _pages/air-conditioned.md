@@ -17,7 +17,7 @@ For housing accommodation requests in addition to, or other than air-conditioned
 <h2>Deadline for Application</h2>
 <ul>
  	<li>Returning students-Coincides with Housing Selection Pre-Process Deadline</li>
- 	<li>First time students-Coincides with Housing Agreement Deadline</li>
+ 	<li>First time students-Able to apply after they are assigned for the semester (only those assigned to non-air conditioned buildings)</li>
  	<li>Spring admits-Rolling Deadline</li>
 </ul>
 <h2>Application Requirements</h2>
@@ -28,9 +28,5 @@ Supporting Medical Documentation - Information provided by a medical professiona
 UMW Office of Residence Life
 1301 College Avenue
 Fredericksburg, VA 22401
-<h2>Electrical Requirements</h2>
-If the student requests to have the air conditioner removed prior to the end of the year, a $75 fee will be charged to re-install it.  Required specifications for units are:
-<ul>
- 	<li>5,000 BTUs, max 7,000 BTUs</li>
- 	<li>115-120 volts with 8 amps maximum</li>
-</ul>
+
+<em>Please note: If the student requests to have the air conditioner removed prior to the end of the year, a $75 fee will be charged to re-install it.</em>
