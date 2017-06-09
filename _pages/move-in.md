@@ -18,5 +18,4 @@ Congratulations on selecting the UMW residential experience.  In order to make 
 </strong></h2>
 <strong>Wednesday, August 23<sup>rd</sup></strong>—All New Students Move-in. Times and instructions to be released.
 <strong>Saturday, August 26<sup>th</sup></strong>—All Upperclass Students Move-in. Times and instructions to be released.
-<h2>Sponsored Early Arrivals:</h2>
-Only those students approved for early arrival will be allowed to check in early.  If you are part of an authorized group that has an early move in, then you will be notified of your move in date and time, by your group leader.  Please contact your sponsoring group for additional information.
+<h2></h2>
