@@ -35,6 +35,7 @@ Even if you already live on campus, the information about on campus living can b
 </li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/air-conditioned/">AC Housing Accommodations</a></li>
  	<li><a href="http://www.umw.edu/residencelife/residence-halls/">Residence Hall Information</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/configuring-your-bed/">Bed Configurations</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/">New Student Housing</a>
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/on-campus-living-requirement/">On Campus Living Requirement</a></li>
@@ -61,7 +62,6 @@ Even if you already live on campus, the information about on campus living can b
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/what-to-bring/">What to Bring</a></li>
 </ul>
 </li>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/bed-bunk-or-loft-requests/">Bunk Bed or Loft Requests</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/summer-room-change-process/">Summer Room Change Process</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/spring-2017-housing-information/">Spring 2017 Housing Information</a></li>
 </ul>
