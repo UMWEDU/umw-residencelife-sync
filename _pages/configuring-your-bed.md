@@ -24,7 +24,7 @@ If a resident wishes to change their bed configuration, they must contact their 
 <h3>Definition of Terms</h3>
 <div class="one-half first">
 
-[caption id="attachment_233" align="alignnone" width="1024"]<a href="http://www.umw.edu/residencelife/before-you-get-to-campus/bed-bunk-or-loft-requests/bunk/" rel="attachment wp-att-233"><img class="wp-image-233 size-large" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/bunk-e1454946863250-1024x945.jpg" alt="" width="1024" height="945" /></a> Bunk beds[/caption]
+[caption id="attachment_233" align="alignnone" width="1024"]<a href="http://www.umw.edu/residencelife/before-you-get-to-campus/configuring-your-bed/bunk/" rel="attachment wp-att-233"><img class="wp-image-233 size-large" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/bunk-e1454946863250-1024x945.jpg" alt="" width="1024" height="945" /></a> Bunk beds[/caption]
 <h4>Bunk beds:</h4>
 When both beds are placed parallel to each other – one on the bottom and the other above it.  Bed pins secure the bed boards to each other.  Both roommates would have to communicate with each other to determine if this is the best sleeping situation, who would sleep in either bed, etc.
 
