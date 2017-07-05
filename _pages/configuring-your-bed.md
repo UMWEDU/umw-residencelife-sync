@@ -31,7 +31,7 @@ When both beds are placed parallel to each other – one on the bottom and the o
 </div>
 <div class="one-half">
 
-[caption id="attachment_232" align="alignnone" width="1024"]<a href="http://www.umw.edu/residencelife/before-you-get-to-campus/bed-bunk-or-loft-requests/loft/" rel="attachment wp-att-232"><img class="wp-image-232 size-large" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/loft-e1454947680730-1024x945.jpg" alt="" width="1024" height="945" /></a> A lofted bed[/caption]
+[caption id="attachment_232" align="alignnone" width="1024"]<a href="http://www.umw.edu/residencelife/before-you-get-to-campus/configuring-your-bed/loft/" rel="attachment wp-att-232"><img class="wp-image-232 size-large" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/loft-e1454947680730-1024x945.jpg" alt="" width="1024" height="945" /></a> A lofted bed[/caption]
 <h4>Lofted bed:</h4>
 When one bed’s boards are doubled and secured with bed pins (and a security bar) to be raised high above the ground. The mattress is placed high so other furniture items are in the space below the mattress to maximize space usage.  The highest a loft can be raised is just under 6 feet, ranging between 5`8 1/2" and 5`9".
 
