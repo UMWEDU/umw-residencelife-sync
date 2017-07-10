@@ -2,37 +2,34 @@
 ID: 278
 post_title: 'Move-In: Before you Arrive'
 author: mesch
-post_date: 2016-06-16 11:25:33
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/before-you-arrive/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-06-16 11:25:33
 ---
-<a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Logo_Movein_lk_FINAL_1215.jpg"><img class="alignnone size-large wp-image-281" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Logo_Movein_lk_FINAL_1215-1024x483.jpg" alt="Logo_Movein_lk_FINAL_1215" width="1024" height="483" /></a>
 <h2><strong>Before you arrive:</strong></h2>
 <ul>
  	<li>Pick up your EagleOne Card during Orientation. This is your student ID card and you will need it to check into your Residence Hall.</li>
  	<li>Read <a href="http://publications.umw.edu/eagleessentials/">Eagle Essentials</a></li>
  	<li>Read the residential policies in the <a href="http://publications.umw.edu/student-handbook/">student handbook</a></li>
  	<li>Contact your roommates to get to know each other and to discuss what items you will share and who is bringing what.</li>
- 	<li>Review the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/prohibited-in-residence-halls/">prohibited items</a></li>
- 	<li>Purchase and pack necessary items</li>
- 	<li>Review your family insurance policy or purchase a renters insurance policy to protect your belongings while on campus.</li>
+ 	<li>Review the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/prohibited-in-residence-halls/">prohibited items</a> list. Be sure to leave these items at home.</li>
+ 	<li>Pack S.M.A.R.T.! Use the tips in our acronym and packing list found on our website to bring the right amount of belongings.</li>
+ 	<li>Review your family insurance policy or purchase a renter's insurance policy to protect your belongings while on campus.</li>
 </ul>
 <h3>Get to know your roommate:</h3>
-While social media is convenient for quick introductions and sharing information we encourage you and your roommate to have a phone conversation or when possible a face-to-face meeting to learn about each other before move-in.
+While social media is convenient for quick introductions and sharing information we encourage you and your roommate to have a phone conversation or when possible a face-to-face meeting to learn about each other before move-in.  Be mindful that some students are traveling for the summer or may not be accessible via certain communication methods.  Be patient and don’t assume the worst.
 <h4>Keep in mind:</h4>
 <ul>
  	<li>It is okay to feel apprehensive about speaking with your new roommate for the first time.</li>
- 	<li>They are in the same situation you are, and probably have similar feelings as you.</li>
+ 	<li>They are in the same situation you are. Assume good will and give the relationship time.</li>
  	<li>The more you communicate with your new roommate now and when you arrive on campus, the better the relationship will ultimately be.</li>
 </ul>
-Review helpful information about <a href="http://www.umw.edu/residencelife/on-campus/life/roommate/">living with a roommate</a>.
-<h3>What to bring and not to bring:</h3>
-All residence hall rooms at UMW come with
+Review helpful information about living with a roommate at <a href="http://www.umw.edu/residencelife/on-campus/life/roommate/">http://www.umw.edu/residencelife/on-campus/life/roommate</a>
+<h3>Eagle Approved / Keep These Items Out of Your Nest:</h3>
+All residence hall rooms at UMW come with:
 <ul>
  	<li>Twin bed frame and extra long mattress</li>
  	<li>Desk &amp; Chair</li>
@@ -42,13 +39,19 @@ All residence hall rooms at UMW come with
  	<li>Cable Port-1 per room</li>
 </ul>
 *In some halls, residents must share drawer space within a dresser or closet space with roommates.
+<h4>Pack S.M.A.R.T.</h4>
+<strong>S</strong>: Spend two weeks taking note of what you use at home. If you haven't used it in two weeks, don't pack it.
 
-Most home good stores provide a fairly comprehensive list of items needed for college.  Please be aware that these lists sometimes include items that are prohibited at UMW.  Please review the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/prohibited-in-residence-halls/">prohibited items list</a>.
+<strong>M</strong>: Make lists of "must-have" and "want" items. Prioritize your lists and leave the unnecessary things at home.
+
+<strong>A</strong>: Assess the space needed to bring your possessions. Remember, you will more than likely share a room with someone else.
+
+<strong>R</strong>: Remember, Virginia has seasonal weather. There is no need to bring all of your clothes at once. Use family visits, breaks, and holidays to switch out clothes.
+
+<strong>T</strong>: Talk to your roommate about sharing certain items. Why bring two when one will suffice?
+
+Most home good stores provide a fairly comprehensive list of items needed for college.  Please be aware that these lists sometimes include items that are prohibited at UMW.  Please review the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/prohibited-in-residence-halls/">prohibited items list</a> and keep these items out of your nest!
 
 <strong>NOTE</strong>:  The University of Mary Washington does not provide storage for luggage, boxes, or the UMW provided furniture listed above.  Everything you bring must fit in your room.
-<h3>Think Green when packing and moving:</h3>
-The University of Mary Washington is committed to creating a sustainable future. We encourage our students to think about sustainability when packing to move to campus.  Please learn more about <a href="http://sustainability.umw.edu/move-in/" target="_blank">how to move sustainably</a>.
 
-UMW also offers Green Room Certification.  To learn more about this certification <a href="http://sustainability.umw.edu/green-room-certification-checklist/" target="_blank">visit the Office of Sustainability</a>.<strong> </strong>
-
-<strong>NOTE</strong>:  Label all boxes with last name, first initial, building, room number.  Forgot your building and room? Check your account online with <a href="https://umw-residence.symplicity.com/index.php/pid789120?">Symplicity Residence</a>
+<strong>NOTE</strong>:  Label all boxes with last name, first initial, building, room number.  Forgot your building and room? Check <a href="https://umw-residence.symplicity.com/index.php/pid789120?">Symplicity Residence</a>
