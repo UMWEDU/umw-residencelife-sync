@@ -1,6 +1,6 @@
 ---
 ID: 70
-post_title: Move In Fall 2017
+post_title: Move-In Fall 2017
 author: mesch
 post_excerpt: ""
 layout: page
