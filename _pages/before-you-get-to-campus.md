@@ -2,18 +2,12 @@
 ID: 32
 post_title: 'Before You Get To Campus&#8230;'
 author: mesch
-post_date: 2016-01-27 19:22:35
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/residencelife/before-you-get-to-campus/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "1"
-wpcf-homepage-copy:
-  - |
-    <a href="https://www.umw.edu/residencelife/before-you-get-to-campus/">Forms and information</a> about living on campus next year for all students.
-    <div class="CTAbutton CTAblue" style="margin-top: 1em"><a href="https://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/">Housing Selection 2017-2018</a></div>
+post_date: 2016-01-27 19:22:35
 ---
 Even if you already live on campus, the information about on campus living can be found here. From housing selection to bed bunking/lofting, and move in, we have the pages and forms you seek.
 <div class="one-half first">
