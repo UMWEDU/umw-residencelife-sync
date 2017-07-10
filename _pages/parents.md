@@ -2,17 +2,12 @@
 ID: 10
 post_title: Partnering with Parents and Families
 author: mesch
-post_date: 2015-12-17 22:01:15
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/residencelife/parents/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "1"
-wpcf-homepage-copy:
-  - |
-    From FERPA to flower delivery, we've got the <a href="https://www.umw.edu/residencelife/parents/">tools and information</a> to help you help your student have a successful UMW experience.
+post_date: 2015-12-17 22:01:15
 ---
 At UMW, parents and families are an integral part of our community.  We know from a recent survey that our students value the input of their families.  You are the first people they go to when faced with a question, concern, or challenge.  We’ve designed this section to give you the tools and knowledge necessary to support your student through their transition to on-campus living and throughout their time at Mary Washington.
 <h2>Why Live On Campus?</h2>
