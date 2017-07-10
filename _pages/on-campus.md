@@ -2,20 +2,12 @@
 ID: 71
 post_title: 'Once You&#8217;re On Campus'
 author: mesch
-post_date: 2016-01-29 19:41:16
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/residencelife/on-campus/
 published: true
-wpsi_page_checks:
-  - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15998928812;s:3:"url";s:43:"http://www.umw.edu/residencelife/on-campus/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15998928812";}s:4:"time";i:1457619587;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:15998928812;s:3:"url";s:43:"http://www.umw.edu/residencelife/on-campus/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15998928812";}s:4:"time";i:1457619549;}}'
-wpcf-home-page-grid-inclusion:
-  - "1"
-wpcf-homepage-copy:
-  - |
-    <a title="Resources for resident students" href="/residencelife/on-campus/">Forms and information</a> for those currently living on campus.
-    <div class="CTAbutton CTAgreen" style="margin-top: 1em"><a href="https://www.umw.edu/residencelife/on-campus/life/get-involved/ra-selection/">Resident Assistant Selection</a></div>
+post_date: 2016-01-29 19:41:16
 ---
 Throughout the year, students and families seek information about living in the residence halls. If you currently live on campus, this page will guide you in what forms and information are active and that Residence Life is seeking from you.
 
@@ -38,15 +30,7 @@ If you don’t currently live on campus, but want to know what it’s like to li
  	<li><a href="http://www.umw.edu/residencelife/on-campus/life/">Life in the Halls</a>
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/life/first-year-seminar/">FSEMs</a></li>
- 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/">Get Involved</a>
-<ul>
- 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/ra-selection/">Resident Assistant Selection</a>
-<ul>
- 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/ra-selection/questions/">RA Selection FAQs</a></li>
-</ul>
-</li>
-</ul>
-</li>
+ 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/">Get Involved</a></li>
 </ul>
 </li>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/life/tlcs/">Themed Living Communities</a> (T.L.C.)
@@ -72,7 +56,12 @@ If you don’t currently live on campus, but want to know what it’s like to li
 </li>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/life/">Life in the Halls</a>
 <ul>
- 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/">Get Involved</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/">Get Involved</a>
+<ul>
+ 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/ra-selection/">Resident Assistant Selection</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/ra-selection/questions/">RA Selection FAQs</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
