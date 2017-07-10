@@ -38,6 +38,11 @@ If you don’t currently live on campus, but want to know what it’s like to li
  	<li><a href="http://www.umw.edu/residencelife/on-campus/life-in-the-halls/thcs/gender-neutral-housing-community/">Gender Neutral Housing Community</a></li>
 </ul>
 </li>
+ 	<li><a href="http://www.umw.edu/residencelife/on-campus/charges/">Charges</a>
+<ul>
+ 	<li><a href="http://www.umw.edu/residencelife/on-campus/charges/appeal/">Appeal Process for Housing Charges</a></li>
+</ul>
+</li>
 </ul>
 </div>
 <div class="one-half">
@@ -49,11 +54,7 @@ If you don’t currently live on campus, but want to know what it’s like to li
 </ul>
 </li>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/end-of-year-closing/">End of Year Closing information</a></li>
- 	<li><a href="http://www.umw.edu/residencelife/on-campus/charges/">Charges</a>
-<ul>
- 	<li><a href="http://www.umw.edu/residencelife/on-campus/charges/appeal/">Appeal Process for Housing Charges</a></li>
-</ul>
-</li>
+ 	<li></li>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/life/">Life in the Halls</a>
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/">Get Involved</a>
