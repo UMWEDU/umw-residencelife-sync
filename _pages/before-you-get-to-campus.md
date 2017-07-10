@@ -13,6 +13,15 @@ Even if you already live on campus, the information about on campus living can b
 <div class="one-half first">
 <h2>Active Processes/Information</h2>
 <ul>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/">Move In Information - Fall 2017</a>
+<ul>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/before-you-arrive/">Move-in: Before you Arrive</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/move-in-day-of/">Move-in: Day of</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/early-arrivals/">Early Arrivals</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/prohibited-in-residence-halls/">Prohibited in Residence Halls</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/what-to-bring/">What to Bring</a></li>
+</ul>
+</li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/">Housing Selection 2017-2018</a>
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/navigating-symplicity/">Navigating Symplicity</a></li>
@@ -23,7 +32,6 @@ Even if you already live on campus, the information about on campus living can b
 </li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/">Housing &amp; Dining Services Agreement</a>
 <ul>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2016-2017/">2016-2017</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2017-2018/">2017-2018</a></li>
 </ul>
 </li>
@@ -44,18 +52,10 @@ Even if you already live on campus, the information about on campus living can b
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/">Housing &amp; Dining Services Agreement</a>
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2015-2016/">2015-2016</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2016-2017/">2016-2017</a></li>
 </ul>
 </li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/my-room-my-umw/">"My Room, My UMW" contest</a></li>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/">Move In Information - Fall 2016</a>
-<ul>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/before-you-arrive/">Move-in: Before you Arrive</a></li>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/move-in-day-of/">Move-in: Day of</a></li>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/early-arrivals/">Early Arrivals</a></li>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/prohibited-in-residence-halls/">Prohibited in Residence Halls</a></li>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/what-to-bring/">What to Bring</a></li>
-</ul>
-</li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/summer-room-change-process/">Summer Room Change Process</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/spring-2017-housing-information/">Spring 2017 Housing Information</a></li>
 </ul>
