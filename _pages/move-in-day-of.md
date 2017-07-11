@@ -29,7 +29,7 @@ Can’t arrive during your move-in time?  No worries!  We will welcome you whe
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/Russ-webpage.pdf"><em>Russell</em></a></li>
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/UMAPT-webpage.pdf"><em>UMW Apartments</em></a></li>
 </ul>
-Please also download the <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/new-map.jpg">Move-in Day map</a>, paying special attention to the map key in the bottom left half of the map.
+Please also download the <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/New-map-of-campus.pdf">Move-in Day map</a>, paying special attention to the yellow (unloading zones) and bright red (long term parking).
 
 <em>Important Announcement Regarding move-in:</em>
 
