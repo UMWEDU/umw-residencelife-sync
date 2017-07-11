@@ -17,15 +17,17 @@ Please click on the link for your assigned building for a detailed instruction s
 Can’t arrive during your move-in time?  No worries!  We will welcome you when you arrive.
 <h2>Residence Hall Move-in Instructions</h2>
 <ul>
- 	<li><em>Alvey/Arrington</em></li>
- 	<li><em>Ball/Custis/Madison (upperclass)</em></li>
- 	<li>Custis/Madison/Virginia (first year)</li>
- 	<li><em>Bushnell/Jefferson</em></li>
- 	<li><em>Link/Randolph/Mason/Westmoreland</em></li>
- 	<li><em>Eagle Landing</em></li>
- 	<li><em>Framar/South</em></li>
- 	<li><em>Marshall/Russell</em></li>
- 	<li><em>UMW Apartments</em></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/AlveArri-webpage.pdf"><em>Alvey/Arrington</em></a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/BallCustMadi-upperclass-webpage.pdf"><em>Ball/Custis/Madison (upperclass)</em></a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/CustMadiVirg-first-year-webpage.pdf">Custis/Madison/Virginia (first year)</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/BushJeff-webpage.pdf"><em>Bushnell/Jefferson</em></a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/LinkRandMaso-webpage.pdf"><em>Link/Randolph/Mason</em></a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/West-webpage.pdf"><em>Westmoreland</em></a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/ELEV-webpage.pdf"><em>Eagle Landing</em></a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/FramarSouth-webpage.pdf"><em>Framar/South</em></a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/Mars-webpage.pdf"><em>Marshall</em></a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/Russ-webpage.pdf"><em>Russell</em></a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/UMAPT-webpage.pdf"><em>UMW Apartments</em></a></li>
 </ul>
 Please also download the <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/new-map.jpg">Move-in Day map</a>, paying special attention to the map key in the bottom left half of the map.
 
