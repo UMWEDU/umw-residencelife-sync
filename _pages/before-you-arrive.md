@@ -39,6 +39,8 @@ All residence hall rooms at UMW come with:
  	<li>Cable Port-1 per room</li>
 </ul>
 *In some halls, residents must share drawer space within a dresser or closet space with roommates.
+
+Check out this printable <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/Eagle-Approved-list.pdf">Ultimate UMW Packing List</a> for items that are Eagle Approved and those that are not permitted in your Nest.
 <h4>Pack S.M.A.R.T.</h4>
 <strong>S</strong>: Spend two weeks taking note of what you use at home. If you haven't used it in two weeks, don't pack it.
 
