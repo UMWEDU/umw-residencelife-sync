@@ -2,16 +2,16 @@
 ID: 81
 post_title: What to Bring
 author: mesch
-post_date: 2016-01-29 15:43:58
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/what-to-bring/
 published: true
+post_date: 2016-01-29 15:43:58
 ---
 With the exceptions of Alvey and Randolph Halls, First-Year housing is not air-conditioned and room air-conditioners are not permitted, unless a request has been submitted to the Office of Residence Life and approved by the Assistant Director of Housing. Most electrical appliances (i.e. televisions, DVDs, stereos, radios, mini-refrigerator/freezers, computers/printers, hair dryers and irons) are permissible in residence halls. However, due to safety considerations, flame or spark-producing items (i.e. candles, halogen lamps, incense burners, oil burning lamps, lanterns and space heaters) are not permitted. Refer to further residential policies as noted in the <a href="http://publications.umw.edu/student-handbook/">Student Handbook</a>, and in the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/">Housing and Dining Services Agreement</a>.
 <ul>
- 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/BringNotBring.pdf">Printable "What to Bring" checklist</a>.</li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/Eagle-Approved-list.pdf">Printable "Eagle Approved Packing List with Pack S.M.A.R.T." checklist.</a></li>
 </ul>
 <h2>Desk Items:</h2>
 Desk lamp, pencils, pens, notebook, writing paper, stamps, envelopes, address book, paper clips, rubber bands, stapler and staples, ruler, note cards (various sizes), glue, transparent tape, writing style manual, thumb tacks, calendar, and/or appointment book.
