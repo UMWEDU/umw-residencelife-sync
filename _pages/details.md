@@ -2,16 +2,12 @@
 ID: 69
 post_title: Housing Selection Details
 author: mesch
-post_date: 2016-01-29 19:22:02
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/details/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
-yst_prominent_words_version:
-  - "1"
+post_date: 2016-01-29 19:22:02
 ---
 <div class="mceTemp"></div>
 
@@ -35,9 +31,8 @@ Each individual will have a specific individual time slot.  However, if in a gr
 
 <strong>Homesteading</strong>: Homesteading allows current undergraduate residential students living in certain designated spaces within upperclass buildings the option to keep their current room assignment for the 2017-2018 Academic Year.
 <ul>
- 	<li>Please note: Bushnell Hall is closed for 2017-2018 academic year. Jefferson Hall, 3rd and 4th floors, will revert to double occupancy to compensate for Bushnell closing for 2017-2018.</li>
+ 	<li>Jefferson Hall, 3rd and 4th floors, will revert to double occupancy.</li>
  	<li>If you wish to homestead in Jefferson Hall on the 3rd and 4th floors, we will be in contact with you about your options.</li>
- 	<li>If you wish to homestead in Bushnell, please contact Brittany Harper for options.</li>
 </ul>
 In order to participate in this pre-process you must submit the housing application and <a href="https://orgsync.com/59554/forms/66700">homesteading form in myUMW</a> by February 24<sup>th</sup>. Approved students will be assigned during Spring Break.
 
