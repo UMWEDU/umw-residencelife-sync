@@ -2,14 +2,12 @@
 ID: 143
 post_title: Themed Living Communities
 author: mesch
-post_date: 2016-01-31 16:33:21
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/residencelife/on-campus/life/tlcs/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-01-31 16:33:21
 ---
 &nbsp;
 
@@ -39,4 +37,4 @@ We invite faculty, staff, and students to organize new communities which can be 
 
 Applications are available now on MyUMW.  To apply, visit the <a href="https://orgsync.com/59554/forms/166472">application of MyUMW</a>. Applications are due February 10, 2017 for the 2017-2018 academic year.
 
-Contact Dave Fleming, Associate Director of Residence Life at <a href="mailto:dflemin3@umw.edu">dflemin3@umw.edu</a> if you have questions.
+Contact Dave Fleming, Assistant Dean of Residence Life and Housing at <a href="mailto:dflemin3@umw.edu">dflemin3@umw.edu</a> if you have questions.
