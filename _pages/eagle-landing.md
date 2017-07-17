@@ -2,24 +2,24 @@
 ID: 29
 post_title: 'ELEV Rotunda &amp; Conference Room Reservations'
 author: mesch
-post_date: 2016-01-27 19:09:49
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/residencelife/space-reservations/eagle-landing/
 published: true
+post_date: 2016-01-27 19:09:49
 ---
 <h2>Thank you for your interest in hosting your event at the Eagle Landing Rotunda and Conference Room!</h2>
-All reservation requests for Eagle Landing spaces should be emailed to Residence Life &amp; Commuter Student Services at <a href="mailto:reslife@umw.edu">reslife@umw.edu</a>.
+All reservation requests for Eagle Landing spaces should be emailed to Residence Life &amp; Housing at <a href="mailto:reslife@umw.edu">reslife@umw.edu</a>.
 
 The Rotunda and Conference Room are reserved for use by students and UMW employees (anyone with a UMW net ID) however, we will consider requests by outside groups.  Since this is a residential space, though, we reserve the right to deny an outside group’s interest in obtaining these rooms.
 <h3>All requests should include:</h3>
 <ul>
-	<li>requestor name</li>
-	<li>sponsor group</li>
-	<li>date(s)</li>
-	<li>start and end time (ensuring to account for set up and break down)</li>
-	<li>estimated group size.</li>
+ 	<li>requestor name</li>
+ 	<li>sponsor group</li>
+ 	<li>date(s)</li>
+ 	<li>start and end time (ensuring to account for set up and break down)</li>
+ 	<li>estimated group size.</li>
 </ul>
 <h4>Parking</h4>
 It is the responsibility of the event coordinator to communicate any specific building access and parking needs.  Please understand that during the academic year parking  on site may not be available. The closest visitor parking lot is the Alvey parking deck on the opposite side of U.S. 1, easily accessible via the pedestrian bridge.
