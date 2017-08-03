@@ -2,14 +2,12 @@
 ID: 31
 post_title: Configuring your bed
 author: mesch
-post_date: 2016-01-27 19:20:44
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/residencelife/before-you-get-to-campus/configuring-your-bed/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-01-27 19:20:44
 ---
 All residents have the ability to choose the bed configuration they want. All beds are set to the standard "tall" configuration which consists of one headboard, one footboard, and the bed springs set at the highest setting (about 36 inches), with the mattress on top. Residents may lower the bed springs, bunk the beds, or loft the beds. It is entirely up to the resident to determine what bed configuration suits them best.
 
@@ -39,4 +37,4 @@ When one bed’s boards are doubled and secured with bed pins (and a security ba
 <h4 style="clear: both"></h4>
 [caption id="attachment_392" align="alignnone" width="1024"]<img class="size-large wp-image-392" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/IMG_0103-1024x768.jpg" alt="" width="1024" height="768" /> Bed set at "tall" setting[/caption]
 <h4 style="clear: both">Bed Adjustments:</h4>
-Resident Assistants have rubber mallets and can show students the proper way to adjust bed heights.  The beds can be adjusted anywhere from 21" to 36" off the ground. The bed in the photo is at the "tall" setting, the standard height across campus when students move in.
+Resident Assistants have rubber mallets and can show students the proper way to adjust bed heights.  The beds can be adjusted anywhere from 21" to 30" off the ground. The bed in the photo is at the "tall" setting, the standard height across campus when students move in.
