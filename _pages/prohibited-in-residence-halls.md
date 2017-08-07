@@ -2,12 +2,12 @@
 ID: 78
 post_title: Prohibited in Residence Halls
 author: mesch
-post_date: 2016-01-29 15:28:17
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/prohibited-in-residence-halls/
 published: true
+post_date: 2016-01-29 15:28:17
 ---
 <strong>Prohibited Items/Actions Within Residence Halls:</strong> partial list – in addition to other policies (see the <a href="http://publications.umw.edu/student-handbook/">Student Handbook</a>)
 <ul>
@@ -37,7 +37,7 @@ published: true
  	<li>outside antenna/satellite dish</li>
  	<li>overstuffed or inflatable furniture, waterbeds, and personal lofts</li>
  	<li>previously live cut trees, cornstalks, leaves, and hay</li>
- 	<li>refrigerators larger than 4.5 cubic feet.  Only one is permitted in a single, double, and triple room; quads may have two mini-refrigerators.  Fridges must be plugged directly into the wall.  Eagle Landing and UMW Apartments are not permitted to have additional refrigerators beyond the large one provided by the University in the kitchen.</li>
+ 	<li>refrigerators 4.5 cubic feet and larger.  Only one is permitted in a single, double, and triple room; quads may have two mini-refrigerators.  Fridges must be plugged directly into the wall.  Eagle Landing and UMW Apartments are not permitted to have additional refrigerators beyond the large one provided by the University in the kitchen.</li>
  	<li>space heaters</li>
  	<li>removal of University-issued room furniture or relocation of any University-issued residential furniture</li>
  	<li>signs considered to be University, government, or another’s property</li>
