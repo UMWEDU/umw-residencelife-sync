@@ -44,6 +44,7 @@ Even if you already live on campus, the information about on campus living can b
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/faqs/">FAQs</a></li>
 </ul>
 </li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/internet-in-the-halls/">Internet in the Halls</a></li>
 </ul>
 </div>
 <div class="one-half">
