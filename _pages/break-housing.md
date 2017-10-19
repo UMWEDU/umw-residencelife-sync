@@ -18,13 +18,13 @@ post_date: 2016-01-29 16:01:45
  	<li><strong>Winter Break:</strong>
 <ul>
  	<li>All students requesting to stay late or return early will be automatically approved for dates that the University is open.</li>
- 	<li>For residents wishing to remain on campus while the University is closed; if you reside in Framar, South, Eagle Landing, or the UMW Apartments you will be automatically approved following your application submission.</li>
+ 	<li>For residents wishing to remain on campus while the University is closed, you will need to apply if you reside in Framar, South, Eagle Landing, or the UMW Apartments, however you will be automatically approved following your application submission.</li>
 </ul>
 </li>
 </ul>
 *NOTE: For Winter Break 2017, the residence halls close at 10am Dec 16.  All students living in buildings other than Eagle Landing, UMW Apartments, South, and Framar will have to leave campus by the deadline on Dec 16.
 
-For more information about the application process, costs, meal service, closing dates, and safety tips for during breaks please see the Frequently Asked Questions below.
+For more information about the application process, meal service, closing dates, and safety tips for during breaks please see the Frequently Asked Questions below.
 <h2>Deadlines</h2>
 <strong>Thanksgiving &amp; Spring Breaks:</strong>
 Break Housing Applications are due in MyUMW by the Friday the week before the Residence Halls close for break.
@@ -32,7 +32,7 @@ Break Housing Applications are due in MyUMW by the Friday the week before the Re
 <strong>Winter Break:</strong>
 Break Housing Applications are due in MyUMW by the last day of classes for the fall semester.
 
-Failure to meet the deadline published below will result in a $25 late fee being added to your break housing bill.
+Failure to meet the deadline published above will result in a $25 late fee being added to your student account.
 <h2>Sponsored Break Housing</h2>
 <p class="p1"><span class="s1">Departments or student groups sponsoring students for an academic, extracurricular, or athletic event requiring a stay in University-owned housing during a break should submit a <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/BreakHousingTemplate.xlsx">request for the sponsored students</a>.</span></p>
 <p class="p1"><span class="s1">Please note that the university is closed December 16</span><span class="s3"><sup>th</sup></span><span class="s1"> to January 3</span><span class="s3"><sup>rd</sup></span><span class="s1"> and unless students live in Eagle Landing, UMW Apartments, Framar House or South Hall, they are not able to stay on campus during those dates.</span></p>
@@ -50,7 +50,7 @@ Any student meeting the following conditions should apply for break housing by t
 There is no cost for Break Housing at this time.
 <h3>When do halls close for breaks and reopen after breaks?</h3>
 <strong>Thanksgiving Break</strong> begins and the student residences close at 10am on the Wednesday before Thanksgiving. Residences open at 2pm on the Sunday after Thanksgiving Day.
-<strong>Winter Break</strong> begins and the student residences close at 10am on Saturday, December 12. Residences open at 9am for returning students on Sunday, before the 1st day of classes.<strong>
+<strong>Winter Break</strong> begins and the student residences close at 10am on the Saturday immediately following finals week. Residences open at 9am for returning students on Sunday, before the first day of classes.<strong>
 Spring Break</strong> begins and the student residences close at 9pm on Friday, before break starts. Residences open at 2pm on Sunday, before classes resume.
 <h3>Are meals served during breaks?</h3>
 Dining Services is closed for all break periods. Visit <a href="http://umwdining.com/">UMW Dining</a> for more information. Students remaining on campus during breaks are responsible for making alternate arrangements for meals.
