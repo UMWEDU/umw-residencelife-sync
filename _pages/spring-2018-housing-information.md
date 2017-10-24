@@ -5,7 +5,7 @@ author: mesch
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/residencelife/before-you-get-to-campus/spring-2017-housing-information/
+  http://www.umw.edu/residencelife/before-you-get-to-campus/spring-2018-housing-information/
 published: true
 post_date: 2016-01-28 16:47:48
 ---
