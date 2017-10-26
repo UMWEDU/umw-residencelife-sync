@@ -17,7 +17,7 @@ RAs play an integral part in the overall operation of the residence halls. Prima
 
 The responsibilities below outline the general expectations of the Resident Assistant. Due to the nature of this position, which can be unpredictable and evolves as the needs of the campus change, there may be variations or additions to this list. RAs may also be asked to help with other duties as assigned by a professional staff member.
 <h2>Resident Assistant Job Description 2017-2018</h2>
-The <a href="https://orgsync.com/59554/files/1101015/show">2017-2018 RA job description</a> can be found on MyUMW in the Office of Residence Life &amp; Housing portal.
+The <a href="https://orgsync.com/59554/files/1103393/show">2017-2018 RA job description</a> can be found on MyUMW in the Office of Residence Life &amp; Housing portal.
 <h2><strong>Residence Life is Currently Accepting Applications for the Resident Assistant Alternate Pool for 2017-2018</strong></h2>
 The Alternate Pool is for those candidates for the Resident Assistant position who are qualified and have the skills to be a Resident Assistant but we do not have a position available at the time.  If there should be a Resident Assistant position vacancy between May 2017 and December 2017, professional staff from Residence Life and Housing will review and select candidates from the alternate pool.  Candidates in the alternate pool will be notified via phone and e-mail if they are offered a position.
 <h3>How to Apply</h3>
