@@ -54,7 +54,7 @@ If you don’t currently live on campus, but want to know what it’s like to li
  	<li><a href="http://www.umw.edu/residencelife/on-campus/work-orders/">Work Order requests</a></li>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/life/tlcs/">Themed Living Communities</a> (T.L.C.)
 <ul>
- 	<li><a href="http://www.umw.edu/residencelife/on-campus/life-in-the-halls/thcs/gender-neutral-housing-community/">Gender Inclusive Housing Community</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/tlcs/gender-inclusive-housing-community/">Gender Inclusive Housing Community</a></li>
 </ul>
 </li>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/life/">Life in the Halls</a>
