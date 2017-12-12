@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2016-01-29 16:01:45
 ---
-<div style="background-color: #f5cf47;padding: 1em;margin-bottom: 1em">During Thanksgiving, Winter, and Spring Breaks all University housing, with the exception of Eagle Landing, Framar, South, and the UMW Apartments, is <strong>CLOSED</strong>. Any student wishing to remain on campus <strong>MUST <a href="https://orgsync.com/59554/forms/289258">APPLY</a></strong> on MyUMW after reading the information below.</div>
+<div style="background-color: #f5cf47;padding: 1em;margin-bottom: 1em">During Thanksgiving, Winter, and Spring Breaks all University housing, with the exception of Eagle Landing, Framar, South, Madison, and the UMW Apartments, is <strong>CLOSED</strong>. Any student wishing to remain on campus <strong>MUST <a href="https://orgsync.com/59554/forms/289258">APPLY</a></strong> on MyUMW after reading the information below.</div>
 <h2>Important Break Housing Information</h2>
 <ul>
  	<li><strong>All </strong>residents wishing to remain in their housing assignment during a break period <strong>must apply</strong>.</li>
@@ -18,11 +18,11 @@ post_date: 2016-01-29 16:01:45
  	<li><strong>Winter Break:</strong>
 <ul>
  	<li>All students requesting to stay late or return early will be automatically approved for dates that the University is open.</li>
- 	<li>For residents wishing to remain on campus while the University is closed, you will need to apply if you reside in Framar, South, Eagle Landing, or the UMW Apartments, however you will be automatically approved following your application submission.</li>
+ 	<li>For residents wishing to remain on campus while the University is closed, you will need to apply if you reside in Framar, South, Eagle Landing, Madison, or the UMW Apartments, however you will be automatically approved following your application submission.</li>
 </ul>
 </li>
 </ul>
-*NOTE: For Winter Break 2017, the residence halls close at 10am Dec 16.  All students living in buildings other than Eagle Landing, UMW Apartments, South, and Framar will have to leave campus by the deadline on Dec 16.
+*NOTE: For Winter Break 2017, the residence halls close at 10am Dec 16.  All students living in buildings other than Eagle Landing, UMW Apartments, Madison, South, and Framar will have to leave campus by the deadline on Dec 16.
 
 For more information about the application process, meal service, closing dates, and safety tips for during breaks please see the Frequently Asked Questions below.
 <h2>Deadlines</h2>
@@ -35,7 +35,7 @@ Break Housing Applications are due in MyUMW by the last day of classes for the f
 Failure to meet the deadline published above will result in a $25 late fee being added to your student account.
 <h2>Sponsored Break Housing</h2>
 <p class="p1"><span class="s1">Departments or student groups sponsoring students for an academic, extracurricular, or athletic event requiring a stay in University-owned housing during a break should submit a <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/BreakHousingTemplate.xlsx">request for the sponsored students</a>.</span></p>
-<p class="p1"><span class="s1">Please note that the university is closed December 16</span><span class="s3"><sup>th</sup></span><span class="s1"> to January 3</span><span class="s3"><sup>rd</sup></span><span class="s1"> and unless students live in Eagle Landing, UMW Apartments, Framar House or South Hall, they are not able to stay on campus during those dates.</span></p>
+<p class="p1"><span class="s1">Please note that the university is closed December 16</span><span class="s3"><sup>th</sup></span><span class="s1"> to January 3</span><span class="s3"><sup>rd</sup></span><span class="s1"> and unless students live in Eagle Landing, UMW Apartments, Madison, Framar House or South, they are not able to stay on campus during those dates.</span></p>
 <p class="p1"><span class="s1">The <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/BreakHousingTemplate-1.xlsx">excel template should be downloaded</a> and emailed to the Residence Life email at <a href="mailto:reslife@umw.edu"><span class="s4">reslife@umw.edu</span></a> by November 17</span><span class="s3"><sup>th</sup></span><span class="s1"> for Thanksgiving Break, December 8</span><span class="s3"><sup>th</sup></span><span class="s1"> for Winter Break and February 23<span class="s3"><sup>rd</sup></span> for Spring Break. Any questions can also be sent to <a href="mailto:reslife@umw.edu"><span class="s4">reslife@umw.edu</span></a>.</span></p>
 
 <h2>Frequently Asked Questions</h2>
