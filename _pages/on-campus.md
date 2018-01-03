@@ -63,7 +63,6 @@ If you don’t currently live on campus, but want to know what it’s like to li
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/life/first-year-seminar/">FSEMs</a></li>
  	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/ra-selection/">Resident Assistant Selection</a></li>
- 	<li><a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/ra-selection/questions/">RA Selection FAQs</a></li>
 </ul>
 </li>
 </ul>
