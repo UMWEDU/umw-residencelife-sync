@@ -9,7 +9,11 @@ permalink: >
 published: true
 post_date: 2016-01-29 15:54:49
 ---
-<img class="size-large wp-image-394 aligncenter" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Under-Construction1-1024x576.jpg" alt="" width="1024" height="576" />
-<h2 class="mceTemp" style="text-align: center"><span style="color: #ff0000"><strong>This webpage is under construction and will be updated by Jan 10, 2018</strong></span></h2>
 &nbsp;
-<p style="text-align: center"><strong>Housing Applications for 2018-2019 academic year will be available Thursday, February 8, 2018</strong></p>
+<h2>Dates</h2>
+<ul>
+ 	<li>Feb 8: Housing and Dining Agreement application for 2018-2019 becomes <strong>available</strong></li>
+ 	<li>Mar 2: Housing and Dining Agreement application <strong>DUE</strong> for students with approved ODR accommodations</li>
+ 	<li>Mar 14: Housing and Dining Agreement application <strong>DUE</strong> for all students</li>
+</ul>
+<h2 style="text-align: center"><span style="color: #000080">Further Housing Selection instructions and dates will be posted by Feb 1.</span></h2>
