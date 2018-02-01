@@ -69,5 +69,4 @@ Students who have filled out a housing agreement and have not participated in on
 When the date and time on a student's time slot arrives, that student will be able to log into the housing system and search for rooms based on building, floor, and room number.  When the student finds the room they want, they can select it and assign themselves to the space.  If they have a roommate group and are the group leader, they can also then assign the roommates to the other vacancies in the room if there are any.  Please remember to keep your roommate group to the same size as the room you want to select.  It is recommended that the members of a roommate group discuss their time slots and the person with the earliest time slot be made the group leader.
 
 Once a room has been selected and roommates assigned (if applicable) an email will be sent to the student’s UMW email address letting them know they have completed the housing selection process.
-<h2></h2>
-<h2 style="text-align: center"><span style="color: #000080">Further Housing Selection instructions will be posted by Feb 14.</span></h2>
+<h2>Read further on the amazing housing options designed by Dean Dave</h2>
