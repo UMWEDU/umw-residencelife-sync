@@ -25,6 +25,8 @@ Themed Living Communities integrate academics, career preparedness, leadership, 
 </ul>
 <h3>Previous Themed Living Communities included:</h3>
 <ul>
+ 	<li>No Man's Land</li>
+ 	<li>Think Tank</li>
  	<li>Cooking And Gaming for Everyone (C.A.G.E.)</li>
  	<li>Green House (Sustainable Living)</li>
  	<li>International Living Community (I.L.C)</li>
@@ -34,7 +36,5 @@ Themed Living Communities integrate academics, career preparedness, leadership, 
  	<li>UMW Dead Poets Society</li>
 </ul>
 We invite faculty, staff, and students to organize new communities which can be created for students of all majors.  Themed Living Communities are able to apply for housing in any of the upperclass residence halls or apartments (Eagle Landing and UMW Apartments included).  Those participating in Themed Living Communities also receive priority selection, selecting their housing prior to the general UMW population.
-
-Applications are available now on MyUMW.  To apply, visit the <a href="https://orgsync.com/59554/forms/166472">application of MyUMW</a>. Applications are due February 10, 2017 for the 2017-2018 academic year.
 
 Contact Dave Fleming, Assistant Dean of Residence Life and Housing at <a href="mailto:dflemin3@umw.edu">dflemin3@umw.edu</a> if you have questions.
