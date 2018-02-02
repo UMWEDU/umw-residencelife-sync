@@ -30,6 +30,4 @@ post_date: 2016-01-29 15:54:49
  	<li><strong>Homesteading/Same Room Sign Up</strong> – students who currently reside in an upperclass hall have the opportunity to select their same room for the following year, if available. Students will be asked during the application process if they plan to Homestead and will receive confirmation on the availability of their room for this process.  Students whose rooms are not available for Homesteading will be classified as “displaced” and will have their own time to go into the housing portal and select their room.</li>
  	<li><strong>Self Select a Room</strong>- students who are not part of the aforementioned groups will be assigned a room selection time to go into the Housing portal and select a space from all available rooms. If part of a verified roommate group, the group leader will assign all group members during their selection time.</li>
 </ul>
-To learn more about these options, please read further about the processes.
-
-&nbsp;
+To learn more about these options, please read further on the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/details/">Processes web page.</a>
