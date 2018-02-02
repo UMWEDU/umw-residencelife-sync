@@ -1,6 +1,6 @@
 ---
 ID: 69
-post_title: Housing Selection Details
+post_title: Housing Selection Processes
 author: mesch
 post_excerpt: ""
 layout: page
@@ -9,61 +9,60 @@ permalink: >
 published: true
 post_date: 2016-01-29 19:22:02
 ---
-<div class="mceTemp"></div>
+<strong>Flexible Housing</strong>
 
-[caption id="attachment_369" align="alignright" width="243"]<img class="wp-image-369 " src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/Flow-chart-for-web2.jpg" alt="" width="243" height="486" /> Flowchart showing step by step Housing Selection process[/caption]
-<h2><strong>Housing Selection Glossary of Terms</strong></h2>
-<em>Group Leader</em>-One member of each roommate group.  The group leader selects the housing assignment at the designated appointment time for all members of the group.
+Flexible Housing is an option in which any students, regardless of gender, may choose to share the same room, suite, or apartment.  Flexible Housing provides a range of options that respond to students' diverse backgrounds, interests, preferences, and needs with the goal of improving retention and student success.
 
-<em>Housing Assignment</em>-The building and room where a student will live for the 2017-2018 year.  The assignment is selected by the individual or the group leader (for roommate groups) in Symplicity Residence during their housing selection appointment.
+Flexible Housing is a fully opt-in housing option for upper-class students.  A unit (room, suite, apartment) must be filled with students who are willing to live together.  All students must not only opt into Flexible Housing, but they all must approve their roommates.  Students are not placed randomly with other students in Flexible Housing.  No student will be assigned to a gender-neutral living situation without his or her express consent. UMW discourages students who are in a romantic relationship from living together.
 
-<em>Housing Selection Appointment</em>-The time at or after which a student can log into Symplicity Residence to select their housing assignment for the 2017-2018 year.
-
-<em>Housing Selection Process</em>-The time frame during which students may select a housing assignment for the 2017-2018 year.  Pre-Process (March 13-17<sup>th</sup>), and Main Selection Process (March 27<sup>th</sup>).
-
-<em>Roommate Group</em>-The group of students that wish to share a room.  These groups are set up in Symplicity Residence by sharing your roommate code.
-<h2><strong>Housing Selection Appointment Times</strong></h2>
-Students eligible to participate in Housing Selection will receive a Housing Selection appointment time. This is the earliest time a student or group may log into Symplicity Residence to select their housing assignment.  Only the Group Leader is able to select – they will select for the entire group.
-
-Each individual will have a specific individual time slot.  However, if in a group, the group’s best time will be used to select (by the Group’s Leader).  For example:  if Susie has time slot 1:00 pm and Janet has time slot 5:00 pm, the group may select at or after 1:00pm.
-<h2><strong>Pre-Process Selection:</strong></h2>
-<strong>NOTE</strong>: The Housing Application deadline for all Pre-Process Selection participants is February 24<sup>th</sup>. Pre-process participants will not receive a Housing Selection appointment time but rather will be automatically assigned or provided a link to sign up for a time to select during the week of March 13-17<sup>th</sup> depending on the specific Pre-Process.
-
-<strong>Homesteading</strong>: Homesteading allows current undergraduate residential students living in certain designated spaces within upperclass buildings the option to keep their current room assignment for the 2017-2018 Academic Year.
+Students are eligible for Flexible Housing if they:
 <ul>
- 	<li>Jefferson Hall, 3rd and 4th floors, will revert to double occupancy.</li>
- 	<li>If you wish to homestead in Jefferson Hall on the 3rd and 4th floors, we will be in contact with you about your options.</li>
+ 	<li>Are a current residential student applying for housing for the upcoming academic year</li>
+ 	<li>Have submitted a complete Housing and Dining Application for the upcoming academic year and have answered “yes” to the Flexible Housing opt in question.</li>
+ 	<li>Have identified and confirmed enough roommates to fill a full unit (traditional room- 2, suite- 4, apartment- 2, 3 or 4 based on layout)</li>
 </ul>
-In order to participate in this pre-process you must submit the housing application and <a href="https://orgsync.com/59554/forms/66700">homesteading form in myUMW</a> by February 24<sup>th</sup>. Approved students will be assigned during Spring Break.
+All applicants must agree to live with each other and agree to follow all policies/procedures.
+<ul>
+ 	<li>Students participating in Flexible Housing will be manually assigned by the Residence Life &amp; Housing staff after confirming all students’ opt in status, full approval of all roommates, and the ability to fill a unit. Residence Life &amp; Housing staff will work directly with each Flexible Housing group on building preferences and placement.</li>
+ 	<li>Should an opening occur within the Flexible Housing unit, the space will be filled by one of the following methods:
+<ul>
+ 	<li>Students in the unit will have two business days to notify Residence Life &amp; Housing of another roommate to fill the vacancy. This person must either be currently living on campus or eligible for on-campus housing and agree to a Flexible Housing arrangement. All roommates must approve the proposed occupant and vice versa.</li>
+ 	<li>Students within the group may all agree to a roommate who also applied for Flexible Housing, but not yet assigned to a Flexible Housing unit.</li>
+ 	<li>If the students in the group do not select another roommate or agree to have an approved applicant placed to fill the vacancy, the unit will move from Flexible Housing to gender-specific housing. This could result in students being reassigned or moved to different spaces. The Residence Life &amp; Housing staff will work with students to facilitate any necessary moves.</li>
+</ul>
+</li>
+ 	<li>Requests for room changes will be handled in the same manner regardless of the type of housing in which a student resides; however, students will have the option to move within Flexible and single-sex housing, as long as all criteria are met.</li>
+</ul>
+It is the students' choice to tell their parent or guardian about their decision to live in Flexible housing. We encourage students to maintain an open dialogue with their families so that they can be supportive of their housing decision.
 
-<strong>Medical Accommodations</strong>: In order to participate in this pre-process students should read the information available for the <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations/">medical accommodation process</a>, and must submit the request documentation by January 27<sup>th</sup> and their housing agreement by February 24<sup>th</sup>.  Approved students will be notified during Spring Break, and given a link to sign up for a time slot to select their housing assignment during the week of March 13-17<sup>th</sup>.
+<strong>Themed Living Communities</strong>
 
-<strong>Special Interest Housing</strong>: Communities based around a specific interest for residents.
-<p style="padding-left: 30px"><em>Themed Living Community</em>: In order to participate in a Themed Living Community, you must complete the <a href="https://orgsync.com/59554/forms/166472">TLC application in myUMW</a> by February 10, 2017.  Students will automatically be assigned to housing based on the community roster due February 22<sup>nd</sup> during Spring Break.</p>
-<p style="padding-left: 30px"><em>Language Community</em>: <span class="s1">located in  South Hall, creates a multilingual and multicultural international environment in tandem with the International Living Community in Framar and the Department of Modern in Combs Hall. Students residing in the Languages LLC will benefit from living alongside native speakers from China, France, Germany, Italy, Jordan and Spain. Sophomore, junior and senior students who love languages, are currently enrolled in a 202 language course or higher, and would like to experience culture and use their language actively are encouraged to apply.  <a href="https://orgsync.com/127624/forms">Applications are available on MyUMW</a> and are due by February 10, 2017. For more information, contact Dr. Elizabeth Lewis at <a href="mailto:elewis@umw.edu"><span class="s3">elewis@umw.edu</span></a>.</span></p>
-<p style="padding-left: 30px"><em>Gender Neutral Housing:</em>  In order to participate in Gender Neutral Housing students must submit the housing application and the <a href="https://orgsync.com/59554/forms/128691">Gender Inclusive Housing form</a> on MyUMW by February 24<sup>th</sup>. Read more information on the <a href="http://www.umw.edu/residencelife/on-campus/life/tlcs/gender-neutral-housing-community/">Gender Neutral Page</a>.</p>
-<strong>AC Accommodations</strong>: In order to participate in this pre-process students should read the information available for the <a href="http://students.umw.edu/residencelife/airconditionedhousing/">AC accommodations</a>, and must submit their housing application and a <a href="https://orgsync.com/59554/forms/87507">request form in myUMW</a> by February 24<sup>th</sup>.
+Students have the opportunity to create and participate in their own residential learning community called Themed Living Communities (TLC).  By creating a community, students create high impact learning experiences outside the classroom that focus on reflection and small group discussion around a chosen academic, vocational, or extracurricular interest.  More information about TLCs can be found at <a href="http://www.umw.edu/residencelife/on-campus/life/tlcs/">http://www.umw.edu/residencelife/on-campus/life/tlcs/</a>.
 
-Approved students will be notified during Spring Break, and given a link to sign up for a time slot to select their housing assignment during the week of March 13-17<sup>th</sup>.
+To create a community, please complete the <a href="https://orgsync.com/59554/forms/166472">TLC application</a> by February 16.  Applications will be reviewed and notifications will be made by February 21.
 
-<strong>Flexible Housing</strong>: An opt in program in which two or more students mutually agree to share a room/suite/apartment without regard to sex or gender of the students involved. Students wishing to participate in this process must submit their housing application and <a href="https://orgsync.com/59554/forms/241622">the request form in myUMW</a> by February 24<sup>th</sup>.
+New for 2018-2019: Are you worried you don’t have enough interested students to create a Themed Living Community?  Never fear!  We will do the recruiting for you.  Let us know on the TLC application how big you want your community to be (we recommend 12-30 students for optimal effectiveness), and we will invite students to identify their interest in your community on the housing application.
 
-<strong>My Room My UMW contest winners</strong>: The winners of this contest will be contacted during Spring Break, and given a link to sign up for a time slot to select their housing assignment during the week of March 13-17<sup>th</sup>.  Those graduating will be able to gift their slot to a non-graduating student.
-<h2><strong>Main Housing Selection:</strong></h2>
-<strong>Note</strong>:  The housing application is due March 10<sup>th</sup> for individuals wanting to participate in the Main Housing Selection process.
+<strong>Homesteading/Same Room Sign Up – March 19</strong>
 
-On March 27<sup>th</sup>, all students who have not previously selected housing will select at or after the assigned appointment time of their individual or roommate group.
+Current residents living on campus have the option to select their same (current) room for next year by participating in the Homesteading selection process.  This allows for students to go in ahead of the general selection and choose their space, and in some cases, pull in roommates.  There are a small number of spaces that will not be able to part of the Homesteading process.  The students residing in those spaces will receive notification via their UMW email account and will be given a priority time slot to select another space.  Students wishing to sign up for their same room will need to have a completed housing application and will need to indicate their interest for Homesteading on that application.  <em>Students who participate in Sam Room Sign Up who do not pull in a roommate or do not have a roommate who is also participating, will have a vacancy in their room which will be filled</em>.
 
-During the room selection process, all beds must be filled to 100% capacity (only exception: see “Open Rooms”). For example, a group of three students must select a three-person apartment.
+<strong>Homesteading/Same Room Sign Up Roommate Pull In – March 20</strong>
 
-Prior to the process taking place, detailed information will be communicated with housing selection participants on the specific “how-to” instructions to follow in order to electronically select the housing assignment.
+Students are encouraged to speak to their current roommates if they are planning on selecting their same room.  If their roommate is also planning to participate in Same Room Sign Up, then roommates will not be able to be pulled in for next year since the spaces will be filled.  If you are participating and your roommate is not participating you can pull in a roommate during the Roommate Pull In process following the Homesteading process.  Students wishing to do this will need to have created a roommate group or have been made leader of a roommate group.  Anyone who wishes to be pulled into a vacancy will need to have a completed housing application. <strong> </strong>
 
-Learn how to <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/navigating-symplicity/">Navigate Symplicity Residence</a>.
-<h2><strong>Open Rooms:</strong></h2>
-Students are strongly urged to find a roommate for the Housing Selection process.  However, there will be a limited number of Open Rooms available to those students who do not have a group formed to fill an entire room or suite.  These students will only have the choice of choosing a space in one of these Open Rooms.
+<strong>Roommate Groups</strong>
 
-The list of designated Open Rooms will be listed in Symplicity Residence after you log in.  This list will be updated throughout the selection process on Saturday.  As it will change, be sure to review it again prior to selecting if you want to know what spaces are Open Rooms.
+Residents who are participating in the 2018 – 2019 Housing Selection process have the ability to manage their own spaces and assignments.  Students are able to go into the housing system and find a vacancy and assign themselves to that vacancy.  Students can also assign their own roommates to those vacancies if they have formed and verified a roommate group.  Roommate groups can be as small as two participants (a group leader and a resident) and as large as four (a group leader and three others).  Only the group leader is able to assign others to spaces in the system.  <em>Per the Housing Agreement, any student assigned to a space by a group leader is considered to have selected that space and will be obligated to the same terms and conditions as if they selected the space themselves</em>.  All participants of a roommate group must have a completed housing application in order to receive an assignment through this process.  It is important that students check their UMW email and the housing system messages throughout the selection process for information.
 
-*NOTE: these rooms are not "single" rooms; students who choose to select these spaces without a designated roommate, will have another person assigned to the other open space.
-<h4>Resident Assistant Open Room spaces</h4>
-There are some Open Rooms available in Resident Assistant apartments.  Students selecting these spaces will need to agree to the terms of living with an RA and sign the RA Roommate Agreement form after selecting (Residence Life staff will later contact you about signing it).
+Roommate groups should be formed with the desired housing in mind.  You should only have as many members as spaces in the room you would like to select during the housing selection process.
+
+<strong>General Room Selection Process</strong>
+
+Students who have filled out a housing agreement and have not participated in one of the “pre-process” selections (TLC, Flexible Housing, Homesteading, ODR, Displaced) will go through the general selection process to select their room for next year.  At this time they will also be allowed to assign roommates if they have a roommate group.  The general housing selection process is based off of student classification with rising seniors going first, followed by juniors, and then sophomores.  Each student will receive a time slot which will let them know when they can log in to search for and select a room space.  The time slots will be given out in a lottery fashion to make the process as fair as possible.  Time slots will be delivered to student’s UMW email address before Spring Break.
+
+When the date and time on a student's time slot arrives, that student will be able to log into the housing system and search for rooms based on building, floor, and room number.  When the student finds the room they want, they can select it and assign themselves to the space.  If they have a roommate group and are the group leader, they can also then assign the roommates to the other vacancies in the room if there are any.  Please remember to keep your roommate group to the same size as the room you want to select.  It is recommended that the members of a roommate group discuss their time slots and the person with the earliest time slot be made the group leader.
+
+Once a room has been selected and roommates assigned (if applicable) an email will be sent to the student’s UMW email address letting them know they have completed the housing selection process.
+
+&nbsp;
