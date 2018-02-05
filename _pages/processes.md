@@ -5,7 +5,7 @@ author: mesch
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/details/
+  http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/processes/
 published: true
 post_date: 2016-01-29 19:22:02
 ---
