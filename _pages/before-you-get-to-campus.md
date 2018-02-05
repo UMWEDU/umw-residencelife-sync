@@ -33,7 +33,7 @@ Even if you already live on campus, the information about on campus living can b
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/">Housing Selection 2018-2019</a>
 <ul>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/details/">Housing Selection Processes</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/processes/">Housing Selection Processes</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/navigating/">Navigating the Housing Portal</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/rates/">Room &amp; Board Rates</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/spring-2017-housing-information/housing-deposit/">Housing Deposit Information</a></li>
