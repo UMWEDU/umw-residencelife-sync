@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2016-01-29 15:54:49
 ---
-<div style="background-color: #f5cf47;padding: 1em;margin-bottom: 1em">Students applying for 2018-2019 Housing will use the new portal found on the new <a href="https://umw.starrezhousing.com/starrezportal">Housing Portal</a>. Students looking for 2017-2018 information, should continue using <a href="https://umw-residence.symplicity.com/index.php/pid522107?">Symplicity Residence</a>.</div>
+<div style="background-color: #f5cf47;padding: 1em;margin-bottom: 1em">Students applying for 2018-2019 Housing will use the application found on the new <a href="https://umw.starrezhousing.com/starrezportal">Housing Portal</a>. Students looking for 2017-2018 information, should continue using <a href="https://umw-residence.symplicity.com/index.php/pid522107?">Symplicity Residence</a>.</div>
 <h2>Timeline</h2>
 <ul>
  	<li>Jan 21: Themed Living Communities (TLC) application open</li>
