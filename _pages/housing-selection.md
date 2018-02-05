@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2016-01-29 15:54:49
 ---
-&nbsp;
 <h2>Timeline</h2>
 <ul>
  	<li>Jan 21: Themed Living Communities (TLC) application open</li>
