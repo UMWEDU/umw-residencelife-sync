@@ -2,14 +2,12 @@
 ID: 258
 post_title: Summer 2016
 author: mesch
-post_date: 2016-04-07 14:45:16
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/summer-2016-housing-agreement-terms/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-04-07 14:45:16
 ---
 <h2 class="p1"><span class="s1">Summer Housing Agreement Terms</span></h2>
 <p class="p2"><span class="s1">(1)  Submitting an online <a href="https://orgsync.com/59554/forms/185061"><span class="s2">application form</span></a> is essential to notify the Office of Residence Life of your request for housing. The application must be submitted electronically no later than April 3, 2016, to participate in the first round of approval and housing assignments. Students will be notified by April 13 of their housing assignments. All applications received after April 3 will be approved and assigned on a rolling basis.</span></p>
