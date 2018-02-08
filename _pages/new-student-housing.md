@@ -2,16 +2,12 @@
 ID: 55
 post_title: New Student Housing
 author: mesch
-post_date: 2016-01-28 16:58:21
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
-yst_prominent_words_version:
-  - "1"
+post_date: 2016-01-28 16:58:21
 ---
 The University of Mary Washington believes that living on campus is an integral part of a student’s complete educational experience; therefore, all full-time students who are admitted as residential students in their first year are <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/on-campus-living-requirement/">required to live on campus</a> for two full academic years. Transfer students admitted in the fall as residential students are required to live on campus for two semesters, and transfer students admitted in the spring as residential students are required to live on campus for one semester.
 
@@ -32,7 +28,7 @@ Some circumstances will necessitate an assignment outside of the Living Learning
 <ul>
  	<li>students approved for housing accommodations (efforts will be made to provide approved accommodations within the LLC when possible)</li>
  	<li>students with requests for roommates not in the same FSEM</li>
- 	<li>students desiring gender-neutral housing</li>
+ 	<li>students desiring LGBTQ/gender-inclusive housing</li>
  	<li>female students desiring an all-female residence hall</li>
 </ul>
 <h2>Transfer Students Housing Information</h2>
