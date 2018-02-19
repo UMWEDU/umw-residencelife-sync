@@ -12,7 +12,7 @@ post_date: 2016-01-29 16:01:45
 <div style="background-color: #f5cf47;padding: 1em;margin-bottom: 1em">During Thanksgiving, Winter, and Spring Breaks all University housing, with the exception of Eagle Landing, Framar, South, Madison, and the UMW Apartments, is <strong>CLOSED</strong>. Any student wishing to remain on campus <strong>MUST REGISTER</strong> <strong><span style="color: #ff0000"><a style="color: #ff0000" href="https://orgsync.com/59554/forms/289258">here</a></span></strong> on MyUMW, or register with an RA, after reading the information below.</div>
 <h2>Important Break Housing Information</h2>
 <ul>
- 	<li><strong>All </strong>residents wishing to remain in their housing assignment during a break period <strong>must register</strong>.</li>
+ 	<li><strong>All </strong>residents wishing to remain in their housing assignment during a break period <strong>must register <a href="https://orgsync.com/59554/forms/289258">here</a> </strong>on MyUMW, or register with an RA.</li>
  	<li>Only those submitting a request will have card access to their residence halls.</li>
  	<li><strong>Winter Break:</strong>
 <ul>
