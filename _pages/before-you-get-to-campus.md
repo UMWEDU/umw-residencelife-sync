@@ -49,14 +49,13 @@ Even if you already live on campus, the information about on campus living can b
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/">Housing &amp; Dining Services Agreement</a>
 <ul>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2015-2016/">2015-2016</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2016-2017/">2016-2017</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2017-2018/">2017-2018</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2018-2019/">2018-2019</a></li>
 </ul>
 </li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/air-conditioned/">AC Housing Accommodations</a></li>
  	<li><a href="http://www.umw.edu/residencelife/residence-halls/">Residence Hall Information</a></li>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/configuring-your-bed/">Bed Configurations</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/internet-in-the-halls/">Internet in the Halls</a></li>
 </ul>
 </div>
