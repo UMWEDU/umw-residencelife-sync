@@ -48,7 +48,7 @@ Note: Transfer students with fewer than 30 credits wishing to participate in the
  	<li>Review <a href="http://www.umwdining.com">dining information</a>.</li>
  	<li>Get acquainted with the first year <a href="http://www.umw.edu/residencelife/residence-halls/">residence halls</a>.</li>
  	<li>Review the 2017-2018 <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2017-2018/">Housing and Dining Services Agreement Terms and Conditions</a>.</li>
- 	<li>Complete your Housing and Dining Services Agreement application in <a href="https://umw-residence.symplicity.com/index.php/pid780639?">Symplicity Residence</a>.  Instruction on how to submit your housing application can be found at <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/navigating-symplicity/">Navigating Symplicity</a>.</li>
+ 	<li>Complete your Housing and Dining Services Agreement application <a href="https://umw.starrezhousing.com/starrezportal">in the housing portal</a>.</li>
 </ol>
 <h2>Housing Assignment Communication</h2>
 <strong>First year students</strong> will initially know the building, but not the exact room number, to which they are assigned based on the FSEM they select. Students will be emailed their room number, roommate information, etc. at the end of May.  Students submitting housing applications after this date will be assigned housing on a rolling basis.  <em><strong>Note that Residence Life staff will email notices only to UMW accounts.</strong></em>
