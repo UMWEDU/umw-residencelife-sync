@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2016-01-27 19:48:54
 ---
-The Housing and Dining Services Agreement is a legally binding lease between the student and the university. The agreement becomes official five days after electronic submission of the Housing Application via Symplicity Residence.
+The Housing and Dining Services Agreement is a legally binding lease between the student and the university. The agreement becomes official five days after electronic submission of the Housing Application via the Housing Portal.
 <h2>Application Submission Instructions</h2>
 For instructions for submitting your housing application in the Housing Portal, please refer to <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/navigating/">navigating the Housing Portal</a>.
 <h3>Terms and Conditions</h3>
