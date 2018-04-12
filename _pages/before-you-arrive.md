@@ -56,4 +56,4 @@ Most home good stores provide a fairly comprehensive list of items needed for co
 
 <strong>NOTE</strong>:  The University of Mary Washington does not provide storage for luggage, boxes, or the UMW provided furniture listed above.  Everything you bring must fit in your room.
 
-<strong>NOTE</strong>:  Label all boxes with last name, first initial, building, room number.  Forgot your building and room? Check <a href="https://umw-residence.symplicity.com/index.php/pid789120?">Symplicity Residence</a>
+<strong>NOTE</strong>:  Label all boxes with last name, first initial, building, room number.  Forgot your building and room? Check <a href="https://umw.starrezhousing.com/starrezportal">the Housing Portal</a>.
