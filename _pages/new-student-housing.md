@@ -38,7 +38,7 @@ Note: Transfer students with fewer than 30 credits wishing to participate in the
 <h3>Steps to Secure Housing</h3>
 <ol>
  	<li>Accept your offer of admission by submitting your $500 enrollment deposit.</li>
- 	<li>If you will need a housing accommodation, submit your request to the <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations">Office of Disability Resources</a> by April 28, 2017.</li>
+ 	<li>If you will need a housing accommodation, submit your request to the <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations">Office of Disability Resources</a> by April 27, 2018.</li>
  	<li>If you require air conditioning as part of a treatment plan for a serious medical condition, you can learn more about the request process on the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/air-conditioned/">Air-Conditioned Housing Accommodations</a> page.</li>
  	<li>Complete the <a href="http://academics.umw.edu/fsem">First Year Student Questionnaire</a>, which includes your five FSEM course preferences.
 <ol>
@@ -47,7 +47,7 @@ Note: Transfer students with fewer than 30 credits wishing to participate in the
 </li>
  	<li>Review <a href="http://www.umwdining.com">dining information</a>.</li>
  	<li>Get acquainted with the first year <a href="http://www.umw.edu/residencelife/residence-halls/">residence halls</a>.</li>
- 	<li>Review the 2017-2018 <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2017-2018/">Housing and Dining Services Agreement Terms and Conditions</a>.</li>
+ 	<li>Review the 2018-2019 <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2017-2018/">Housing and Dining Services Agreement Terms and Conditions</a>.</li>
  	<li>Complete your Housing and Dining Services Agreement application <a href="https://umw.starrezhousing.com/starrezportal">in the housing portal</a>.</li>
 </ol>
 <h2>Housing Assignment Communication</h2>
