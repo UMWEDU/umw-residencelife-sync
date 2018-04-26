@@ -22,7 +22,7 @@ Students may not store items in a housing assignment while not present or in bet
 
 Extended stay is outside of the contracted meal plan period. Campus meal service on a pay-per-use basis may or may not be available as the campus dining options are not always open throughout the extended stay period.
 <h2>May Extended Stay Application <em>(for student submission)</em></h2>
-The application for Extended Stay will open Monday, April 16. The <a href="https://umw.starrezhousing.com/starrezportal">May 2018 Extended Stay Application</a> must be submitted electronically no later than Friday, April 27.
+The application for Extended Stay will open Monday, April 16. The <a href="https://umw.starrezhousing.com/starrezportal">May 2018 Extended Stay Application</a> must be submitted electronically no later than the last day of classes.
 <h2>Sponsored students <em>(for UMW department sponsorship submission)</em></h2>
 Students needing to stay in on-campus housing after the residence hall closing date for official UMW business may be requested by a UMW department or office.  Examples of students who may be sponsored by a UMW department with legitimate reasons include the following:
 <ul>
