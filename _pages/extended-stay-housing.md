@@ -30,4 +30,4 @@ Students needing to stay in on-campus housing after the residence hall closing d
  	<li>Students working Commencement ceremony (graduation usher, etc.)</li>
  	<li>Students attending a scheduled Honor Council / Judicial Review Board hearing</li>
 </ul>
-Previously identified sponsors will be contacted with specific instructions for submission via email.  If you have not previously sponsored a group for extended stay, contact <a href="mailto:bharper@umw.edu">Brittany Harper</a> no later than Friday, April 27.
+<span class="s1">The <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/BreakHousingTemplate-1.xlsx">excel template should be downloaded</a> and emailed to the Residence Life email at <a href="mailto:reslife@umw.edu"><span class="s4">reslife@umw.edu</span></a> by last day of classes</span><span class="s1">. Any questions can be sent to <a href="mailto:reslife@umw.edu"><span class="s4">reslife@umw.edu</span></a>.</span>
