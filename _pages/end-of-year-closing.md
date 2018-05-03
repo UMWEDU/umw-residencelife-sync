@@ -43,7 +43,7 @@ There are no on-campus storage options.  All residences are used over the summe
 <ul>
  	<li>Carefully remove all tape, stickers, adhesive tape, etc. from walls, doors, ceilings, mirrors, and windows.</li>
  	<li>Clean off writing on doors, walls, desks, dressers, or chairs. Wash all furniture surfaces – chairs, desks, dressers, window sills etc. There should be no stains, black smudges, tape, or sticky spots left.</li>
- 	<li>Place all furniture in the room, in its original place and condition. Bunked or lofted beds may remain (Facilities staff will later attend to them).</li>
+ 	<li>Place all furniture in the room, in its original place and condition. All lofted beds must be returned to the <a href="http://www.umw.edu/residencelife/on-campus/housing-procedures/configuring-your-bed/">original "tall" setting</a> and all loft materials must be returned to an RA. There is a $125 fee for beds left in a lofted state.</li>
  	<li>Bring all of your trash and recycling to the appropriate containers outside the building.  Do not sweep garbage into the hallway. Each resident will be billed for garbage/recycling or items left in the hallway, bathroom, or other common spaces.</li>
  	<li>Remove ALL personal belongings.</li>
  	<li>Sweep and mop entire room floor, if not carpeted. No dust bunnies or dirt should be left behind or under furniture.</li>
