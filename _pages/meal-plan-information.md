@@ -10,7 +10,7 @@ published: true
 post_date: 2016-01-29 16:27:31
 ---
 <h3>Available Meal Plans</h3>
-View detailed information on the <a href="https://umw.sodexomyway.com/dining-plans/index.html">available meal plans</a>.
+View detailed information on the <a href="https://umw.sodexomyway.com/my-meal-plan">available meal plans</a>.
 <h3>Off-Campus Students</h3>
 Commuter students may select a meal plan by submitting a Off-Campus Meal Plan Agreement application.  To select a meal plan log in and access the application through <a href="https://umw.starrezhousing.com/StarRezPortal/F8B0E82A/1/1/Home-Home">the Housing Portal</a>.  If the application is not available after logging in, email <a href="mailto:cjporter@umw.edu">cjporter@umw.edu</a> to request access.
 <h3>Residential Students</h3>
