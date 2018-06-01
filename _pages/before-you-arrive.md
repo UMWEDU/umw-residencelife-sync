@@ -14,10 +14,10 @@ post_date: 2016-06-16 11:25:33
  	<li>Pick up your EagleOne Card during Orientation. This is your student ID card and you will need it to check into your Residence Hall.</li>
  	<li>Read <a href="http://publications.umw.edu/eagleessentials/">Eagle Essentials</a></li>
  	<li>Read the residential policies in the <a href="http://publications.umw.edu/student-handbook/">student handbook</a></li>
- 	<li>Contact your roommates to get to know each other and to discuss what items you will share and who is bringing what.</li>
+ 	<li>Contact your roommate(s) to get to know each other and to discuss what items you will share and who is bringing what. You may contact them through our <a href="https://umw.starrezhousing.com/starrezportal">housing portal</a>.</li>
  	<li>Review the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/prohibited-in-residence-halls/">prohibited items</a> list. Be sure to leave these items at home.</li>
  	<li>Pack S.M.A.R.T.! Use the tips in our acronym and packing list found on our website to bring the right amount of belongings.</li>
- 	<li>Review your family insurance policy or purchase a renter's insurance policy to protect your belongings while on campus.</li>
+ 	<li>Review your family insurance policy or purchase a renter's insurance policy to protect your belongings while on campus. The university is not responsible for personal property damage.</li>
 </ul>
 <h3>Get to know your roommate:</h3>
 While social media is convenient for quick introductions and sharing information we encourage you and your roommate to have a phone conversation or when possible a face-to-face meeting to learn about each other before move-in.  Be mindful that some students are traveling for the summer or may not be accessible via certain communication methods.  Be patient and don’t assume the worst.
