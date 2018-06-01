@@ -17,17 +17,17 @@ Please click on the link for your assigned building for a detailed instruction s
 Can’t arrive during your move-in time?  No worries!  We will welcome you when you arrive.
 <h2><strong>Residence Hall Move-in Instructions</strong></h2>
 <ul>
- 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/AlveArri-webpage.pdf"><em>Alvey/Arrington</em></a></li>
- 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/BallCustMadi-upperclass-webpage.pdf"><em>Ball/Custis/Madison (upperclass)</em></a></li>
- 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/CustMadiVirg-first-year-webpage.pdf">Custis/Madison/Virginia (first year)</a></li>
- 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/BushJeff-webpage.pdf"><em>Bushnell/Jefferson</em></a></li>
- 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/LinkRandMaso-webpage.pdf"><em>Link/Randolph/Mason</em></a></li>
- 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/West-webpage.pdf"><em>Westmoreland</em></a></li>
- 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/ELEV-webpage.pdf"><em>Eagle Landing</em></a></li>
- 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/FramarSouth-webpage.pdf"><em>Framar/South</em></a></li>
- 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/Mars-webpage.pdf"><em>Marshall</em></a></li>
- 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/Russ-webpage.pdf"><em>Russell</em></a></li>
- 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/UMAPT-webpage.pdf"><em>UMW Apartments</em></a></li>
+ 	<li>Alvey/Arrington</li>
+ 	<li>Ball/Custis/Madison (upperclass)</li>
+ 	<li>Custis/Madison/Virginia (first year)</li>
+ 	<li>Bushnell/Jefferson</li>
+ 	<li>Link/Randolph/Mason</li>
+ 	<li>Westmoreland</li>
+ 	<li>Eagle Landing</li>
+ 	<li>Framar/South</li>
+ 	<li>Marshall</li>
+ 	<li>Russell</li>
+ 	<li>UMW Apartments</li>
 </ul>
 Please also download the <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/New-map-of-campus.pdf">Move-in Day map</a>, paying special attention to the yellow (unloading zones) and bright red (long term parking).
 <h4>Important advice regarding Move-In:</h4>
