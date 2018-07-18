@@ -17,7 +17,6 @@ Please click on the link for your assigned building for a detailed instruction s
 Can’t arrive during your move-in time?  No worries!  We will welcome you when you arrive.
 <h2><strong>Residence Hall Move-in Instructions</strong></h2>
 <ul>
- 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2018/06/AlveArri-webpage.pdf">Alvey/Arrington</a></li>
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2018/06/BallCustMadi-upperclass-webpage.pdf">Ball/Custis/Madison (upperclass)</a></li>
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2018/06/CustMadiVirg-first-year-webpage.pdf">Custis/Madison/Virginia (first year)</a></li>
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2018/06/BushJeff-webpage.pdf">Bushnell/Jefferson</a></li>
@@ -42,6 +41,10 @@ UMW Residence Life and Housing has done its best to provide you with all informa
  	<li>Eagle Landing Front Desk (Building 18 on the campus map)</li>
 </ul>
 Or, if you prefer you can use social media including Facebook and Twitter between 8:00 a.m. and 5:00 p.m. to get your questions answered using <strong>#UMWMovein2018</strong>
+<h2>Meals</h2>
+Meals will be provided for all first-year students beginning Move-In day, August 22. For all first-year students arriving early for NEST, Orientation, etc., all meals have been arranged from the day you arrive and will continue until the meal plan begins.
+
+For those who are upperclassmen arriving early due to Sponsored Early Arrival, you will need to contact your Sponsor to see if they have arranged for meals. All other upperclassmen, meals will begin with dinner on Move-In Day (Saturday).
 
 &nbsp;
 
