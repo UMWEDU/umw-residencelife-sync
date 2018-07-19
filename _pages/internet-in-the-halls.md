@@ -36,4 +36,4 @@ The Apogee wireless network is available in residence halls and in the academic 
 </ul>
 PLEASE DO NOT BRING A WIRELESS ACCESS POINT TO CAMPUS.  Independent wireless access points cause wireless problems and interference for other users in the residence halls.  They are not permitted, so please leave them at home.
 <h2>Printers</h2>
-Apogee recommends connecting your printer to your computer via USB, and not WiFi due to connectivity issues that users have experienced in the past. For instructions on how to connect your printer via USB, <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/internet-in-the-halls/printer_setup/">please read this flier from Apogee</a>.
+Apogee recommends connecting your printer to your computer via USB, and not WiFi due to connectivity issues that users have experienced in the past. For instructions on how to connect your printer via USB, <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/internet-in-the-halls/printer_setup/" rel="attachment wp-att-584">please read this flier from Apogee.</a>.
