@@ -45,7 +45,3 @@ The Resident Assistant (RA) is an experienced UMW student who serves as a member
 Resident Assistants serve many roles including: educator, community builder, role model, resource and administrator. They are responsible for fostering student learning and growth, building an inclusive community, forming personal relationships and encouraging residents and staff members to be accountable for their choices and actions. RAs utilize a variety of methods to focus and align their efforts to the over-arching educational priority that students will use critical thinking to make sound decisions. The RA position is a paraprofessional position within the Residence Life and Housing. The RA will have a direct supervisor and will receive indirect supervision from other professional staff within the department. The RA’s main purpose is to develop and maintain an engaging, supportive environment which encourages the pursuit of excellence in support of the mission and vision of the University.
 
 The RA Selection process typically begins in November of each calendar year and decisions are made in early February for the following academic year’s staff.
-
-<strong>Applications for RA Selection for 2017-2018 are currently closed.</strong>
-
-Read more about the <a href="http://www.umw.edu/residencelife/on-campus/life/get-involved/ra-selection/">2017-2018 RA selection process</a>.
