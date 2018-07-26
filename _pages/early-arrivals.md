@@ -30,7 +30,7 @@ To complete the spreadsheet, each sponsor will need to know the information belo
  	<li>Sponsor’s name, e-mail address, office phone number, and emergency contact phone number</li>
 </ul>
 <h3>Individual Requests (Upperclassmen only)</h3>
-Those upperclassmen without a University sponsor may request to arrive early (no earlier than August 23) by submitting an Individual Early Arrival Request Form via the Housing portal no later than Sunday, August 19<sup>th</sup> at 11:50 p.m.; there is a $30 per day fee for those approved, and without the dining plan in effect, any meals must be purchased by the student as needed. Fall meal plans start with dinner on Saturday, August 25<sup>th</sup>, 2018. Approval will be made based on the readiness of the residence halls to receive students.
+Those upperclassmen without a University sponsor may request to arrive early (no earlier than August 23) by submitting an <a href="https://umw.starrezhousing.com/starrezportal">Individual Early Arrival Request Form</a> via the Housing portal no later than Sunday, August 19<sup>th</sup> at 11:50 p.m.; there is a $30 per day fee for those approved, and without the dining plan in effect, any meals must be purchased by the student as needed. Fall meal plans start with dinner on Saturday, August 25<sup>th</sup>, 2018. Approval will be made based on the readiness of the residence halls to receive students.
 
 <b><i>Please note: approval of sponsored Early Arrivals is not guaranteed.</i></b>
 
