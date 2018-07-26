@@ -10,7 +10,7 @@ published: true
 post_date: 2016-01-29 20:19:51
 ---
 <h2>Fall Semester Early Arrivals</h2>
-Students wishing to come to campus early in August will need to obtain approval through the Early Arrival process. Due to the changes on campus, we will do our best to have Early Arrivals move into their Fall assignments, however students may be housed in temporary locations based on the readiness of the residence halls.
+Students wishing to come to campus early in August will need to obtain approval through the Early Arrival process. <em>Due to the changes on campus, we will do our best to have Early Arrivals move into their Fall assignments, however students may be housed in temporary locations based on the readiness of the residence halls.</em>
 
 Early Arrival Options:
 <ul>
