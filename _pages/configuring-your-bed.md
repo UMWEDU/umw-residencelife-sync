@@ -17,7 +17,7 @@ If a resident wishes to change their bed configuration, they must contact their 
 <h3>Exceptions</h3>
 <ul>
  	<li>Beds in the following buildings cannot be Bunked: Jefferson, Willard, and UMW Apartments</li>
- 	<li>Beds in the following buildings  cannot be Lofted: Russell and UMW Apartments</li>
+ 	<li>Beds in the following buildings cannot be Lofted: Russell and UMW Apartments</li>
 </ul>
 <h3>Definition of Terms</h3>
 <div class="one-half first">
@@ -38,3 +38,7 @@ When one bed’s boards are doubled and secured with bed pins (and a security ba
 [caption id="attachment_392" align="alignnone" width="1024"]<img class="size-large wp-image-392" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/IMG_0103-1024x768.jpg" alt="" width="1024" height="768" /> Bed set at "tall" setting[/caption]
 <h4 style="clear: both">Bed Adjustments:</h4>
 Resident Assistants have rubber mallets and can show students the proper way to adjust bed heights.  The beds can be adjusted anywhere from 21" to 30" off the ground. The bed in the photo is at the "tall" setting, the standard height across campus when students move in.
+<h2>Additional materials</h2>
+YouTube video for setting up your loft or bunk bed: <a href="https://youtu.be/QdMFePm1Rvc">https://youtu.be/QdMFePm1Rvc</a>
+
+Form to request materials to loft or bunk the bed: [gravityform id="10" title="false" description="false"]
