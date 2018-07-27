@@ -41,4 +41,4 @@ Resident Assistants have rubber mallets and can show students the proper way t
 <h2>Additional materials</h2>
 YouTube video for setting up your loft or bunk bed: <a href="https://youtu.be/QdMFePm1Rvc">https://youtu.be/QdMFePm1Rvc</a>
 
-Form to request materials to loft or bunk the bed located below. Please note: Early Arrivals (any arrival prior to Aug 22) should submit their request prior to Aug 12 to ensure the materials are in their rooms before arrival. If a student arrives early and has not requested materials, they will need to wait until Aug 22, or until an RA becomes available to help them. [gravityform id="10" title="false" description="false"]
+Form to request materials to loft or bunk the bed located below. Please note: Early Arrivals (any arrival prior to Aug 22) should submit their request prior to Aug 12 to ensure the materials are in their rooms before arrival. If a student arrives early and has submitted the form, the student will need to wait until Aug 22, or until an RA becomes available to assist them in retrieving the materials. [gravityform id="10" title="true" description="false"]
