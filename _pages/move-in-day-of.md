@@ -20,11 +20,13 @@ Can’t arrive during your move-in time?  No worries!  We will welcome you whe
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2018/06/BallCustMadi-upperclass-webpage.pdf">Ball/Custis/Madison (upperclass)</a></li>
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2018/06/CustMadiVirg-first-year-webpage.pdf">Custis/Madison/Virginia (first year)</a></li>
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2018/06/BushJeff-webpage.pdf">Bushnell/Jefferson</a></li>
- 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2018/06/LinkRandMaso-webpage.pdf">Link/Randolph/Mason</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2018/06/LinkRandMaso-webpage.pdf">Randolph/Mason</a></li>
+ 	<li>Link</li>
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2018/06/West-webpage.pdf">Westmoreland</a></li>
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2018/06/ELEV-webpage.pdf">Eagle Landing</a></li>
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2018/06/FramarSouth-webpage.pdf">Framar/South</a></li>
- 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2018/06/Mars-webpage.pdf">Marshall</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2018/06/Mars-webpage.pdf">Marshall (first year)</a></li>
+ 	<li>Marshall (upperclass)</li>
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2018/06/Russ-webpage.pdf">Russell</a></li>
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2018/06/UMAPT-webpage.pdf">UMW Apartments</a></li>
 </ul>
