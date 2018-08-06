@@ -14,6 +14,6 @@ If a key to a residence hall room or apartment has been lost/misplaced or stolen
 
 <strong>Note</strong>:  Students should not complete a facilities work order request for a lost or stolen key.
 <h2>Broken Lock</h2>
-If the lock on a residence hall or apartment room door is not working <a href="https://banner.umw.edu/ssomanager/c/SSB?pkg=umw_work_order.p_create_work_order">submit a work order</a> to have it repaired.
+If the lock on a residence hall or apartment room door is not working <a href="https://www.myschoolbuilding.com/myschoolbuilding/myrequest.asp">submit a work order</a> to have it repaired.
 <h2>Unreturned key/lock change/replacement charges</h2>
 $125 for all residential spaces.
