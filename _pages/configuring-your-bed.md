@@ -5,7 +5,7 @@ author: mesch
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/residencelife/on-campus/housing-procedures/configuring-your-bed/
+  http://www.umw.edu/residencelife/on-campus/housing-procedures/configuring-your-bed/
 published: true
 post_date: 2016-01-27 19:20:44
 ---
