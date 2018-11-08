@@ -23,9 +23,9 @@ Housing and Dining Services Agreement application available (due Dec. 3rd for pr
 Application for housing accommodation due to the <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations/">Office of Disability Resources</a> for more information.
 <h3>Friday, December 7</h3>
 Housing assignments will be made for anyone submitting their application by the priority deadline. Assignments received later will be made on a rolling basis.
-<h3>Thursday, January 10, 9 a.m. to 4:30 p.m.</h3>
+<h3>Wednesday, January 9, 9 a.m. to 4:30 p.m.</h3>
 <em>New students</em> move in. Residents will pick up their key at the Eagle Landing desk.
-<h3>Friday, January 11</h3>
+<h3>Thursday, January 10</h3>
 <em>New Student Orientation</em>: Please see the <a href="http://orientation.umw.edu/">Orientation website</a> for more information about the Orientation program and schedule.
 <h3>Sunday, January 13, 9 a.m. to 5 p.m.</h3>
 <em>Returning/continuing students</em> move in. Residents assigned to new room spaces pick up keys at the Eagle Landing desk.
