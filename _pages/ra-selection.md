@@ -44,7 +44,7 @@ Group Process interviews are essentially an experiential interview. As long as a
 
 Group Process interviews will take place from 6:00-8:00pm on February 19 and February 20 in the UC Ballroom. You will only need to participate in one.
 <h3>Applicants studying abroad in Spring 2019</h3>
-In the event that you will not be physically present on campus during the interview dates, alternate arrangements (including the possibility of an interview by Skype) will be made available. Please notify Myranda Thomson, Area Coordinator, to set up this opportunity.
+In the event that you will not be physically present on campus during the interview dates, alternate arrangements (including the possibility of an interview by Skype) will be made available. Please notify John Hughey or Stephanie Martin, Area Coordinators, to set up this opportunity.
 <h3>Alternate Pool</h3>
 The Alternate Pool is for those candidates for the Resident Assistant position who are qualified and have the skills to be a Resident Assistant, but we unfortunately do not have a position available at the time. If there should be a Resident Assistant position vacancy, professional staff from the Office of Residence Life and Housing will review and select candidates from the Alternate Pool. Candidates in the Alternate Pool will be notified via phone and e-mail if they are offered a position.
 
