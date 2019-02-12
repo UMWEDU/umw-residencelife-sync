@@ -54,9 +54,13 @@ Click on “On-Campus Housing and Dining Application” in the menu bar and then
 <h3>Creating a Roommate Group</h3>
 In order to form a roommate group, a student will need to log into the Housing Portal and navigate to the Roommate Group Page. On that page the person who creates the group will automatically be set as the group leader.
 
+[caption id="attachment_658" align="aligncenter" width="645"]<a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/02/Searching-for-a-Roommate.png"><img class="wp-image-658 size-full" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/02/Searching-for-a-Roommate.png" alt="In order to form a roommate group, a student will need to log into the Housing System and navigate to the Roommate Group Page" width="645" height="535" /></a> Housing Portal page about searching for and joining a roommate group[/caption]
+
 You can change the leader at any time after the group is formed. Each roommate group will have their own unique name. This name is how potential members will find and join an open group.
 
 Once the leader has set a name and password for the group, they can search for potential members in the system and send out invites, or they can add members to their group directly.
+
+[caption id="attachment_656" align="aligncenter" width="647"]<a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/02/Roommate-Search-by-Details.jpg"><img class="wp-image-656 size-full" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/02/Roommate-Search-by-Details.jpg" alt="Once the leader has set a name and password for the group they can also search for potential members in the system and send out invites, or they can add members to their group directly.  " width="647" height="506" /></a> How to search for a roommate[/caption]
 
 Each person will need to log into the Housing Portal, search for the roommate group by name, and log in with the password the leader set when they created the group. Once in the group, each member will need to verify their participation by clicking on the verify button.
 
