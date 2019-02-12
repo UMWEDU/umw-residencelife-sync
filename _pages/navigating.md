@@ -58,6 +58,8 @@ In order to form a roommate group, a student will need to log into the Housing P
 
 You can change the leader at any time after the group is formed. Each roommate group will have their own unique name. This name is how potential members will find and join an open group.
 
+[caption id="attachment_657" align="aligncenter" width="645"]<a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/02/Roommate-Group-Join.jpg"><img id="longdesc-return-657" class="size-full wp-image-657" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/02/Roommate-Group-Join.jpg" alt="" width="645" height="497" longdesc="http://www.umw.edu/residencelife?longdesc=657&amp;referrer=68" /></a>  Finding and joining a roommate group[/caption]
+
 Once the leader has set a name and password for the group, they can search for potential members in the system and send out invites, or they can add members to their group directly.
 
 [caption id="attachment_656" align="aligncenter" width="647"]<a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/02/Roommate-Search-by-Details.jpg"><img class="wp-image-656 size-full" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/02/Roommate-Search-by-Details.jpg" alt="Once the leader has set a name and password for the group they can also search for potential members in the system and send out invites, or they can add members to their group directly. " width="647" height="506" /></a> How to search for a roommate[/caption]
