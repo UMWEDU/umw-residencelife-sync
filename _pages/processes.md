@@ -9,6 +9,12 @@ permalink: >
 published: true
 post_date: 2016-01-29 19:22:02
 ---
+<h3><strong>Themed Living Communities</strong></h3>
+Students have the opportunity to create and participate in their own residential learning community called Themed Living Communities (TLC). By creating a community, students create high impact learning experiences outside the classroom that focus on reflection and small group discussion around a chosen academic, vocational, or extracurricular interest. More information about TLCs can be found at <u><a href="http://www.umw.edu/residencelife/on-campus/life/tlcs/">http://www.umw.edu/residencelife/on-campus/life/tlcs/</a></u>.
+
+To create a community, please complete the <u><a href="https://orgsync.com/59554/forms/166472">TLC application</a></u> by February 14. Applications will be reviewed and notifications will be made by February 15.
+
+All approved Themed Living Communities will be added to the Housing Application, allowing students to express interest in joining a community. Our goal is to maximize a students’ ability to participate in one of these high-impact practices. Themed Living Community leaders will be expected to welcome interested students into their community, based upon availability.
 <h3><strong>ODR Approved Accommodations</strong></h3>
 Students who have approved housing accommodations through the Office of Disability Services that limit the options on campus to fulfill the accommodation will have an opportunity to select their room or be manually assigned by Residence Life and Housing prior to general Selection. All students should expect to self-select their room within the Housing Portal unless otherwise directed by Residence Life and Housing.
 
@@ -39,12 +45,6 @@ All applicants must agree to live with each other and agree to follow all polici
  	<li>Requests for room changes will be handled in the same manner regardless of the type of housing in which a student resides; however, students will have the option to move within Flexible and single-sex housing, as long as all criteria are met.</li>
 </ul>
 It is the students' choice to tell their parent or guardian about their decision to live in Flexible housing. We encourage students to maintain an open dialogue with their families so that they can be supportive of their housing decision.
-<h3><strong>Themed Living Communities</strong></h3>
-Students have the opportunity to create and participate in their own residential learning community called Themed Living Communities (TLC). By creating a community, students create high impact learning experiences outside the classroom that focus on reflection and small group discussion around a chosen academic, vocational, or extracurricular interest. More information about TLCs can be found at <u><a href="http://www.umw.edu/residencelife/on-campus/life/tlcs/">http://www.umw.edu/residencelife/on-campus/life/tlcs/</a></u>.
-
-To create a community, please complete the <u><a href="https://orgsync.com/59554/forms/166472">TLC application</a></u> by February 14. Applications will be reviewed and notifications will be made by February 15.
-
-All approved Themed Living Communities will be added to the Housing Application, allowing students to express interest in joining a community. Our goal is to maximize a students’ ability to participate in one of these high-impact practices. Themed Living Community leaders will be expected to welcome interested students into their community, based upon availability.
 <h3><strong>Same Room Sign-Up – March 21</strong></h3>
 Current residents living on campus have the option to select their same (current) room for next year by participating in the Same Room Sign-Up selection process. This allows for students to go in ahead of the general selection and choose their space, and in many cases, pull in roommates. There are a small number of spaces that will not be able to part of the Same Room Sign-Up process. Students whose rooms are not available for Same Room Sign-Up will be classified as “displaced” and will have their own time to go into the Housing Portal and select their room. Students wishing to sign up for their same room will need to have a completed Housing Application and will need to indicate their interest for Same Room Sign-Up on that Application. <em>Students who participate in Same Room Sign-Up who do not pull in a roommate or do not have a roommate who is also participating, will have a vacancy in their room which will be filled</em>.
 <h3><strong>Same Room Sign-Up Roommate Pull-In – March 25</strong></h3>
