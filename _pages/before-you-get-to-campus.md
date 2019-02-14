@@ -31,7 +31,7 @@ Even if you already live on campus, the information about on campus living can b
 <h2>Spring</h2>
 <div class="one-half">
 <ul>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/">Housing Selection 2018-2019</a>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/">Housing Selection 2019-2020</a>
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/processes/">Housing Selection Processes</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/navigating/">Navigating the Housing Portal</a></li>
@@ -48,6 +48,7 @@ Even if you already live on campus, the information about on campus living can b
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2016-2017/">2016-2017</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2017-2018/">2017-2018</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2018-2019/">2018-2019</a></li>
+ 	<li>2019-2020</li>
 </ul>
 </li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/air-conditioned/">AC Housing Accommodations</a></li>
