@@ -33,7 +33,7 @@ Any student meeting the following conditions should apply for break housing by t
 <h4>What is the cost for Break Housing?</h4>
 There is no cost for Break Housing at this time.
 <h4>Are meals served during breaks?</h4>
-Dining Services is closed for all break periods. Visit <a href="http://umwdining.com/">UMW Dining</a> for more information. Students remaining on campus during breaks are responsible for making alternate arrangements for meals.
+Dining Services is closed for all break periods. Visit <a href="https://umw.sodexomyway.com/">UMW Dining</a> for more information. Students remaining on campus during breaks are responsible for making alternate arrangements for meals.
 <h4>How do I help ensure my personal safety on campus during break periods?</h4>
 UMW Police Officers patrol the campus during break periods, but everyone needs to do their part to assist in the effort to ensure their own safety. Please take the following precautions to help ensure the safety and security of yourself and your personal belongings:
 <ul>
