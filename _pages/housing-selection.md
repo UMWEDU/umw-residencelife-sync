@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2016-01-29 15:54:49
 ---
-<p style="text-align: center"><strong>Students applying for 2019-2020 Housing will use the application found on the <u><a href="https://umw.starrezhousing.com/starrezportal">Housing Portal</a></u>.</strong></p>
+<h2 style="text-align: center"><strong>Students applying for 2019-2020 Housing will use the application found on the <u><a href="https://umw.starrezhousing.com/starrezportal">Housing Portal</a></u>.</strong></h2>
 Read the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2019-2020/" target="_blank" rel="noopener">Housing and Dining Services Agreement online</a> or <a href="https://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/02/2019-2020-Housing-Agreement.pdf" target="_blank" rel="noopener">download the PDF version</a>.
 <h2><strong>Rediscover Home for 2019-2020!</strong></h2>
 Welcome to the Returning Student Housing Selection Page!  We are excited you are planning to live on-campus with us again next year.  UMW and national data shows that students who live on campus are more likely to succeed academically and have an overall more enjoyable experience at UMW.
