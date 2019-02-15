@@ -15,6 +15,8 @@ Read the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/serv
 Welcome to the Returning Student Housing Selection Page!  We are excited you are planning to live on-campus with us again next year.  UMW and national data shows that students who live on campus are more likely to succeed academically and have an overall more enjoyable experience at UMW.
 
 We have provided a wealth of information about housing selection below and within the links provided.  Please read everything thoroughly and contact our office if you have questions.  For students participating in specific processes, additional information will be sent via email after applications are submitted.
+
+Please note: First year students who sign an agreement to live on campus during 2018-2019 are bound by the two-year residency requirement and may not choose to change to commuter status without being released by the Contract Review Committee. Students obligated to the second-year fulfillment who do not participate in the Housing Selection process will still be assigned a space and be held to the terms and conditions of the Housing and Dining Agreement.
 <h2><strong>Housing Selection Timeline</strong></h2>
 <ul>
  	<li>Feb 1: Themed Living Communities (TLC) application open on <a href="https://orgsync.com/59554/forms/166472">OrgSync</a></li>
