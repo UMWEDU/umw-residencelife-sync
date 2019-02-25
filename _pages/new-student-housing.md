@@ -20,14 +20,14 @@ Exceptions may be made for students who:
 </ul>
 In order to be approved to live off campus, prospective students must consult with admissions staff.
 <h2>First Year Student Housing Information</h2>
-First-year (new “freshmen”) students will be housed in Living Learning Communities (LLCs), which are clustered within the residence halls, and are based on the First Year Seminar (FSEM) course in which they are enrolled.  The positive effect of learning communities on students’ academic success is well documented with significant gains observed in academic performance.  Students who live together and share meaningful academic experiences form friendships and boost out-of-the-classroom learning.  Because of this substantial benefit, first-year students will live with or in close proximity to their LLC in the residence halls.
+First-year (new “freshmen”) students will be housed in Living Learning Communities (LLCs), and are based on the First Year Seminar (FSEM) course in which they are enrolled.  The positive effect of learning communities on students’ academic success is well documented with significant gains observed in academic performance.  Students who live together and share meaningful academic experiences form friendships and boost out-of-the-classroom learning.  Because of this substantial benefit, first-year students will live with or in close proximity to their LLC in the residence halls.
 
-<strong>After accepting UMW’s offer of admission and paying their deposit, incoming first-year students will be emailed (beginning in late February) a link to the</strong><strong> </strong><em><strong>First-Year Student Questionnaire</strong></em><strong>, an online survey which helps staff identify their FSEM preferences. </strong><strong> </strong>UMW will work to match students to seminars of their choice.  Each of the FSEM courses is associated with a residence hall.  Therefore, when students are placed in an FSEM, they will be assigned to a residential community. Students may indicate a preferred roommate(s).  On the First Year Student Questionnaire, students may indicate a preference for a roommate, and UMW will do its best to make matches accordingly.  To ensure preferred roommates are assigned together, both students should must indicate the other as their preferred roommate on both the first semester questionnaire and on the housing application.  Both students should also submit the same rankings of FSEM courses so both students are in the same class and can easily be housed together in the LLC.
+<strong>After accepting UMW’s offer of admission and paying their deposit, incoming first-year students will be emailed (beginning in late February) a link to the</strong><strong> </strong><em><strong>First-Year Student Questionnaire</strong></em><strong>, an online survey which helps staff identify their FSEM preferences. </strong>UMW will work to match students to seminars of their choice. Each of the FSEM courses is associated with a residence hall. Therefore, when students are placed in an FSEM, they will be assigned to a residential community. Students may indicate a preferred roommate(s).  On the First Year Student Questionnaire, students may indicate a preference for a roommate, and UMW will do its best to make matches accordingly.  To ensure preferred roommates are assigned together, both students should must indicate the other as their preferred roommate on <span style="text-decoration: underline">both</span> the first semester questionnaire and on the housing application.  Both students should also submit the same rankings of FSEM courses and buildings so both students are in the same class and can easily be housed together in the building.
 
 Some circumstances will necessitate an assignment outside of the Living Learning Community. The following are examples:
 <ul>
  	<li>students approved for housing accommodations (efforts will be made to provide approved accommodations within the LLC when possible)</li>
- 	<li>students with requests for roommates not in the same FSEM</li>
+ 	<li>students with requests for roommates not in the same FSEM building</li>
  	<li>students desiring LGBTQ/gender-inclusive housing</li>
  	<li>female students desiring an all-female residence hall</li>
 </ul>
@@ -38,15 +38,15 @@ Note: Transfer students with fewer than 30 credits wishing to participate in the
 <h3>Steps to Secure Housing</h3>
 <ol>
  	<li>Accept your offer of admission by submitting your $500 enrollment deposit.</li>
- 	<li>If you will need a housing accommodation, submit your request to the <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations">Office of Disability Resources</a> by April 27, 2018.</li>
+ 	<li>If you will need a housing accommodation, submit your request to the <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations">Office of Disability Resources</a> before May 1, however accommodation applications will be accepted for review at any time.</li>
  	<li>If you are a First Year student, complete the <a href="http://academics.umw.edu/fsem">First Year Student Questionnaire</a>, which includes your five FSEM course preferences.
 <ol>
  	<li>Review <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/rates/">Room and Board rates</a>.</li>
 </ol>
 </li>
- 	<li>Review <a href="http://www.umwdining.com">dining information</a>.</li>
+ 	<li>Review <a href="https://umw.sodexomyway.com/">dining information</a>.</li>
  	<li>Get acquainted with the <a href="http://www.umw.edu/residencelife/residence-halls/">residence halls</a>.</li>
- 	<li>Review the 2018-2019 <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2017-2018/">Housing and Dining Services Agreement Terms and Conditions</a>.</li>
+ 	<li>Review the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2017-2018/">Housing and Dining Services Agreement Terms and Conditions</a>.</li>
  	<li>Complete your Housing and Dining Services Agreement application <a href="https://umw.starrezhousing.com/starrezportal">in the housing portal</a>.</li>
 </ol>
 <h2>Housing Assignment Communication</h2>
