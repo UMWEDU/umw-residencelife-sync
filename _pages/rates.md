@@ -9,13 +9,18 @@ permalink: >
 published: true
 post_date: 2016-02-07 15:13:20
 ---
-<p class="p1"><span class="s1">These housing rates reflect the 2017 – 2018 rates as well as the rates for 2018 – 2019. Please review the information carefully to ensure you are looking at the correct table.</span></p>
+<h3>Proposed Room Rates for 2019-2020</h3>
+<div>Room rates have not yet been approved by the Board of Visitors,  however the University is proposing that all UMW-owned residence halls maintain rates consistent with 2018-2019 with no increase. Eagle Landing and UMW Apartments (UMW Foundation properties) anticipate a 3%-5% increase in rates for 2019-2020. The Board of Visitors will approve room rates during their April 2019 meeting.</div>
+<div></div>
+<div>
+
+&nbsp;
+
+These housing rates reflect the 2018 – 2019 academic year. Please review the information carefully to ensure you are looking at the correct line.
+
+</div>
 [table id=31 /]
 
 [table id=27 /]
 
 &nbsp;
-
-[table id=21 /]
-
-[table id=24 /]
