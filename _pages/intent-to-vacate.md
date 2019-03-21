@@ -19,4 +19,4 @@ Students who are leaving campus for a reason not listed on the Intent to Vacate 
 
 Students that are leaving campus due to an approved change to part time status must have been given permission by Dave Fleming, Assistant Dean of Residence Life and Housing.
 
-The <a href="https://orgsync.com/59554/forms/67386">Intent to Vacate University Housing form</a> can be accessed through MyUMW.
+The Intent to Vacate University Housing form is now called the <span style="text-decoration: underline">Petition to Cancel Housing Agreement form</span> and can be accessed through the housing portal.
