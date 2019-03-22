@@ -10,8 +10,9 @@ published: true
 post_date: 2016-02-07 15:13:20
 ---
 <h3>Proposed Room Rates for 2019-2020</h3>
-<div>Room rates have not yet been approved by the Board of Visitors,  however the University is proposing that all UMW-owned residence halls maintain rates consistent with 2018-2019 with no increase. Eagle Landing and UMW Apartments (UMW Foundation properties) anticipate a 3%-5% increase in rates for 2019-2020. The Board of Visitors will approve room rates during their April 2019 meeting.</div>
+<div>Room rates have not yet been approved by the Board of Visitors,  however they will approve room rates during their April 2019 meeting. Below are the proposed 2019-2020 academic year rates.</div>
 <div></div>
+<div>[table id=33 /]</div>
 <div>
 
 &nbsp;
