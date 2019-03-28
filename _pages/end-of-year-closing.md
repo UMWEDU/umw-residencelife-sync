@@ -13,23 +13,23 @@ post_date: 2016-01-29 16:53:36
 <table width="966">
 <tbody>
 <tr>
-<td>Saturday, April 28 – Saturday, May 5</td>
+<td>Saturday, April 27 – Saturday, May 4</td>
 <td>24-hour quiet hours in all residential areas</td>
 </tr>
 <tr>
-<td>Saturday, May 5 at 10 a.m.</td>
+<td>Saturday, May 4 at 10 a.m.</td>
 <td>Residence halls close for students (except graduating seniors) *</td>
 </tr>
 <tr>
-<td>Friday, May 11</td>
+<td>Friday, May 10</td>
 <td>Graduate Student Commencement</td>
 </tr>
 <tr>
-<td>Saturday, May 12</td>
+<td>Saturday, May 11</td>
 <td>Undergraduate Commencement</td>
 </tr>
 <tr>
-<td>Sunday, May 13 at 10 a.m.</td>
+<td>Sunday, May 12 at 10 a.m.</td>
 <td>Residence halls close for graduating seniors</td>
 </tr>
 </tbody>
@@ -37,7 +37,7 @@ post_date: 2016-01-29 16:53:36
 * Only graduating seniors and those students with approval are permitted to be in on campus (extended stay) housing after this date.
 <h4><a href="http://students.umw.edu/residencelife/extendedhousing">May Extended Stay Housing</a></h4>
 <h4>24-Hour Quiet Hours</h4>
-As the Spring semester winds down, there is one final push to complete final exams, projects, and papers.  All residential buildings follow 24-hour quiet hours from 12:01 a.m. Saturday, April 28 until Saturday, May 5.  Quiet hours are meant to provide a noise-free atmosphere so all spaces on campus can be academically-focused.  Students are asked to be considerate of their neighbors during this time by not being heard outside their rooms.  As students finish final exams and papers and prepare to move-out, they are asked to be aware that others are still in the process. Students who are disruptive to the community may be asked to leave and/or fined.
+As the Spring semester winds down, there is one final push to complete final exams, projects, and papers.  All residential buildings follow 24-hour quiet hours from 12:01 a.m. Saturday, April 27 until Saturday, May 4.  Quiet hours are meant to provide a noise-free atmosphere so all spaces on campus can be academically-focused.  Students are asked to be considerate of their neighbors during this time by not being heard outside their rooms.  As students finish final exams and papers and prepare to move-out, they are asked to be aware that others are still in the process. Students who are disruptive to the community may be asked to leave and/or fined.
 <h4>How to Clean Your Living Space</h4>
 There are no on-campus storage options.  All residences are used over the summer by summer conference groups or for summer students.  <strong>Items may not be left in residences.</strong>  Students should not place belongings or trash in the hallway.  Items left in the hallway will be charged to the community if responsibility cannot be determined.  Recycling should be secured in bags and placed in the recycling Toters adjacent to the building.  Trash should be placed in <strong><em>outside dumpsters</em></strong>.  When moving out, students should not leave anything in the hallway unattended as it may be considered abandoned and be taken. Students must clean their living space as follows:
 <ul>
