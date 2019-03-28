@@ -11,8 +11,8 @@ post_date: 2016-01-29 16:08:24
 ---
 The residence halls close for:
 <ul>
- 	<li>everyone except graduates on Saturday, May 5 at 10am</li>
- 	<li>graduating students on Sunday, May 13 at 10am.</li>
+ 	<li>everyone except graduates on Saturday, May 4 at 10am</li>
+ 	<li>graduating students on Sunday, May 12 at 10am.</li>
 </ul>
 Only students taking summer classes and living in UMW summer housing, graduating students, or students sponsored by a UMW department or office are permitted to have Extended Housing.
 
@@ -22,7 +22,7 @@ Students may not store items in a housing assignment while not present or in bet
 
 Extended stay is outside of the contracted meal plan period. Campus meal service on a pay-per-use basis may or may not be available as the campus dining options are not always open throughout the extended stay period.
 <h2>May Extended Stay Application <em>(for student submission)</em></h2>
-The application for Extended Stay will open Monday, April 16. The <a href="https://umw.starrezhousing.com/starrezportal">May 2018 Extended Stay Application</a> must be submitted electronically no later than the last day of classes.
+The application for Extended Stay will open Monday, April 15. The <a href="https://umw.starrezhousing.com/starrezportal">May 2019 Extended Stay Application</a> must be submitted electronically no later than the last day of classes.
 <h2>Sponsored students <em>(for UMW department sponsorship submission)</em></h2>
 Students needing to stay in on-campus housing after the residence hall closing date for official UMW business may be requested by a UMW department or office.  Examples of students who may be sponsored by a UMW department with legitimate reasons include the following:
 <ul>
@@ -30,4 +30,4 @@ Students needing to stay in on-campus housing after the residence hall closing d
  	<li>Students working Commencement ceremony (graduation usher, etc.)</li>
  	<li>Students attending a scheduled Honor Council / Judicial Review Board hearing</li>
 </ul>
-<span class="s1">The <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/BreakHousingTemplate-1.xlsx">excel template should be downloaded</a> and emailed to the Residence Life email at <a href="mailto:reslife@umw.edu"><span class="s4">reslife@umw.edu</span></a> by last day of classes</span><span class="s1">. Any questions can be sent to <a href="mailto:reslife@umw.edu"><span class="s4">reslife@umw.edu</span></a>.</span>
+<span class="s1">The <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/BreakHousingTemplate-1.xlsx">excel template should be downloaded</a> and emailed to the Residence Life and Housing email at <a href="mailto:reslife@umw.edu"><span class="s4">reslife@umw.edu</span></a> by last day of classes</span><span class="s1">. Any questions can be sent to <a href="mailto:reslife@umw.edu"><span class="s4">reslife@umw.edu</span></a>.</span>
