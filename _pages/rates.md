@@ -10,7 +10,6 @@ published: true
 post_date: 2016-02-07 15:13:20
 ---
 <h3>Proposed Room Rates for 2019-2020</h3>
-<div>Rates are per semester.</div>
 <div></div>
 <div>[table id=33 /]
 [table id=35 /]</div>
