@@ -20,12 +20,12 @@ post_date: 2016-01-29 15:28:17
  	<li>devices used to promote irresponsible drinking (beer bongs, funnels, and similar devices typically used to promote excessive alcohol consumption)</li>
  	<li>door decorations (fliers, posters, pictures displayed on either side of a door) other than the name tag provided by the Residence Life staff</li>
  	<li>drugs and/or controlled substances that are illegal, and any drug paraphernalia (including electronic smoking devices used for drug consumption)</li>
- 	<li>electrical cooking appliances (including microwaves, toaster ovens) in residence hall rooms or non-kitchen areas; all electrical cooking appliances without an automatic shut-off such as coffee/tea pot; any electrical appliance which is not UL-approved; any electrical appliances with an open heating element (including but not limited to potpourri burners, hot plates, crock pots, and indoor grills)</li>
+ 	<li>electrical cooking appliances (including microwaves, toaster ovens) in residence hall rooms or non-kitchen areas; all electrical cooking appliances without an automatic shut-off such as coffee/tea pot; any electrical appliance which is not UL-approved; any electrical appliances with an open heating element (including but not limited to potpourri burners, hot plates, crock pots, rice cookers, instapots, and indoor grills)</li>
  	<li>electrical cords around doorways or under carpets</li>
  	<li>electrical items left plugged into bathroom outlets such as curling irons and hairdryers</li>
  	<li>explosives, fireworks, pyrotechnic devices, or flame-producing materials</li>
  	<li>extension cords (unless multiple outlet-type with built-in fuses and/or surge protector)</li>
- 	<li>fabric hanging on walls (including tapestries). Combustible items such as flags may be displayed if framed under glass or acrylic/plexiglas. The 10 percent limitation on wall coverings would still apply.</li>
+ 	<li>fabric hanging on walls (including tapestries). Combustible items such as flags may be displayed if framed under glass or acrylic/plexiglass. The 10 percent limitation on wall coverings would still apply.</li>
  	<li>firearms, projectile firing devices, and other weapons, including but not limited to air rifles, pellet guns, or other weapons including realistic facsimiles; ammunition; switchblades; knives with blades over 5 inches; biological or chemical weapons such as mace and tear gas; hazardous materials or  chemicals (examples:  gasoline, lighter fluid, or other flammable liquids); or items which may pose a danger to the UMW community</li>
  	<li>halogen lamps, lava lamps, and incandescent bulbs.  Permitted lamps are those using low heat emitting light bulbs, compact fluorescent lighting (CFL), or light emitting diode (LED) lighting.</li>
  	<li>hookahs</li>
