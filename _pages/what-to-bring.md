@@ -11,7 +11,7 @@ post_date: 2016-01-29 15:43:58
 ---
 Room air-conditioners are prohibited as all residence halls have air conditioning within the rooms. Most electrical appliances (i.e. televisions, DVDs, stereos, radios, mini-refrigerator/freezers, computers/printers, hair dryers and irons) are permissible in residence halls. However, due to safety considerations, flame or spark-producing items (i.e. candles, halogen lamps, incense burners, oil burning lamps, lanterns and space heaters) are not permitted. Refer to further residential policies as noted in the <a href="http://publications.umw.edu/student-handbook/">Student Handbook</a>, and in the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/">Housing and Dining Services Agreement</a>.
 <ul>
- 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/Eagle-Approved-list.pdf">Printable "Eagle Approved Packing List with Pack S.M.A.R.T." checklist.</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/05/Eagle-Approved-list.pdf">Printable "Eagle Approved Packing List with Pack S.M.A.R.T." checklist.</a></li>
 </ul>
 <h2>Desk Items:</h2>
 Desk lamp, pencils, pens, notebook, writing paper, stamps, envelopes, address book, paper clips, rubber bands, stapler and staples, ruler, note cards (various sizes), glue, transparent tape, writing style manual, thumb tacks, calendar, and/or appointment book.
