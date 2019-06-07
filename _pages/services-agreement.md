@@ -18,5 +18,5 @@ For instructions for submitting your housing application in the Housing Portal, 
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/summer-2016-housing-agreement-terms/">Housing Agreement Terms for Summer 2016</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2017-2018/">Housing and Dining Services Agreement entered into during the 2017-2018 academic year</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2018-2019/">Housing and Dining Services Agreement entered into during the 2018-2019 academic year</a></li>
- 	<li>Housing and Dining Services Agreement entered into during the 2019-2020 academic year</li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/2019-2020/">Housing and Dining Services Agreement entered into during the 2019-2020 academic year</a></li>
 </ul>
