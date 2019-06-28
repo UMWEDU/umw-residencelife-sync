@@ -36,7 +36,7 @@ All residential students have questions about living on campus; you are not alon
 </strong>Each residence hall is unique, but some standard furnishings include an XL twin bed frame and mattress, desk, and chair for each resident. Each resident also has dresser and closet space. Cable and internet services are also provided. You will need to provide your own television, coaxial cable, computer, and ethernet cable.
 
 <strong>Do I need to bring my own computer?
-</strong>Computers are not required; however, they are strongly recommended. There are several 24-hour computer labs on campus where students can do research, and type documents and have them printed. For technology-related information, visit <a href="http://technology.umw.edu/info/">http://technology.umw.edu/info/</a>.
+</strong>Computers are not required; however, they are strongly recommended. There are several 24-hour computer labs on campus where students can do research, and type documents and have them printed. For technology-related information, visit <a href="https://technology.umw.edu/new/students/" target="_blank" rel="noopener noreferrer">https://technology.umw.edu/new/students/</a>.
 
 <strong>Can I get a fridge for my room?
 </strong>Students are permitted to have no more than one fridge in doubles and triples and no more than two fridges in quads. The fridges can be no more than 4.5 cubic feet in size and pull no more than two amps. Individuals in UMW Apartments and Eagle Landing are not permitted to have mini-fridges in their rooms.
