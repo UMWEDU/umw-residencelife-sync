@@ -29,7 +29,7 @@ Can’t arrive during your move-in time? No worries! We will welcome you when yo
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/06/Russ-webpage.pdf" target="_blank" rel="noopener noreferrer">Russell</a></li>
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/06/UMAPT-webpage.pdf" target="_blank" rel="noopener noreferrer">UMW Apartments</a></li>
 </ul>
-Please also download the <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/New-map-of-campus.pdf">Move-in day map</a>, paying special attention to the yellow (unloading zones) and bright red (long term parking).
+Please also download the <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/New-map-of-campus.pdf">Move-In day map</a>, paying special attention to the yellow (unloading zones) and bright red (long term parking).
 <h4>Important advice regarding Move-In:</h4>
 Please be mindful that August in Virginia can be hot and humid and sometimes a bit rainy. Please pack and dress accordingly. We encourage you to bring water for the whole family and be prepared for some potential wait times as we usher in over 1,000 students each Move-In day.
 
