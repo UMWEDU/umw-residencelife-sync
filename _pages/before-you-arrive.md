@@ -12,15 +12,15 @@ post_date: 2016-06-16 11:25:33
 <h2><strong>Before you arrive:</strong></h2>
 <ul>
  	<li>Pick up your EagleOne Card during Orientation. This is your student ID card and you will need it to check into your Residence Hall.</li>
- 	<li>Read <a href="http://publications.umw.edu/eagleessentials/">Eagle Essentials</a></li>
- 	<li>Read the residential policies in the <a href="http://publications.umw.edu/student-handbook/">student handbook</a></li>
- 	<li>Contact your roommate(s) to get to know each other and to discuss what items you will share and who is bringing what. You may contact them through our <a href="https://umw.starrezhousing.com/starrezportal">housing portal</a>.</li>
+ 	<li>Read <a href="http://publications.umw.edu/eagleessentials/">Eagle Essentials.</a></li>
+ 	<li>Read the residential policies in the <a href="http://publications.umw.edu/student-handbook/">student handbook.</a></li>
+ 	<li>Contact your roommate(s) to get to know each other and to discuss what items you will share and who is bringing what. You may contact them through our <a href="https://umw.starrezhousing.com/starrezportal">Housing Portal</a>.</li>
  	<li>Review the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/prohibited-in-residence-halls/">prohibited items</a> list. Be sure to leave these items at home.</li>
  	<li>Pack S.M.A.R.T.! Use the tips in our acronym and packing list found on our website to bring the right amount of belongings.</li>
  	<li>Review your family insurance policy or purchase a renter's insurance policy to protect your belongings while on campus. The university is not responsible for personal property damage.</li>
 </ul>
 <h3>Get to know your roommate:</h3>
-While social media is convenient for quick introductions and sharing information we encourage you and your roommate to have a phone conversation or when possible a face-to-face meeting to learn about each other before move-in.  Be mindful that some students are traveling for the summer or may not be accessible via certain communication methods.  Be patient and don’t assume the worst.
+While social media is convenient for quick introductions and sharing information we encourage you and your roommate to have a phone conversation or when possible a face-to-face meeting to learn about each other before Move-In. Be mindful that some students are traveling for the summer or may not be accessible via certain communication methods. Be patient and don’t assume the worst.
 <h4>Keep in mind:</h4>
 <ul>
  	<li>It is okay to feel apprehensive about speaking with your new roommate for the first time.</li>
@@ -40,7 +40,7 @@ All residence hall rooms at UMW come with:
 </ul>
 *In some halls, residents must share drawer space within a dresser or closet space with roommates.
 
-<strong>Check out this printable <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/Eagle-Approved-list.pdf">Ultimate UMW Packing List</a> for items that are Eagle Approved and those that are not permitted in your Nest.</strong>
+<strong>Check out this printable <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/05/Eagle-Approved-list.pdf" target="_blank" rel="noopener noreferrer">Ultimate UMW Packing List</a> for items that are Eagle Approved and those that are not permitted in your nest.</strong>
 <h4>Pack S.M.A.R.T.</h4>
 <strong>S</strong>: Spend two weeks taking note of what you use at home. If you haven't used it in two weeks, don't pack it.
 
@@ -52,8 +52,8 @@ All residence hall rooms at UMW come with:
 
 <strong>T</strong>: Talk to your roommate about sharing certain items. Why bring two when one will suffice?
 
-Most home good stores provide a fairly comprehensive list of items needed for college.  Please be aware that these lists sometimes include items that are prohibited at UMW.  Please review the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/prohibited-in-residence-halls/">prohibited items list</a> and keep these items out of your nest!
+Most home good stores provide a fairly comprehensive list of items needed for college. Please be aware that these lists sometimes include items that are prohibited at UMW. Please review the <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/prohibited-in-residence-halls/">prohibited items list</a> and keep these items out of your nest!
 
-<strong>NOTE</strong>:  The University of Mary Washington does not provide storage for luggage, boxes, or the UMW provided furniture listed above.  Everything you bring must fit in your room.
+<strong>NOTE</strong>: The University of Mary Washington does not provide storage for luggage, boxes, or the UMW provided furniture listed above. Everything you bring must fit in your room.
 
-<strong>NOTE</strong>:  Label all boxes with last name, first initial, building, room number.  Forgot your building and room? Check <a href="https://umw.starrezhousing.com/starrezportal">the Housing Portal</a>.
+<strong>NOTE</strong>: Label all boxes with last name, first initial, building, room number. Forgot your building and room? Check <a href="https://umw.starrezhousing.com/starrezportal">the Housing Portal</a>.
