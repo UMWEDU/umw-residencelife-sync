@@ -10,25 +10,24 @@ published: true
 post_date: 2016-06-16 11:31:00
 ---
 <h2>Move-in Day</h2>
-We hope you are excited for the big day! We will provide some specific information to ensure the best possible experience for all students and their families arriving on move-in day. It is important that students and families know in which building the student will be residing. We encourage students to log into the <a href="https://umw.starrezhousing.com/starrezportal">Housing Portal</a> prior to arriving to verify their residence hall and room number.
+We hope you are excited for the big day! We will provide some specific information to ensure the best possible experience for all students and their families arriving on Move-In day. It is important that students and families know in which building the student will be residing. We encourage students to log into the <a href="https://umw.starrezhousing.com/starrezportal">Housing Portal</a> prior to arriving to verify their residence hall and room number.
 
 Please click on the link for your assigned building for a detailed instruction sheet to assist you with your move-in experience. We ask that you do your best to adhere to your assigned move-in time to assist us with traffic flow, particularly in areas where the drop-off zone is small.
 
 Can’t arrive during your move-in time? No worries! We will welcome you when you arrive.
 <h2><strong>Residence Hall Move-in Instructions</strong></h2>
 <ul>
- 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/06/Arri-webpage.pdf">Arrington</a></li>
- 	<li>Ball/Custis/Madison (upperclass)</li>
- 	<li>Custis/Madison/Virginia (first year)</li>
- 	<li>Bushnell/Jefferson</li>
- 	<li>Randolph/Mason</li>
- 	<li>The Link</li>
- 	<li>Westmoreland</li>
- 	<li>Eagle Landing</li>
- 	<li>Framar/South</li>
- 	<li>Marshall</li>
- 	<li>Russell</li>
- 	<li>UMW Apartments</li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/06/Arri-webpage.pdf" target="_blank" rel="noopener noreferrer">Arrington</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/06/BallCustMadi-upperclass-webpage.pdf" target="_blank" rel="noopener noreferrer">Ball/Custis/Madison (upperclass)</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/06/CustMadiVirg-first-year-webpage.pdf" target="_blank" rel="noopener noreferrer">Custis/Madison/Virginia (first year)</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/06/BushJeff-webpage.pdf" target="_blank" rel="noopener noreferrer">Bushnell/Jefferson</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/06/LinkRandMaso-webpage.pdf" target="_blank" rel="noopener noreferrer">The Link/Randolph/Mason</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/06/West-webpage.pdf" target="_blank" rel="noopener noreferrer">Westmoreland</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/06/ELEV-webpage.pdf" target="_blank" rel="noopener noreferrer">Eagle Landing</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/06/FramarSouth-webpage.pdf" target="_blank" rel="noopener noreferrer">Framar/South</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/06/Mars-webpage.pdf" target="_blank" rel="noopener noreferrer">Marshall</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/06/Russ-webpage.pdf" target="_blank" rel="noopener noreferrer">Russell</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/06/UMAPT-webpage.pdf" target="_blank" rel="noopener noreferrer">UMW Apartments</a></li>
 </ul>
 Please also download the <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/06/New-map-of-campus.pdf">Move-in day map</a>, paying special attention to the yellow (unloading zones) and bright red (long term parking).
 <h4>Important advice regarding Move-In:</h4>
