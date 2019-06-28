@@ -15,7 +15,7 @@ We hope you are excited for the big day! We will provide some specific informati
 Please click on the link for your assigned building for a detailed instruction sheet to assist you with your move-in experience. We ask that you do your best to adhere to your assigned move-in time to assist us with traffic flow, particularly in areas where the drop-off zone is small.
 
 Can’t arrive during your move-in time? No worries! We will welcome you when you arrive.
-<h2><strong>Residence Hall Move-in Instructions</strong></h2>
+<h2><strong>Residence Hall Move-In Instructions</strong></h2>
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/06/Arri-webpage.pdf" target="_blank" rel="noopener noreferrer">Arrington</a></li>
  	<li><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/06/BallCustMadi-upperclass-webpage.pdf" target="_blank" rel="noopener noreferrer">Ball/Custis/Madison (upperclass)</a></li>
@@ -34,8 +34,8 @@ Please also download the <a href="http://www.umw.edu/residencelife/wp-content/up
 Please be mindful that August in Virginia can be hot and humid and sometimes a bit rainy. Please pack and dress accordingly. We encourage you to bring water for the whole family and be prepared for some potential wait times as we usher in over 1,000 students each Move-In day.
 
 *Don’t forget to label all boxes with last name, first initial, building, and room number
-<h2><strong>Move-in Day Questions</strong></h2>
-UMW Residence Life and Housing has done its best to provide you with all information that you will need to make your move-in experience is as smooth and effortless as possible. In the event you have questions <strong><u>on Move-in day,</u></strong> you can get them answered in person at the following locations on Campus:
+<h2><strong>Move-In Day Questions</strong></h2>
+UMW Residence Life and Housing has done its best to provide you with all information that you will need to make your move-in experience is as smooth and effortless as possible. In the event you have questions <strong><u>on Move-In day,</u></strong> you can get them answered in person at the following locations on Campus:
 <ul>
  	<li>At your assigned residence hall</li>
  	<li>Marye House (Building 35 on the campus map)</li>
