@@ -45,7 +45,7 @@ All residential students have questions about living on campus; you are not alon
 </strong>Various retailers have area rugs available. We recommend that you work with your roommate(s) to determine if a carpet is desired and who will be responsible for purchasing it.
 
 <strong>What size sheets should I buy?
-</strong>All resident rooms have extra-long mattresses. It is best to buy XL twin sheets or twin sheets with “expanded” or “deep” pockets.  XL twin sheets can be hard to find, especially during the beginning of the school year. The <a href="http://bookstore.umw.edu">UMW Bookstore</a> offers linens, and other organizational and decorative items to help you tailor your room to fit your style.
+</strong>All resident rooms have extra-long mattresses. It is best to buy XL twin sheets or twin sheets with “expanded” or “deep” pockets.  XL twin sheets can be hard to find, especially during the beginning of the school year. The <a href="https://umw.bncollege.com/shop/umw/home">UMW Bookstore</a> offers linens, and other organizational and decorative items to help you tailor your room to fit your style.
 
 <strong>Should I bring all of my belongings at once?
 </strong>Before making a decision, we encourage you to contact your roommate to discuss who will bring the television, carpet, mini-fridge, etc. Making contact with your roommate before arriving can make for a smooth transition to University life. After all, you will be living together for nine months, sharing experiences and space.  You should also take into consideration how far away your family lives and how easy it will be for you to bring extra items to campus throughout the year.
