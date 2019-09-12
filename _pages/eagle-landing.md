@@ -10,7 +10,7 @@ published: true
 post_date: 2016-01-27 19:09:49
 ---
 <h2>Thank you for your interest in hosting your event at the Eagle Landing Rotunda and Conference Room!</h2>
-All reservation requests for Eagle Landing spaces should be placed through 25Live. Directions on how to reserve a space can be found <a href="https://president.umw.edu/events/reserving-a-umw-venue/">here</a>.
+All reservation requests for Eagle Landing spaces should be placed through 25Live. Directions on how to reserve a space can be found <a href="https://president.umw.edu/events/reserving-a-umw-venue/">here</a>. Please search using location name "ELEV" to bring up either the Rotunda or the Eagle Landing Conference Room (do not use "ELEV 480" conference room).
 
 The Rotunda and Conference Room are reserved for use by students and UMW employees (anyone with a UMW net ID) however, we will consider requests by outside groups.  Since this is a residential space, though, we reserve the right to deny an outside group’s interest in obtaining these rooms.
 <h4>Parking</h4>
