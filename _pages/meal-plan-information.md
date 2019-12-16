@@ -20,13 +20,8 @@ All changes in meal plans, meaning increases or decreases, must be requested wit
 
 If a student runs out of meals before the semester has concluded, the student needs to contact Chris Porter, Meal Plan Manager at <a href="mailto:cjporter@umw.edu">cjporter@umw.edu</a> or 540/654-1659 to discuss their options.
 <h4>Meal Plan Change Instructions:</h4>
-Log in and access the Meal Plan Change application through <a href="https://umw.starrezhousing.com/StarRezPortal/F8B0E82A/1/1/Home-Home">the Housing Portal</a>.
+To change a meal plan, students must go into the meal plan application where they selected their meal plan and choose a different plan. Choices are limited to what they are eligible to select. In order to ask for an exemption or reduction, students need to log into MyUMW and fill out the form found at <a href="https://umw.presence.io/form/meal-plan-exemption-request">https://umw.presence.io/form/meal-plan-exemption-request</a>
 
-Important Notes
-<ol>
- 	<li>If the application is not available after logging in, email <a href="mailto:cjporter@umw.edu">cjporter@umw.edu</a> to request access.</li>
- 	<li>The Meal Plan Change application in the Housing Portal may only be used once per semester. If you need to make another adjustment email <a href="mailto:cjporter@umw.edu">cjporter@umw.edu</a> with your request.</li>
-</ol>
 <strong>Off-Campus Meal Plan Cancellation</strong>
 
-Off-Campus meal plans are selected for both Fall and Spring semesters.  If an off-campus student decides they want to cancel or change the meal plan for the Spring semester, they must complete the Meal Plan Change application (this includes if they decide to not take classes during the Spring semester).
+Off-Campus meal plans are selected for both Fall and Spring semesters.  If an off-campus student decides they want to cancel or change the meal plan for the Spring semester, they must request the cancellation by emailing Chris Porter at <a href="mailto:cjporter@umw.edu">cjporter@umw.edu</a>. Students can not cancel their meal plan in the Housing Portal.
