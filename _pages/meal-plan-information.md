@@ -24,4 +24,4 @@ To change a meal plan, students must go into the meal plan application where the
 
 <strong>Off-Campus Meal Plan Cancellation</strong>
 
-Off-Campus meal plans are selected for both Fall and Spring semesters.  If an off-campus student decides they want to cancel or change the meal plan for the Spring semester, they must request the cancellation by emailing Chris Porter at <a href="mailto:cjporter@umw.edu">cjporter@umw.edu</a>. Students can not cancel their meal plan in the Housing Portal.
+Off-Campus meal plans are selected for both Fall and Spring semesters.  If an off-campus student decides they want to cancel the meal plan for the Spring semester, they must request the cancellation by emailing Chris Porter at <a href="mailto:cjporter@umw.edu">cjporter@umw.edu</a>. Students can not cancel their meal plan in the Housing Portal.
