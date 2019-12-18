@@ -38,4 +38,4 @@ post_date: 2019-12-18 14:48:37
 <p class="p2">If you are unavailable due to sports or travel on your assigned moving day, it is important for you to contact Residence Life and Housing ASAP to make alternative arrangements. For example, designate your roommate or a friend who can be on campus, to be present for your items.</p>
 <p class="p2">Call: (540) 654-1058 or email: <a href="mailto:reslife@umw.edu">reslife@umw.edu</a></p>
 
-<h3>To view more information about Willard or to see what your student received at the Open House, please <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/12/Open-House-for-web.pdf">view the document online</a>.</h3>
+<h3>To view more information about Willard or to see what your student received at the Open House, please <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/12/Open-House-for-web.pdf">view the document online</a>. Questions or concerns about the move, please email <a href="mailto:reslife@umw.edu">reslife@umw.edu</a>.</h3>
