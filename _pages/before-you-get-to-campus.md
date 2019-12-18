@@ -12,7 +12,7 @@ post_date: 2016-01-27 19:22:35
 Even if you already live on campus, the information about on campus living can be found here. From housing selection to bed bunking/lofting, and move in, we have the pages and forms you seek.
 <h2>Fall</h2>
 <ul>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/">Move In Information - Fall 2018</a>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/">Move In Information - Fall 2019</a>
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/before-you-arrive/">Move-in: Before you Arrive</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/move-in-day-of/">Move-in: Day of</a></li>
@@ -39,7 +39,7 @@ Even if you already live on campus, the information about on campus living can b
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/spring-2017-housing-information/housing-deposit/">Housing Deposit Information</a></li>
 </ul>
 </li>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/spring-housing-information/">Spring 2019 Housing Information</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/spring-housing-information/">Spring 2020 Housing Information</a></li>
 </ul>
 <h2>Year Round</h2>
 <ul>
