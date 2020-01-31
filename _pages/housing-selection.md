@@ -24,8 +24,7 @@ Please note: First year students who sign an agreement to live on campus during 
  	<li>Mar 10: ALL Housing and Dining Applications <strong>DUE</strong> for returning 2020-2021 students</li>
  	<li>Mar 11-13: Housing Selection for students with approved ODR Accommodations (only accommodations that affect physical placement, excludes students with ESAs, bed shakers, etc.)</li>
  	<li>Mar 17-18: <strong>Flexible Housing</strong> and <strong>Themed Living Community</strong> Housing Selection</li>
- 	<li>March 24: <strong>Same Building Sign-Up</strong> process opens; students who have signed up to live in their same building will choose their space on this day (reminder: students must fill their entire room, apartment, or suite)</li>
- 	<li>Mar 25: <strong>Roommate Pull-In</strong> process opens; students who participated in Same Building Sign-Up can pull in roommates from their roommate groups on this day</li>
+ 	<li>March 24: <strong>Same Building Sign-Up</strong> process opens; students who have signed up to live in their same building will choose their space on this day (reminder: students must fill their entire room, apartment, or suite). Roommates must be placed at this time.</li>
  	<li>Mar 26-27: Students who worked <strong>Move-In</strong> process opens; Roommate group leaders will select their rooms and pull in roommates during this time</li>
  	<li>Mar 30 - Apr 3: <strong>General room selection</strong>; group leaders will log in during their assigned time slot and select their room space as well as assign their own roommates</li>
 </ul>
