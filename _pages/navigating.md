@@ -64,6 +64,6 @@ Once the leader has set a name and password for the group, they can search for p
 
 [caption id="attachment_656" align="aligncenter" width="647"]<a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/02/Roommate-Search-by-Details.jpg"><img class="wp-image-656 size-full" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/02/Roommate-Search-by-Details.jpg" alt="Once the leader has set a name and password for the group they can also search for potential members in the system and send out invites, or they can add members to their group directly. " width="647" height="506" /></a> How to search for a roommate[/caption]
 
-Each person will need to log into the Housing Portal, search for the roommate group by name, and log in with the password the leader set when they created the group. Once in the group, each member will need to verify their participation by clicking on the verify button.
+Each person will need to log into the Housing Portal, search for the roommate group by name, and log in with the password the leader set when they created the group.
 
-If you have been invited to join a group, you will receive a message from the group leader in your “Notifications” tab on the portal. Please note that you must go into the Portal to your roommate group page and join the group. Most issues around keeping roommate groups together during the Housing Selection process occurs when groups are not verified by all group members.
+If you have been invited to join a group, you will receive a message from the group leader in your “Notifications” tab on the portal. Please note that you must go into the Portal to your roommate group page and join the group.
