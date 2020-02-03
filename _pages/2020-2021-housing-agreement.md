@@ -9,6 +9,8 @@ permalink: >
 published: true
 post_date: 2020-02-03 12:30:16
 ---
+<h2 class="p3"><b>2020-2021 University of Mary Washington Housing and Dining Services Agreement </b></h2>
+<p class="p4"><a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2020/02/2020-2021-UMW-Housing-Agreement-1.pdf" target="_blank" rel="noopener noreferrer"><b>Download PDF version here </b></a></p>
 Agreement to Deal Electronically
 
 By choosing to electronically sign the University of Mary Washington (UMW) Housing and Dining Services Agreement, from here on referenced as Housing and Dining Agreement, below, you agree to the following terms and conditions:
@@ -19,9 +21,8 @@ By choosing to electronically sign the University of Mary Washington (UMW) Housi
  	<li>You agree to be responsible for keeping all records relating to the Housing and Dining Agreement and for printing or making an electronic copy of these Terms and Conditions. Except as prohibited by law, you waive any requirement of a different method of communication in connection with your access to and communications about the UMW Agreement.</li>
 </ul>
 The Terms and Conditions for Housing and Dining are combined in this document as a convenience for the residential student.
-
-2020-2021 UMW Housing and Dining Services Agreement
-<h2>TERMS AND CONDITIONS</h2>
+<h2>2020-2021 UMW Housing and Dining Services Agreement</h2>
+<h3>TERMS AND CONDITIONS</h3>
 <ol>
  	<li><strong>General Provisions: UMW reserves the right at any time to:</strong>
 <ol>
