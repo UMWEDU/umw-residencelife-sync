@@ -13,6 +13,8 @@ Welcome to the new Residence Life and Housing Parent Blog!  Every other week, w
 
 Let us start our first post with an introduction to our Residence Life and Housing professional team!
 
+&nbsp;
+
 <strong>Dave Fleming</strong>
 Area in charge of: Assistant Dean for Residence Life and Housing
 Schools: B.A. in Psychology at Salisbury State University and M.A. in Industrial/Organizational Psychology at University of New Haven
@@ -21,72 +23,90 @@ Fun fact: I am an identical twin!
 Favorite food: Fried Oysters and Prime Rib; Double stuff Oreos
 Favorite UMW activity or event: UMW’s Got Talent
 Favorite UMW location: Bench sitting in front of the Ridderhof Martin Gallery during the Spring or Fall
-<div><strong>Hunter Rauscher</strong></div>
-<div>Area in charge of: Associate Director for Residence Life and Housing</div>
-<div>Schools: B.A. in English at VCU and M.T. in Secondary Education at VCU</div>
-<div>Family and pets: Adopted Racing Greyhound</div>
-<div>Fun fact: I’ve flown a plane</div>
-<div>Favorite food: Sushi</div>
-<div>Favorite UMW activity or event: Devil Goat Day</div>
-<div>Favorite UMW location: Gym</div>
-<div></div>
-<div><strong>John Hughey
+
+&nbsp;
+
+<strong>Hunter Rauscher</strong>
+Area in charge of: Associate Director for Residence Life and Housing
+Schools: B.A. in English at VCU and M.T. in Secondary Education at VCU
+Family and pets: Adopted Racing Greyhound
+Fun fact: I’ve flown a plane
+Favorite food: Sushi
+Favorite UMW activity or event: Devil Goat Day
+Favorite UMW location: Gym
+
+&nbsp;
+
+<strong>John Hughey
 </strong>Area in charge of: Assistant Director for Residential Education for Residence Life and Housing
 Schools: B.S. in Computer Engineering and M.A. in Higher Education Administration from Southern Illinois University
 Family and pets: one younger brother and one weird cat (Ginger)
 Fun fact: I am a huge fan of bad puns and dad jokes. Since I am from the Midwest I am predisposed to being corn-y
 Favorite food: BBQ Brisket
 Favorite UMW activity or event: The ARH Bonfire during Homecoming
-Favorite UMW location: Palmieri Plaza</div>
-<div></div>
-<div><strong>Michelle Brooks</strong></div>
-<div>Area in charge of: Business &amp; Marketing Manager for Residence Life and Housing
+Favorite UMW location: Palmieri Plaza
+
+&nbsp;
+
+<strong>Michelle Brooks</strong>
+
+Area in charge of: Business &amp; Marketing Manager for Residence Life and Housing
 Schools: B.A. in English and Classical Civilization (dbl. major) from UMW and M.A. in Executive Leadership from Liberty University (finishing May 2020)
 Family and pets: Husband - Matt, daughter - Teresa, dog - Tim, cats - Kira and Apricot, and many fish
 Fun fact: I raise and show dogs (Collies) and have done so my entire life. I'm also an AKC approved judge.
 Favorite food: Sushi and steak
 Favorite UMW activity or event: Devil/Goat Day
-Favorite UMW location: Looking down Campus Walk from the Bell Tower</div>
-<div></div>
-<div><strong>Cece Burkett</strong>
+Favorite UMW location: Looking down Campus Walk from the Bell Tower
+
+&nbsp;
+
+<strong>Cece Burkett</strong>
 Area in charge of: Coordinator of Housing for Residence Life and Housing
 Schools: B.S. from UMW
 Fun fact: I am very good at losing my possessions
 Favorite food: Chinese chicken and broccoli
 Favorite UMW activity or event – Graduation!
-Favorite UMW location – The tree/bench between Ridderhof Martin Gallery and Melchers Hall</div>
-<div></div>
-<div><strong>Megan Brown</strong>
+Favorite UMW location – The tree/bench between Ridderhof Martin Gallery and Melchers Hall
+
+&nbsp;
+
+<strong>Megan Brown</strong>
 Area in charge of: Area Coordinator for 4 Square (Jefferson, Bushnell, Framar, South, Westmoreland, and the UMW Apartments). Also, I'm the advisor of the Association of Residence Halls
 Schools: B.A In History and Adolescent Education from Pace University and M.A in Higher and Post-Secondary Education from Teachers College at Columbia University.
 Pets: Black cat named Sirius
 Fun fact: I really love historical fun facts (like the name of George Washington’s horse)
 Favorite food: Mashed Potatoes and Shrimp
 Favorite UMW activity or event: ARH’s Big Ash Bonfire
-Favorite UMW location: The fountain outside Monroe</div>
-<div></div>
-<div><strong>Lee Roy Johnson
+Favorite UMW location: The fountain outside Monroe
+
+&nbsp;
+
+<strong>Lee Roy Johnson
 </strong>Area in charge of: Area Coordinator for Eagle Landing
 Schools: Major in Sports Management/Minor in Accounting from Methodist University and M.B.A from Averett University
 Fun fact: 4 year college athlete
 Favorite food: Wings
 Favorite UMW activity or event: Devil Goat Day
 Favorite UMW location: William M. Anderson Center! (You never get tired of the cheering and encouragement of the gathering of  the UMW family in one space.)
-Additional: I enjoy being a mentor and resource to all students. My goal is to help each student reach their dreams the best way I can and prepare them for life.</div>
-<div><strong>
-Mary Taylor
+Additional: I enjoy being a mentor and resource to all students. My goal is to help each student reach their dreams the best way I can and prepare them for life.
+
+&nbsp;
+
+<strong>Mary Taylor
 </strong>Area in charge of: Area Coordinator for A&amp;WCircle (Arrington, Willard, Virginia, Ball, Custis, and Madison)
-Schools: B.S. Longwood University and M.Ed. from the University of Lynchburg</div>
-<div>Fun fact: I was involved with Mortar Board Senior Honor Society during my time as an undergraduate
+Schools: B.S. Longwood University and M.Ed. from the University of Lynchburg
+Fun fact: I was involved with Mortar Board Senior Honor Society during my time as an undergraduate
 Favorite food: Mexican food
 Favorite UMW activity or event: Devil/Goat Day
-Favorite UMW location: The fountain between Virginia and Willard halls</div>
-<div></div>
-<div><strong>Matt Brooks</strong>
+Favorite UMW location: The fountain between Virginia and Willard halls
+
+&nbsp;
+
+<strong>Matt Brooks</strong>
 Area in charge of: Eagle Landing front desk operations
 Schools: B.S. in Information Systems and Technology from ODU
 Family and pets: Wife - Michelle, daughter - Teresa
 Fun fact: I own a photography business with Michelle and I have a passion for cars, especially Mustangs
 Favorite food: Pizza
 Favorite UMW activity or event: Move-In day!
-Favorite UMW location: Eagle Landing 3rd floor terrace overlooking river/downtown</div>
+Favorite UMW location: Eagle Landing 3rd floor terrace overlooking river/downtown
