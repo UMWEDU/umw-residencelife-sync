@@ -46,15 +46,16 @@ Family and pets: Husband - Matt, daughter - Teresa, dog - Tim, cats - Kira and A
 Fun fact: I raise and show dogs (Collies) and have done so my entire life. I'm also an AKC approved judge.
 Favorite food: Sushi and steak
 Favorite UMW activity or event: Devil/Goat Day
-Favorite UMW location: Looking down Campus Walk from the Bell Tower<strong>Cece Burkett</strong>
+Favorite UMW location: Looking down Campus Walk from the Bell Tower</div>
+<div></div>
+<div><strong>Cece Burkett</strong>
 Area in charge of: Coordinator of Housing for Residence Life and Housing
 Schools: B.S. from UMW
 Fun fact: I am very good at losing my possessions
 Favorite food: Chinese chicken and broccoli
 Favorite UMW activity or event – Graduation!
-Favorite UMW location – The tree/bench between Ridderhof Martin Gallery and Melchers Hall
-
-</div>
+Favorite UMW location – The tree/bench between Ridderhof Martin Gallery and Melchers Hall</div>
+<div></div>
 <div><strong>Megan Brown</strong>
 Area in charge of: Area Coordinator for 4 Square (Jefferson, Bushnell, Framar, South, Westmoreland, and the UMW Apartments). Also, I'm the advisor of the Association of Residence Halls
 Schools: B.A In History and Adolescent Education from Pace University and M.A in Higher and Post-Secondary Education from Teachers College at Columbia University.
@@ -79,13 +80,13 @@ Schools: B.S. Longwood University and M.Ed. from the University of Lynchburg</di
 <div>Fun fact: I was involved with Mortar Board Senior Honor Society during my time as an undergraduate
 Favorite food: Mexican food
 Favorite UMW activity or event: Devil/Goat Day
-Favorite UMW location: The fountain between Virginia and Willard halls<strong>Matt Brooks</strong>
+Favorite UMW location: The fountain between Virginia and Willard halls</div>
+<div></div>
+<div><strong>Matt Brooks</strong>
 Area in charge of: Eagle Landing front desk operations
 Schools: B.S. in Information Systems and Technology from ODU
 Family and pets: Wife - Michelle, daughter - Teresa
 Fun fact: I own a photography business with Michelle and I have a passion for cars, especially Mustangs
 Favorite food: Pizza
 Favorite UMW activity or event: Move-In day!
-Favorite UMW location: Eagle Landing 3rd floor terrace overlooking river/downtown
-
-</div>
+Favorite UMW location: Eagle Landing 3rd floor terrace overlooking river/downtown</div>
