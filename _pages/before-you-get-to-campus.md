@@ -31,8 +31,9 @@ Even if you already live on campus, the information about on campus living can b
 <h2>Spring</h2>
 <div class="one-half">
 <ul>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/">Housing Selection 2019-2020</a>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/">Housing Selection 2020-2021</a>
 <ul>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/housing-selection-media/" target="_blank" rel="noopener noreferrer">Housing Selection Media</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/processes/">Housing Selection Processes</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/navigating/">Navigating the Housing Portal</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/rates/">Room &amp; Board Rates</a></li>
