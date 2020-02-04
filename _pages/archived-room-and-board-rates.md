@@ -2,13 +2,27 @@
 ID: 152
 post_title: Archived Room and Board Rates
 author: mesch
-post_date: 2016-01-31 16:54:25
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/archived-room-and-board-rates/
 published: true
+post_date: 2016-01-31 16:54:25
 ---
+<div>
+<h2>2018-2019</h2>
+</div>
+[table id=31 /]
+
+[table id=27 /]
+<h2>2017-2018</h2>
+[table id=21 /]
+
+[table id=24 /]
+<h2>2016-2017</h2>
+[table id=17 /]
+
+[table id=18 /]
 <h2>2015-2016</h2>
 All rates are Per Semester
 <table width="100%">
