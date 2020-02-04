@@ -9,6 +9,5 @@ permalink: >
 published: true
 post_date: 2020-02-03 12:56:59
 ---
-Read <a href="http://www.umw.edu/residencelife/2020/02/03/first-post/">our first blog post</a> here!
-
-More content coming soon, stay tuned!
+<h2>[wpv-post-title item="820"]</h2>
+[wpv-post-excerpt length="100" count="word" item="820"][wpv-post-read-more item="820"]
