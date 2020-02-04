@@ -47,8 +47,8 @@ Click on “On-Campus Housing and Dining Application” in the menu bar and then
  	<li>You will navigate through the Application process based on your classification. Be sure to read the text on all pages as it will provide guidance for what to do. Since the Application is tailored based on your classification and how you answer certain questions, it’s important to understand each step thoroughly.</li>
  	<li>If you have any questions regarding the Housing Application process please contact the Office of Residence Life and Housing (<strong><u><a href="mailto:reslife@umw.edu">reslife@umw.edu</a></u></strong>, 540-654-1058).</li>
  	<li>Make sure to answer all of the questions and supply accurate information on the Application. We make room assignments based on your profile information, so be sure to answer profile questions honestly.</li>
- 	<li>When your Application and contract are complete, click the final submit button. You will end up on an Application Status page that states your Application is complete.</li>
- 	<li>If you want to edit any of the Application information you can use these directions to access your account and make necessary updates or changes. Changes can be made to your profile questions, preferences, and roommate selections up until room assignments are made/selected.</li>
+ 	<li>When your Application and contract are complete, click the final submit button. You will end up on an application status page that states your application is complete.</li>
+ 	<li>If you want to edit any of the Application information you can use these directions to access your account and make necessary updates or changes. Changes can be made to your profile questions, preferences, and roommate selections up until the application has closed.</li>
 </ul>
 <h2><strong>Prior to Housing Selection</strong></h2>
 <h3>Creating a Roommate Group</h3>
