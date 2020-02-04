@@ -21,7 +21,7 @@ Are you worried that you are missing information about Housing Selection 2020-20
 
 <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2020/02/Tabling-half-sheeet.pdf" target="_blank" rel="noopener noreferrer">Tabling half sheet</a>: Distributed by Residence Life and Housing professional staff while tabling on campus in February.
 <h2>Interactive Materials</h2>
-<a href="https://docs.google.com/presentation/d/1mTZ_hHIvdFySGIkWQp0QFPbpNKYItlvaBbJ7B4jqGMY/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Housing Workflow</a>: Don't know where you are, or should be, in the Housing Selection process? Click through our interactive workflow to determine your next steps! <em>Please be sure to use PRESENTATION mode or this will not work!!</em>
+<a href="https://docs.google.com/presentation/d/1mTZ_hHIvdFySGIkWQp0QFPbpNKYItlvaBbJ7B4jqGMY/present?usp=sharing" target="_blank" rel="noopener noreferrer">Housing Workflow</a>: Don't know where you are, or should be, in the Housing Selection process? Click through our interactive workflow to determine your next steps!
 <h2>Videos</h2>
 <a href="https://youtu.be/IMdjIdru02w" target="_blank" rel="noopener noreferrer">Promo video</a>: Promotional video about 2020-2021 and introduction of the new 4-3-2-1 process (brief). Distributed on Instagram and Facebook only.
 
