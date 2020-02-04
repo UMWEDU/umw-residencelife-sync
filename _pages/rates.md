@@ -9,7 +9,5 @@ permalink: >
 published: true
 post_date: 2016-02-07 15:13:20
 ---
-<h3>Room Rates for 2019-2020</h3>
-<div></div>
 <div>[table id=33 /]
 [table id=35 /]</div>
