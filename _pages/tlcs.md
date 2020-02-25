@@ -41,10 +41,10 @@ The TLC application link can be found in the On-Campus Housing and Dining Applic
 <h2>2020-2021 TLC abstracts</h2>
 <strong>EcoVillage</strong>
 
-An environmentally based community that encourages environmental sustainability and friendship. This is a self-described "hands-on" group as they enjoy hiking, gardening, and volunteering with local environmental organizations. The group believes in creating a sense of community on the floor, so they like to have themed living social events like family dinners, movie and game nights. EcoVillage is partnered with the UMW Ecology Club. Housing location TBD.
+An environmentally based community that encourages environmental sustainability and friendship. This is a self-described "hands-on" group as they enjoy hiking, gardening, and volunteering with local environmental organizations. The group believes in creating a sense of community on the floor, so they like to have themed living social events like family dinners, movie and game nights. EcoVillage is partnered with the UMW Ecology Club. This TLC will be housed in Arrington Hall.
 
 <strong>Substance Free UMW</strong>
 
-Formerly known as Eagle Wellness Housing, this community is for residential students who abstain from drinking, smoking, vaping, and other drug use.  This TLC is focused on personal wellness within a community that is substance-free.  Other elements of 'wellness', like involvement and leadership in the campus community, are strongly encouraged. Housing location TBD.
+Formerly known as Eagle Wellness Housing, this community is for residential students who abstain from drinking, smoking, vaping, and other drug use.  This TLC is focused on personal wellness within a community that is substance-free.  Other elements of 'wellness', like involvement and leadership in the campus community, are strongly encouraged. This TLC will be housed in Arrington Hall.
 
 Contact Dave Fleming, Assistant Dean of Residence Life and Housing at <a href="mailto:dflemin3@umw.edu">dflemin3@umw.edu</a> if you have questions.
