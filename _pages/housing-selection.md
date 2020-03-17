@@ -9,6 +9,36 @@ permalink: >
 published: true
 post_date: 2016-01-29 15:54:49
 ---
+<h2 style="text-align: center">2020-2021 Housing Selection postponed until
+April 7<sup>th</sup>.</h2>
+With the university-wide change to remote learning and with most of our students off campus, we want to make sure that our messaging and ability to support does not conflict with updates to the ongoing coronavirus pandemic.  We feel that it is best to postpone the Housing Selection process until we can ensure maximum support, either in person or virtually.
+
+Housing Selection will be postponed and will tentatively start on April 7th with Flex Housing and TLC room selection.  The new dates for Housing Selection will be:
+<ul>
+ 	<li>TLC and Flex Housing Selection <strong>April 7th-8th</strong></li>
+ 	<li>Same Building Sign Up <strong>April 9th–10th</strong></li>
+ 	<li>Move In Crew Housing Selection <strong>April 13th-14th</strong></li>
+ 	<li>4-3-2-1 General Housing Selection <strong>April 15th-22nd</strong>
+<ul>
+ 	<li>4 Person Roommate Groups <strong>April 15th-16th</strong></li>
+ 	<li>3 Person Roommate Groups <strong>April 16th-17th</strong></li>
+ 	<li>2 Person Roommate Groups <strong>April 20th-21st</strong></li>
+ 	<li>1 Person – Individuals selecting a single space <strong>April 21st-22nd</strong></li>
+</ul>
+</li>
+</ul>
+Please rest assured that moving Housing Selection will not change your ability to participate in options like Flex Housing or Same Building Sign Up.  Your roommate groups will remain intact and you will still be able to select your space and fill the rest of the spaces with your roommate group. Keep an eye on your UMW email account for additional information and instructions.
+
+The office of Residence Life and Housing is still open and we will be happy to answer any questions you may have.  Due to the ongoing coronavirus pandemic, there may be times during normal operating hours the front desk staff is working remotely.  For the quickest response, please send an email to <a href="mailto:reslife@umw.edu">reslife@umw.edu</a>.  We are also checking voicemail periodically and will return your call as soon as possible.
+
+We ask that you do not make any in-person visits to Marye House without first confirming a meeting with a specific professional staff member.
+
+Thank You,
+
+Residence Life and Housing
+
+<hr />
+
 <h2 style="text-align: center"><strong>Students applying for 2020-2021 Housing will use the application found on the <a href="https://umw.starrezhousing.com/starrezportal" target="_blank" rel="noopener noreferrer"><u>Housing Portal</u></a>.</strong></h2>
 <h2><strong>Rediscover Home for 2020-2021!</strong></h2>
 Welcome to the returning student Housing Selection page! We are excited you are planning to live on campus with us again next year. UMW and national data shows that students who live on campus are more likely to succeed academically and have an overall more enjoyable experience at UMW.
@@ -23,10 +53,10 @@ Please note: First year students who sign an agreement to live on campus during 
  	<li>Feb 17: Themed Living Communities (TLC) application closes</li>
  	<li>Mar 10: ALL Housing and Dining Applications <strong>DUE</strong> for returning 2020-2021 students</li>
  	<li>Mar 11-13: Housing Selection for students with approved ODR Accommodations (only accommodations that affect physical placement, excludes students with ESAs, bed shakers, etc.)</li>
- 	<li>Mar 17-18: <strong>Flexible Housing</strong> and <strong>Themed Living Community</strong> Housing Selection</li>
- 	<li>March 24: <strong>Same Building Sign-Up</strong> process opens; students who have signed up to live in their same building will choose their space on this day (reminder: students must fill their entire room, apartment, or suite). Roommates must be placed at this time.</li>
- 	<li>Mar 26-27: Students who worked <strong>Move-In</strong> process opens; Roommate group leaders will select their rooms and pull in roommates during this time</li>
- 	<li>Mar 30 - Apr 3: <strong>new 4-3-2-1 process for Housing Selection</strong>; group leaders will log in during their assigned time slot and select their room space as well as assign their own roommates</li>
+ 	<li>Apr 7-8: <strong>Flexible Housing</strong> and <strong>Themed Living Community</strong> Housing Selection</li>
+ 	<li>Apr 9-10: <strong>Same Building Sign-Up</strong> process opens; students who have signed up to live in their same building will choose their space on this day (reminder: students must fill their entire room, apartment, or suite). Roommates must be placed at this time.</li>
+ 	<li>Apr 13-14: Students who worked <strong>Move-In</strong> process opens; Roommate group leaders will select their rooms and pull in roommates during this time</li>
+ 	<li>Apr 15-22: <strong>new 4-3-2-1 process for Housing Selection</strong>; group leaders will log in during their assigned time slot and select their room space as well as assign their own roommates</li>
 </ul>
 <h2><strong>Options for Upperclass Students</strong></h2>
 <ul>
