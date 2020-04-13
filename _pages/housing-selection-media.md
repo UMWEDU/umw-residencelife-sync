@@ -27,4 +27,4 @@ Are you worried that you are missing information about Housing Selection 2020-20
 
 <a href="https://youtu.be/ZP7-C-34VI4" target="_blank" rel="noopener noreferrer">Application video</a>: How to fill out the Housing Selection application.
 
-Selecting video: How to select your building, room, and roommates during Housing Selection.
+<a href="https://www.youtube.com/watch?v=Wb6mKLHTWwE&amp;feature=youtu.be">Selecting a Room video</a>: How to select your building, room, and roommates during Housing Selection.
