@@ -13,7 +13,7 @@ post_date: 2016-01-29 15:54:49
 April 7<sup>th</sup>.</h2>
 With the university-wide change to remote learning and with most of our students off campus, we want to make sure that our messaging and ability to support does not conflict with updates to the ongoing coronavirus pandemic.  We feel that it is best to postpone the Housing Selection process until we can ensure maximum support, either in person or virtually.
 
-Housing Selection will be postponed and will tentatively start on April 7th with Flex Housing and TLC room selection.  The new dates for Housing Selection will be:
+Housing Selection will be postponed and will start on April 7th with Flex Housing and TLC room selection.  The new dates for Housing Selection will be:
 <ul>
  	<li>TLC and Flex Housing Selection <strong>April 7th-8th</strong></li>
  	<li>Same Building Sign Up <strong>April 9th–10th</strong></li>
@@ -22,16 +22,14 @@ Housing Selection will be postponed and will tentatively start on April 7th with
 <ul>
  	<li>4 Person Roommate Groups <strong>April 15th-16th</strong></li>
  	<li>3 Person Roommate Groups <strong>April 16th-17th</strong></li>
- 	<li>2 Person Roommate Groups <strong>April 20th-21st</strong></li>
- 	<li>1 Person – Individuals selecting a single space <strong>April 21st-22nd</strong></li>
+ 	<li>2 Person Roommate Groups <del><strong>April 20th-21st</strong></del><strong> April 21st-22nd</strong></li>
+ 	<li>1 Person – Individuals selecting a single space <del><strong>April 21st-22nd</strong></del><strong> April 23rd-24th</strong></li>
 </ul>
 </li>
 </ul>
 Please rest assured that moving Housing Selection will not change your ability to participate in options like Flex Housing or Same Building Sign Up.  Your roommate groups will remain intact and you will still be able to select your space and fill the rest of the spaces with your roommate group. Keep an eye on your UMW email account for additional information and instructions.
 
-The office of Residence Life and Housing is still open and we will be happy to answer any questions you may have.  Due to the ongoing coronavirus pandemic, there may be times during normal operating hours the front desk staff is working remotely.  For the quickest response, please send an email to <a href="mailto:reslife@umw.edu">reslife@umw.edu</a>.  We are also checking voicemail periodically and will return your call as soon as possible.
-
-We ask that you do not make any in-person visits to Marye House without first confirming a meeting with a specific professional staff member.
+The office of Residence Life and Housing is still open and we will be happy to answer any questions you may have.  For the quickest response, please send an email to <a href="mailto:reslife@umw.edu">reslife@umw.edu</a>.  We are also checking voicemail periodically and will return your call as soon as possible.
 
 Thank You,
 
