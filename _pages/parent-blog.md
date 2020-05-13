@@ -10,6 +10,8 @@ published: true
 post_date: 2020-02-03 12:56:59
 ---
 [caption id="attachment_165" align="aligncenter" width="1024"]<a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/02/ResLifeWelcome.jpg"><img class="size-large wp-image-165" src="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/02/ResLifeWelcome-1024x322.jpg" alt="Blue banner with red writing saying Welcome Home hanging in front of Randolph Hall" width="1024" height="322" /></a> Welcome Home - UMW Residence Life[/caption]
+<h2>[wpv-post-title item="876"]</h2>
+[wpv-post-excerpt length="100" count="word" item="876"][wpv-post-read-more item="876"]
 <h2>[wpv-post-title item="874"]</h2>
 [wpv-post-excerpt length="100" count="word" item="874"][wpv-post-read-more item="874"]
 <h2>[wpv-post-title item="846"]</h2>
