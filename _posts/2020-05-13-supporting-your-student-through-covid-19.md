@@ -27,7 +27,7 @@ Below are some things that you and your student can work together to create a he
 <ul>
  	<li>If students need a break to relax or an environment to clear their head, their room is normally the place. Help your student to identify a clear workplace outside of their room (if possible) to give the student a sense of separation from school.</li>
  	<li>With social distancing being practiced, encourage your student to go outside for a walk or do other outside activities.</li>
- 	<li>Make sure that your student is getting a quality amount of sleep and preforming proper sleeping habits.</li>
+ 	<li>Make sure that your student is getting a quality amount of sleep and performing proper sleeping habits.</li>
  	<li>Have scheduled family time to allow everyone to talk and interact with each other: Netflix movie, board games, or a simple conversation.</li>
  	<li>Allow alone time for your student and for yourself.</li>
 </ul>
