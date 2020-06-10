@@ -1,6 +1,6 @@
 ---
 ID: 891
-post_title: 'FY Mini-Series: Meeting Your Roommate'
+post_title: 'First-Year Mini Series &#8211; Meeting Your Roommate'
 author: mesch
 post_excerpt: ""
 layout: post
