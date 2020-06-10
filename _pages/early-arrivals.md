@@ -20,7 +20,7 @@ Early Arrival Options:
 <h3><strong>Sponsored Group</strong></h3>
 Students sponsored by a University department with a legitimate need to arrive early for a University-sponsored program are not charged for housing; sponsors must submit a request via email using the <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2016/01/EarlyArrivalSpreadsheet.xlsx">Early Arrival Spreadsheet</a> template to <a href="mailto:reslife@umw.edu">reslife@umw.edu</a>.
 
-The deadline to sponsor early arrivals is<strong> Friday, August 9, 2019</strong>
+The deadline to sponsor early arrivals is<strong> Friday, August 7, 2020</strong>
 
 To complete the spreadsheet, each sponsor will need to know the information below for each <em>residential</em> student arriving early to campus.
 <ul>
@@ -30,7 +30,7 @@ To complete the spreadsheet, each sponsor will need to know the information belo
  	<li>Sponsor’s name, e-mail address, office phone number, and emergency contact phone number</li>
 </ul>
 <h3>Individual Requests (Upperclassmen only)</h3>
-Those upperclass students without a University sponsor may request to arrive early (no earlier than August 22) by submitting an <a href="https://umw.starrezhousing.com/starrezportal">Individual Early Arrival Request Form</a> via the Housing portal no later than Sunday, August 18<sup>th</sup> at 11:50 p.m.; there is a $30 per day fee for those approved, and without the dining plan in effect, any meals must be purchased by the student as needed. Fall meal plans start with dinner on Saturday, August 24<sup>th</sup>, 2019. Approval will be made based on the readiness of the residence halls to receive students.
+Those upperclass students without a University sponsor may request to arrive early (no earlier than August 20) by submitting an <a href="https://umw.starrezhousing.com/starrezportal">Individual Early Arrival Request Form</a> via the Housing portal no later than Sunday, August 16<sup>th</sup> at 11:50 p.m.; there is a $30 per day fee for those approved, and without the dining plan in effect, any meals must be purchased by the student as needed. Fall meal plans start with dinner on Saturday, August 22<sup>nd</sup>, 2020. Approval will be made based on individual need and readiness of the residence halls to receive students.
 
 <b><i>Please note: approval of sponsored Early Arrivals is not guaranteed.</i></b>
 
