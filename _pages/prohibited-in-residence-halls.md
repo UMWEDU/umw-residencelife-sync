@@ -35,7 +35,7 @@ post_date: 2016-01-29 15:28:17
  	<li>mopeds or other fuel-powered or motorized vehicles. Bicycles may be stored in rooms as long as a clear exit emergency path is evident. Bicycles must be registered with University Police and should be stored in bike racks/storage areas when stored outside.</li>
  	<li>outdoor grills near the residence halls or on residence balconies</li>
  	<li>outside antenna/satellite dish</li>
- 	<li>overstuffed or inflatable furniture, waterbeds, and personal lofts</li>
+ 	<li>overstuffed or inflatable furniture, waterbeds, personal lofts, or bean bag chairs</li>
  	<li>previously live cut trees, cornstalks, leaves, and hay</li>
  	<li>refrigerators 4.5 cubic feet and larger.  Only one is permitted in a single, double, and triple room; quads may have two mini-refrigerators.  Fridges must be plugged directly into the wall.  Eagle Landing and UMW Apartments are not permitted to have additional refrigerators beyond the large one provided by the University in the kitchen.</li>
  	<li>space heaters</li>
