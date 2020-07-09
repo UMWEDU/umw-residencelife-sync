@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2020-07-09 13:51:30
 ---
+By Michelle Brooks, Cece Burkett, and John Hughey
 <h3>Allowed in Rooms</h3>
 <ol>
  	<li>Question: Can students bring TVs? Do they need to get service?</li>
