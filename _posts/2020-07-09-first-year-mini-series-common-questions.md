@@ -1,6 +1,6 @@
 ---
 ID: 904
-post_title: 'First-Year Mini Series: Common Questions'
+post_title: 'First-Year Mini Series &#8211; Common Questions'
 author: mesch
 post_excerpt: ""
 layout: post
