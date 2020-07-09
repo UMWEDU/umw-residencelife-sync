@@ -9,6 +9,8 @@ permalink: >
 published: true
 post_date: 2016-01-27 19:20:44
 ---
+<h2 style="text-align: center">Please note for 2020-2021: Lofts and bunk beds will not be provided in the residence halls (including Eagle Landing and the UMW Apartments). Beds can still be adjusted from 18"-31".</h2>
+<h2 style="text-align: center">New: 3.5"-7" bed risers will be permitted for 2020-2021 only. Risers must be purchased from a retailer and be plastic or wooden; cinderblocks, concrete, etc are not permitted. Please do not bring risers with outlets or electrical running to them.</h2>
 All residents have the ability to choose the bed configuration they want. All beds are set to the standard "tall" configuration which consists of one headboard, one footboard, and the bed springs set at the highest setting (about 31" inches), with the mattress on top. Residents may lower the bed springs, bunk the beds, or loft the beds. It is entirely up to the resident to determine what bed configuration suits them best.
 
 All beds must be returned back to their original "tall" state prior to moving out (either at end of year or when moving out due to room change). Failure to do so will result in a charge of $125 billed to the student.
