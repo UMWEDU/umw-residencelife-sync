@@ -25,4 +25,7 @@ UMW Move-In is one of Residence Life and Housing’s hallmark events. We cannot 
  	<li class="p1">Check-in from 8am to 11am, with all guests exiting the buildings before 12pm</li>
  	<li class="p1">Check-in from 12pm to 3pm, with all guests exiting the buildings before 4pm</li>
 </ul>
-<p class="p1">Students will sign themselves up for a check-in time utilizing Sign-Up Genius to sign up for a timeslot. <em>Please only sign up for one timeslot</em>.</p>
+<p class="p1">Students will sign themselves up for a check-in time utilizing Sign-Up Genius to sign up for a timeslot.</p>
+
+<h2 style="text-align: center"><strong>Move-In: Before You Arrive</strong></h2>
+<h2 style="text-align: center"><strong>Move-In: Day Of</strong></h2>
