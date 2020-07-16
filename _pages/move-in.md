@@ -27,5 +27,5 @@ UMW Move-In is one of Residence Life and Housing’s hallmark events. We cannot 
 </ul>
 <p class="p1">Students will sign themselves up for a check-in time utilizing Sign-Up Genius to sign up for a timeslot.</p>
 
-<h2 style="text-align: center"><strong>Move-In: Before You Arrive</strong></h2>
-<h2 style="text-align: center"><strong>Move-In: Day Of</strong></h2>
+<h2 style="text-align: center"><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/before-you-arrive/" target="_blank" rel="noopener noreferrer"><strong>Move-In: Before You Arrive</strong></a></h2>
+<h2 style="text-align: center"><strong>Move-In: Day Of (coming soon!)</strong></h2>
