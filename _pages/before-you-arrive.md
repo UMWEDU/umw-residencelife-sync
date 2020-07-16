@@ -40,7 +40,7 @@ All residence hall rooms at UMW come with:
 </ul>
 *In some halls, residents must share drawer space within a dresser or closet space with roommates.
 
-<strong>Check out this printable <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/05/Eagle-Approved-list.pdf" target="_blank" rel="noopener noreferrer">Ultimate UMW Packing List</a> for items that are Eagle Approved and those that are not permitted in your nest.</strong>
+<strong>Check out this printable <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2020/07/COVID-Eagle-Approved-list-2020.pdf" target="_blank" rel="noopener noreferrer">Ultimate UMW Packing List</a> for items that are Eagle Approved and those that are not permitted in your nest.</strong>
 <h4>Pack S.M.A.R.T.</h4>
 <strong>S</strong>: Spend two weeks taking note of what you use at home. If you haven't used it in two weeks, don't pack it.
 
