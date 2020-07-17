@@ -9,6 +9,11 @@ permalink: >
 published: true
 post_date: 2016-01-27 19:20:44
 ---
+<h2>For 2020-2021:</h2>
+<p class="p1">ResLife was able to secure a non-UMW contractor to place loft and bunk bed parts into student rooms before Move-In occurs. Students can sign up for a loft or bunk bed here. The deadline for loft and bunk bed requests is 11:59pm on August 3. Unfortunately, requests received after August 3 will not be able to be processed.</p>
+<p class="p1">UMW makes every effort to ensure that all rooms are clean and move in ready, however, by requesting the parts to loft or bunk the bed, someone may be entering the student’s room after it has been cleaned. All bed parts will be delivered at least five days before students arrive on campus. The loft kit is the student’s responsibility and whether they chose to assemble the loft or not, they will need to keep the loft parts in their room until the end of the semester. As with all of our common areas and equipment, ResLife encourages students to sanitize and wash their hands after assembling the bed.</p>
+
+<h2>How to:</h2>
 All residents have the ability to choose the bed configuration they want. All beds are set to the standard "tall" configuration which consists of one headboard, one footboard, and the bed springs set at the highest setting (about 31" inches), with the mattress on top. Residents may lower the bed springs, bunk the beds, or loft the beds. It is entirely up to the resident to determine what bed configuration suits them best.
 
 All beds must be returned back to their original "tall" state prior to moving out (either at end of year or when moving out due to room change). Failure to do so will result in a charge of $125 billed to the student.
