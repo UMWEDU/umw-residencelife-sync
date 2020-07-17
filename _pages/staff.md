@@ -13,4 +13,4 @@ Residence Life and Housing is more than just another office on campus. Staff mem
 
 Staff consists of the Assistant Dean of Residence Life and Housing, one Associate Director, one Assistant Directors, four Area Coordinators, a Coordinator of Housing Operations, a Business and Marketing Manager, and over 100 student staff members.
 
-[umw-rss url="https://www.umw.edu/directory/atom-feed/all-departments/?department-ids=487" items="50" source="false" date="false" read_more="false" new_window="true" title="false" thumbnail="true" cache="7200" content="true"]
+[umw-rss url="https://www.umw.edu/directory/atom-feed/all-departments/?department-ids=487" items="50" source="false" date="false" read_more="false" new_window="true" title="false" thumbnail="true" cache="0" content="true"]
