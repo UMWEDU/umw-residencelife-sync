@@ -11,6 +11,8 @@ post_date: 2016-06-16 11:25:33
 ---
 <h2><strong>Before you arrive:</strong></h2>
 <ul>
+ 	<li>Read a sample of the <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2020/07/FY-brochure-SAMPLE.pdf">first-year Fall Opening Guide</a> or <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2020/07/UC-brochure-SAMPLE.pdf">upperclass Fall Opening Guide</a>. You should have received it in your UMW email account.</li>
+ 	<li>Sign up for a Move-In timeslot according to your designated day via the link in the Fall Opening Guide or on your hall's <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/move-in-day-of/">Move-In Day Of</a> instructions sheet.</li>
  	<li>Read <a href="http://publications.umw.edu/eagleessentials/">Eagle Essentials.</a></li>
  	<li>Read the residential policies in the <a href="http://publications.umw.edu/student-handbook/">student handbook.</a></li>
  	<li>Contact your roommate(s) to get to know each other and to discuss what items you will share and who is bringing what. You may contact them through our <a href="https://umw.starrezhousing.com/starrezportal">Housing Portal</a>.</li>
