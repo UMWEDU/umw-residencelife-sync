@@ -34,7 +34,6 @@ Please click on the link for your assigned building for a detailed instruction s
 Please be mindful that August in Virginia can be hot and humid and sometimes a bit rainy. Please pack and dress accordingly. We encourage you to bring water and be prepared for some potential wait times as we usher in over 500 students each Move-In day.
 
 *Don’t forget to label all boxes with last name, first initial, building, and room number
-<h3>More information about Move-In can be found in the <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2020/07/UC-brochure-SAMPLE.pdf">Returner &amp; Transfer Fall Opening Guide</a> or the <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2020/07/FY-brochure-SAMPLE.pdf">First-Year Fall Opening Guide</a>.</h3>
 <h2><strong>Move-In Day Questions</strong></h2>
 UMW Residence Life and Housing has done its best to provide you with all information that you will need to make your move-in experience is as smooth and effortless as possible. In the event you have questions <strong><u>on Move-In day,</u></strong> you can get them answered in person at the following locations on Campus:
 <ul>
