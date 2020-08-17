@@ -10,13 +10,14 @@ published: true
 post_date: 2016-01-29 19:37:29
 ---
 <h2>Welcome</h2>
-UMW Move-In is one of Residence Life and Housing’s hallmark events. We cannot wait to welcome you to campus this August! Please review the following information in order to make your transition to campus living as smooth as possible. If you have any questions, please feel free to contact us at <a href="mailto:reslife@umw.edu">reslife@umw.edu</a>.
+UMW Move-In is one of Residence Life and Housing’s hallmark events. We cannot wait to welcome you to campus this September! Please review the following information in order to make your transition to campus living as smooth as possible. If you have any questions, please feel free to contact us at <a href="mailto:reslife@umw.edu">reslife@umw.edu</a>.
 <h2>Move-In Dates &amp; Times:</h2>
-<strong>Thursday, August 20<sup>th </sup>- Saturday, August 22<sup>nd</sup>, 8:00 a.m. – 4:00 p.m. </strong>—All First-Year Students
-<strong>Thursday, August 20<sup>th</sup>, 8:00 a.m. – 4:00 p.m. </strong>—All Transfer Students
-<strong>Saturday, August 22<sup>nd </sup>- Sunday, August 23<sup>rd</sup>, 8:00 a.m. – 4:00 p.m. </strong>—All Upperclass Students
+<strong>Thursday, September 10<sup>th </sup>- Saturday, September 12<sup>th</sup>, 8:00 a.m. – 4:00 p.m. </strong>—All First-Year Students
+<strong>Thursday, September 12<sup>th</sup>, 8:00 a.m. – 4:00 p.m. </strong>—All Transfer Students
+<strong>Saturday, September 12<sup>th </sup>- Sunday, September 13<sup>th</sup>, 8:00 a.m. – 4:00 p.m. </strong>—All Returning Students
+<strong>Thursday, September 10<sup>th </sup>- Sunday, September 13<sup>th</sup>, 8:00 a.m. – 4:00 p.m. </strong>—Eagle Landing residents
 <h3>First-Year Students</h3>
-<p class="p1">All first-year students will move in August 20-22. Students will sign up for a morning or afternoon timeslot (below) on the day designated for their FSEM Living and Learning Community. This allows the New Student Programs staff to begin your tailored onboarding experience.</p>
+<p class="p1">All first-year students will move in September 10-12. Students will sign up for a morning or afternoon timeslot (below) on the day designated for their FSEM Living and Learning Community. This allows the New Student Programs staff to begin your tailored onboarding experience.</p>
 
 <h3>All Students</h3>
 <p class="p1">The two shifts available on each day will be:</p>
