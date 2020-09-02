@@ -16,7 +16,7 @@ Even if you already live on campus, the information about on campus living can b
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/before-you-arrive/">Move-in: Before you Arrive</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/move-in-day-of/">Move-in: Day of</a></li>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/early-arrivals/">Early Arrivals</a></li>
+ 	<li>Early Arrivals</li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/prohibited-in-residence-halls/">Prohibited in Residence Halls</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/what-to-bring/">What to Bring</a></li>
 </ul>
