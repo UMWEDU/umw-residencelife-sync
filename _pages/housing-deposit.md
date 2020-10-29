@@ -22,6 +22,6 @@ Attn: Cece Burkett
 1301 College Avenue
 Fredericksburg, VA 22401
 
-To pay a housing deposit in cash, email <a href="mailto:cburket@umw.edu">cburket@umw.edu</a> to make arrangements to bring exact change to Marye House.
+To pay a housing deposit in cash, email <a href="mailto:cburket3@umw.edu">cburket3@umw.edu</a> to make arrangements to bring exact change to Marye House.
 
 Students <em>returning </em>to on-campus housing may submit a housing deposit online through the On-Campus Housing and Dining Agreement found on the housing portal.
