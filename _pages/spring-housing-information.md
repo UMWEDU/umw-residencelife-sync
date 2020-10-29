@@ -24,7 +24,7 @@ For information about applying for housing accommodation, please visit the <a hr
 <h3>Tuesday, November 2</h3>
 Students submitting a Spring Housing and Dining Agreement by this date will be placed in the first round of spring housing assignments, subject to availability. All applications received after this date will be guaranteed housing and receive housing assignments on a rolling basis.
 <h3><em>Housing Assignments and Communication</em></h3>
-Housing assignments will be sent to a student's UMW email address. Students applying by November 2nd can keep an eye on their email in mid-November to receive their room assignment and other important information about spring housing. Room assignments and roommate information can also be viewed on the Application Status page.
+Housing assignments will be sent to a student's UMW email address. Students applying by November 2nd can keep an eye on their email in mid-November to receive their room assignment and other important information about spring housing. Room assignments and roommate information can also be viewed on the Application Status page in the housing portal.
 <h3><em>Spring Move-In</em></h3>
 Information about spring move-in will be included in the housing assignment letter sent to students. More information regarding spring move-in will be published on this page when available.
 
