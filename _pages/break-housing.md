@@ -9,35 +9,31 @@ permalink: >
 published: true
 post_date: 2016-01-29 16:01:45
 ---
-<h2 style="text-align: center">During Thanksgiving, Winter, and Spring Breaks, those students who need break housing must register with an RA or contact Residence Life after reading the information below.</h2>
-<h3>Important Break Housing Information</h3>
-All residents who need housing during a break period must register with an RA or contact Residence Life. Only those registered will have card access to their residence halls.
-
-You can contact Residence Life by emailing <a href="mailto:reslife@umw.edu">reslife@umw.edu</a> or while the university is closed by calling the Eagle Landing front desk at (540) 654-2458.
-
-For more information about the closing dates, the application process, meal service, and safety tips for during breaks, please see below.
+<h2 style="text-align: center">On November <strong>21<sup>st</sup></strong>, Residence halls will close for Thanksgiving and Winter Break. Any student requiring housing after this date must petition to remain on campus and be approved.</h2>
+<h3>Petition to Remain on Campus after November 21st</h3>
+Students who require housing after residence halls close on November 21<sup>st</sup> will need to <a href="https://umw.presence.io/form/petition-to-remain-on-campus">petition to remain on-campus</a> during this period<strong>. Approval must be received in order to remain on campus; approval is not guaranteed. </strong>Students can only petition to remain on campus for one of the following periods:
+<ol>
+ 	<li>Until the end of fall semester (Nov. 21 – Dec. 12)</li>
+ 	<li>Until the end of fall semester and the entirety of winter break (Nov. 21 – Jan. 22)</li>
+</ol>
 <h3>Deadlines</h3>
-<strong>Thanksgiving &amp; Spring Breaks:
-</strong>All students who need break housing during Thanksgiving or Spring Break must let an RA know by the Friday the week before the residence halls close for break.
+Petitions to remain on campus should be submitted for review no later than November 10<sup>th</sup>, 2020.
+<h3>Decisions</h3>
+A Student Affairs committee will review each petition based on individual need. Petition to remain approval is not guaranteed. Decisions will be communicated with students via UMW email as soon as they are finalized. Please note: Petitions for only a portion of winter break or for non-essential reasons will not be approved.
+<h3>Cost</h3>
+Students approved to remain on campus after residence halls close will be charged for the <em>entirety </em>of the approved period. Students remaining until the end of fall semester will receive housing charges determined by their housing assignment.  After December 12<sup>th</sup>, all approved students will receive a flat housing charge for winter break. Meal plans will be optional for those approved to remain and will include an additional cost. See below for a break-down of housing and meal plan charges.
 
-<strong>Winter Break:</strong>
-All students who need break housing during Winter Break must let an RA know by the last day of classes for the Fall semester.
-<h3>Frequently Asked Questions</h3>
-<h4>Who should apply for Break Housing?</h4>
-Any student meeting the following conditions should apply for break housing by the posted deadline:
+<strong>Students approved through fall semester end (Nov. 21 - Dec. 12)</strong>
 <ul>
- 	<li>Student is unable to leave for the break.</li>
- 	<li>Student is unable to leave until after the residence halls have closed.</li>
- 	<li>Student needs to return prior to the residence halls reopening.</li>
+ 	<li>Room cost will be determined by room assignment. This cost is between $675 - $1163 depending on room location and type.</li>
+ 	<li>Meal plans are optional after November 21st. If a student opts in, their current meal plan will be extended through the end of the semester. This cost is between $244 - $541 depending on the meal plan.</li>
 </ul>
-<h4>What is the cost for Break Housing?</h4>
-There is no cost for Break Housing at this time.
-<h4>Are meals served during breaks?</h4>
-Dining Services is closed for all break periods. Visit <a href="https://umw.sodexomyway.com/">UMW Dining</a> for more information. Students remaining on campus during breaks are responsible for making alternate arrangements for meals.
-<h4>How do I help ensure my personal safety on campus during break periods?</h4>
-UMW Police Officers patrol the campus during break periods, but everyone needs to do their part to assist in the effort to ensure their own safety. Please take the following precautions to help ensure the safety and security of yourself and your personal belongings:
+<strong>Students approved through fall semester end and entire winter break (Nov. 21 - Jan. 22)</strong>
 <ul>
- 	<li>Lock your room door and apartment/suite door at all times.</li>
- 	<li>Walk with someone whenever possible or call UMW Police at (540) 654-1025 or (540) 654-4444 for an escort.</li>
- 	<li>Call the Police to report any suspicious persons, concerns, or problems.</li>
+ 	<li>Room cost will be determined by room assignment until the end of the semester. This cost is between $675 - $1163 depending on room location and type. An additional flat room charge of $1260 will be assessed for the break period.</li>
+ 	<li>Meal plans are optional after November 21st. If a student opts in, their current meal plan will be extended through the end of the semester. This cost is between $244 - $541 depending on the meal plan. An additional $8/day charge will be assessed for the break period, totaling $336.</li>
 </ul>
+<a href="https://www.umw.edu/financialaid/cares-act/">Cares Act</a> funding is available for those who qualify to offset housing and meal costs.  If you have any questions, please contact <a href="https://www.umw.edu/financialaid/">Financial Aid</a>.
+<h4>Expectations</h4>
+Students will be expected to reside on campus for the entirety of the approved time frame, rather than coming and going from campus.
+<h4></h4>
