@@ -40,7 +40,7 @@ Even if you already live on campus, the information about on campus living can b
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/spring-2017-housing-information/housing-deposit/">Housing Deposit Information</a></li>
 </ul>
 </li>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/spring-housing-information/">Spring 2020 Housing Information</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/spring-housing-information/">Spring 2021 Housing Information</a></li>
 </ul>
 <h2>Year Round</h2>
 <ul>
