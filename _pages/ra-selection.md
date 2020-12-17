@@ -28,7 +28,7 @@ The Resident Assistant application never closes. There are priority guidelines f
 <h3>Individual Interviews</h3>
 Candidates are interviewed by staff members of the Office of Residence Life and Housing. You can expect to be asked a series of questions pertaining to your interest in the role, awareness of the position, leadership potential, community building, and multiculturalism. The interview will take approximately 45 minutes.
 <h3>Group Process Interviews</h3>
-Group Process interviews are essentially an experiential interview. As long as all application materials have been submitted and academic requirements are met, all RA applicants will participate. During Group Process interviews, you will be led through a series of interactive activities by two experienced facilitators. You will also be observed and subsequently evaluated by members of the Residence Life and Housing team. The evaluators will be observing how you interact with your peers, your leadership skills, and the way you espouse or demonstrate the qualities that we are looking for in our RA staff.
+Group Process interviews are essentially an experiential interview. As long as all application materials have been submitted and academic requirements are met, all RA applicants will participate. During Group Process interviews, you will be led through a series of interactive activities by experienced facilitators. You will also be observed and subsequently evaluated by members of the Residence Life and Housing team. The evaluators will be observing how you interact with your peers, your leadership skills, and the way you espouse or demonstrate the qualities that we are looking for in our RA staff.
 <h3>Alternate Pool</h3>
 The Alternate Pool is for those candidates for the Resident Assistant position who are qualified and have the skills to be a Resident Assistant, but we, unfortunately, do not have a position available at the time. If there should be a Resident Assistant position vacancy, professional staff from the Office of Residence Life and Housing will review and select candidates from the Alternate Pool. Candidates in the Alternate Pool will be notified via phone and e-mail if they are offered a position.
 
@@ -36,16 +36,16 @@ Alternate Pool candidates are eligible for hire until the next RA Selection Proc
 <h3>RA Training<u>
 </u></h3>
 Resident Assistant Training is mandatory for all hired RAs. Resident Assistants come back early in August and January for training. Housing and meals are provided during this time.
-<h3>RA Classes</h3>
-The RA Class is an opportunity to get further acquainted with the Office of Residence Life and Housing, meet your fellow staff members for the next year, and complete paperwork pertaining to employment. Classes are TBD.  Multiple sections will be offered each week to manage class size and schedules.  You must attend one class a week which will last one hour.  We will ask that you attend the same section each week as it will allow for a more cohesive and engaging experience for all participants.
+<h3>RA Class</h3>
+The RA Class is an opportunity to get further acquainted with the Office of Residence Life and Housing, meet your fellow staff members for the next year, and complete paperwork pertaining to employment. Class time is TBD.  The class will be held virtually.
 <h3>Fall RA Training</h3>
 Fall training takes place in the month of August and is designed to teach RAs the necessary skills to be a residential leader in our communities. At the end of the training, RAs have the practical knowledge to carry out RA responsibilities and a philosophical understanding of why those responsibilities exist. In addition, RAs bond with other RAs all of whom will be great resources to build community in our residence halls.
 <h3>Winter Training</h3>
 Winter training takes place in the month of January. RAs will return to campus before other UMW students. Winter training is designed to introduce and train new RAs, to further strengthen the cohesiveness of the group, and to redress problematic areas of the fall semester.
 <h3>RA Benefits</h3>
-Resident Assistants receive a reduced room rate credit and a stipend paid out over 18 equal payments. While the benefits of a reduced room rate and stipend are certainly a perk, those students who are only applying, for this reason, are encouraged to think again. The RA position is a job. It requires the person to be truly dedicated to making living in the residence halls a positive experience for others. RA benefits are subject to change based on budgetary allocations and administrative decisions. Finalized RA compensation will be outlined in the offer letter for review prior to acceptance of the position.
+Resident Assistants receive a reduced room rate credit and a stipend paid out over 18 equal payments. The RA position requires someone who is truly dedicated to making living in the residence halls a positive experience for others in order to be successful. Due to the level of commitment needed, we encourage applicants who are only considering the stipend and room credit to consider whether or not they will be successful in the RA role. RA benefits are subject to change based on budgetary allocations and administrative decisions. Finalized RA compensation will be outlined in the offer letter for review prior to acceptance of the position.
 
-Other benefits RAs received include:
+Other benefits RAs receive include:
 
 - Professional Development opportunities (conference attendance, training, etc…)
 - Leadership Development
