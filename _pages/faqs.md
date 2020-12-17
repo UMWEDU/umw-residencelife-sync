@@ -54,7 +54,7 @@ All residential students have questions about living on campus; you are not alon
 </strong>The only pet permitted in the residence halls is underwater fish in only one tank no larger than 10 gallons (one per room).  Residents found in violation will be fined $150 and given 48 hours to remove the animal from the premises. If the animal is not removed, we have no option but to turn it over to Animal Control, refer the incident to the Office of Student Conduct and Responsibility, and add a fine of $50 per day.
 
 <strong>Do all of the residence halls have elevators?
-</strong>Not all residence halls have elevators.  The residence halls with elevators are Alvey, Arrington, Jefferson, Marshall, Mason, and Randolph.
+</strong>Not all residence halls have elevators.  The residence halls with elevators are Alvey, Arrington, Jefferson, Marshall, Mason, Randolph, and Willard.
 
 <strong>Is there a housekeeping service to clean my room and bathroom?
 </strong>There is no housekeeping service to clean individual residence hall rooms or suite-style bathrooms. Housekeeping staff clean hall bathrooms that are shared by an entire floor.
