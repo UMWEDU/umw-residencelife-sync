@@ -17,10 +17,18 @@ Resident Assistants are the foundation of the Housing staff and have the respons
 <h2>Resident Assistant Job Description 2020-2021</h2>
 The <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/12/UMW-RA-Job-Description-2020-2021.pdf">2020-2021 RA job description</a> is available online here.
 <h3>How to Apply</h3>
-View and apply for the RA position by visiting careers.umw.edu and clicking "Student Employment." You will be able to search for the application on that page.
+View and apply for the RA position by visiting careers.umw.edu and clicking "Student Employment." You will be able to search for the application on that page. The priority deadline for applying is February 7th, 2021.
 <h2>Important Information and Timeline</h2>
 <h3>Information Sessions</h3>
 Information Sessions are meet and greet informational meetings that any student interested in applying to be a Resident Assistant can attend. Current Resident Assistants and professional staff members will provide you with background information about what the RA job entails, what the application process looks like, what to expect throughout the process, and can answer almost any question you may have.
+
+Information Sessions will take place on the following dates via zoom:
+<ul>
+ 	<li>January 27, 2021 at 7pm</li>
+ 	<li>February 1st, 2021 at 12pm</li>
+ 	<li>February 5th, 2021 at 6pm</li>
+</ul>
+Zoom links will be posted on the UMW Residence Life and Housing social media pages.
 <h3>Resident Assistant Application</h3>
 View and apply for the RA position by visiting careers.umw.edu and clicking "Student Employment." You will be able to search for the application on that page. The application consists of biographical information and asks for one professional reference. Once you have completed the application, someone from the Residence Life and Housing team will reach out to you to confirm a date and time for your individual and group process interviews.
 
