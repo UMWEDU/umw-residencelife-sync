@@ -15,7 +15,7 @@ As a member of the Residence Life and Housing staff, RAs works to foster the dev
 
 Resident Assistants are the foundation of the Housing staff and have the responsibility to serve as an administrator, organizer, programmer and role model for the residents of their hall or apartment areas. The RA position is considered the principal out-of-class activity and any competing employment, interests and activities must be approved in advance by the Office of Residence Life and Housing.
 <h2>Resident Assistant Job Description 2020-2021</h2>
-The <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2019/12/UMW-RA-Job-Description-2020-2021.pdf">2020-2021 RA job description</a> is available online here.
+The <a href="http://www.umw.edu/residencelife/wp-content/uploads/sites/30/2020/12/UMW-RA-Job-Description-2021-2022.pdf">2021-2022 RA job description</a> is available online here.
 <h3>How to Apply</h3>
 View and apply for the RA position by visiting careers.umw.edu and clicking "Student Employment." You will be able to search for the application on that page. The priority deadline for applying is February 7th, 2021.
 <h2>Important Information and Timeline</h2>
