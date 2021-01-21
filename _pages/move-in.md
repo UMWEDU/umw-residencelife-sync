@@ -20,4 +20,4 @@ Based on the most recent public health advisories, our guest policy has been rev
 
 Housing and meal plan charges are being adjusted to reflect students’ fewer number of days on campus for the Spring semester. Those adjustments will post to students’ accounts early next week and can be viewed in <a href="https://adminfinance.umw.edu/studentaccounts/eaglepay/">EaglePay</a>.
 <h3>New Students</h3>
-<p class="p1">For entering the hall, you will need an Eagle One card. The Eagle One office will be open on January 30th and January 31st from 10am-2pm.</p>
+<p class="p1">For entering the hall, you will need an Eagle One card. The Eagle One office is located in Lee Hall will be open on January 30th and January 31st from 10am-2pm.</p>
