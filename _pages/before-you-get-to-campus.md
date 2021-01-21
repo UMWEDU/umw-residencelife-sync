@@ -9,10 +9,11 @@ permalink: >
 published: true
 post_date: 2016-01-27 19:22:35
 ---
-Even if you already live on campus, the information about on campus living can be found here. From housing selection to bed bunking/lofting, and move in, we have the pages and forms you seek.
+Even if you already live on campus, the information about on-campus living can be found here. From housing selection to bed bunking/lofting, and move in, we have the pages and forms you seek.
 <h2>Fall</h2>
 <ul>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/">Move In Information - Fall 2020</a>
+ 	<li>Move-In Information</li>
+ 	<li style="list-style-type: none">
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/before-you-arrive/">Move-in: Before you Arrive</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/move-in-day-of/">Move-in: Day of</a></li>
@@ -23,7 +24,7 @@ Even if you already live on campus, the information about on campus living can b
 </li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/">New Student Housing</a>
 <ul>
- 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/on-campus-living-requirement/">On Campus Living Requirement</a></li>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/on-campus-living-requirement/">On-Campus Living Requirement</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/new-student-housing/faqs/">FAQs</a></li>
 </ul>
 </li>
@@ -31,6 +32,7 @@ Even if you already live on campus, the information about on campus living can b
 <h2>Spring</h2>
 <div class="one-half">
 <ul>
+ 	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/">Move-In Information - Spring 2021</a></li>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/">Housing Selection 2020-2021</a>
 <ul>
  	<li><a href="http://www.umw.edu/residencelife/before-you-get-to-campus/housing-selection/housing-selection-media/" target="_blank" rel="noopener noreferrer">Housing Selection Media</a></li>
