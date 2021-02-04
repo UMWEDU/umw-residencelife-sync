@@ -20,6 +20,7 @@ The housing selection season is an exciting time for our office.  We will be ha
 <hr />
 
 <h2 style="text-align: center"><strong>Students applying for 2021-2022 Housing will use the application found on the <a href="https://umw.starrezhousing.com/starrezportal" target="_blank" rel="noopener noreferrer"><u>Housing Portal</u></a>.</strong></h2>
+&nbsp;
 <h2><strong>Returning Students</strong></h2>
 Welcome to the returning student Housing Selection page! We are excited you are planning to live on campus with us again next year. UMW and national data shows that students who live on campus are more likely to succeed academically and have an overall more enjoyable experience at UMW.
 
