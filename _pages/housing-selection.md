@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2016-01-29 15:54:49
 ---
-<h2 style="text-align: center">2021-2022 Housing Selection</h2>
 It is time for another year of housing selection! Housing selection is a virtual process that will take place in the housing portal beginning in mid-March.
 
 Last year was the first time we had housing selection occur virtually and we were blown away by the results! Please read through the information below to learn more about the available selection processes and your options. We are here to support you through every step of this process.
